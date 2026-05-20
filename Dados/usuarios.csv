@@ -1,0 +1,5001 @@
+id_usuario,idade,genero,canal_escolhido,variante_escolhida
+1,56,Feminino,Google Ads,A
+2,46,Outro,Meta Ads,B
+3,32,Feminino,Google Ads,A
+4,60,Masculino,Orgânico,B
+5,25,Feminino,Email Marketing,A
+6,38,Masculino,Google Ads,B
+7,56,Masculino,Meta Ads,A
+8,36,Feminino,Google Ads,B
+9,40,Feminino,Meta Ads,B
+10,28,Feminino,Meta Ads,A
+11,28,Masculino,Google Ads,A
+12,41,Feminino,Google Ads,B
+13,53,Masculino,Meta Ads,B
+14,57,Outro,Meta Ads,B
+15,41,Outro,Google Ads,A
+16,20,Feminino,Meta Ads,B
+17,39,Feminino,Meta Ads,A
+18,19,Feminino,Orgânico,B
+19,41,Feminino,Google Ads,B
+20,61,Masculino,Orgânico,A
+21,47,Masculino,Meta Ads,B
+22,55,Feminino,Google Ads,B
+23,19,Feminino,Meta Ads,B
+24,38,Masculino,Meta Ads,A
+25,50,Feminino,Email Marketing,A
+26,29,Masculino,Google Ads,B
+27,39,Feminino,Meta Ads,A
+28,61,Feminino,Google Ads,A
+29,42,Feminino,Email Marketing,B
+30,44,Feminino,Google Ads,A
+31,59,Masculino,Email Marketing,B
+32,45,Masculino,Email Marketing,A
+33,33,Feminino,Google Ads,A
+34,32,Feminino,Orgânico,B
+35,64,Masculino,Email Marketing,B
+36,61,Feminino,Google Ads,B
+37,20,Masculino,Meta Ads,B
+38,54,Feminino,Meta Ads,B
+39,24,Feminino,Google Ads,A
+40,38,Masculino,Google Ads,A
+41,26,Masculino,Google Ads,A
+42,56,Feminino,Google Ads,B
+43,35,Feminino,Meta Ads,A
+44,21,Feminino,Google Ads,A
+45,42,Feminino,Orgânico,A
+46,31,Feminino,Orgânico,A
+47,26,Outro,Google Ads,A
+48,43,Feminino,Meta Ads,B
+49,19,Feminino,Meta Ads,A
+50,37,Masculino,Email Marketing,B
+51,45,Masculino,Google Ads,B
+52,64,Feminino,Google Ads,A
+53,24,Masculino,Email Marketing,B
+54,61,Feminino,Email Marketing,A
+55,25,Feminino,Orgânico,B
+56,64,Feminino,Orgânico,B
+57,52,Masculino,Google Ads,B
+58,31,Masculino,Meta Ads,B
+59,34,Masculino,Google Ads,A
+60,53,Masculino,Google Ads,A
+61,57,Masculino,Orgânico,B
+62,21,Feminino,Google Ads,A
+63,19,Feminino,Meta Ads,A
+64,23,Feminino,Email Marketing,A
+65,59,Feminino,Google Ads,B
+66,21,Masculino,Email Marketing,A
+67,46,Feminino,Email Marketing,B
+68,35,Feminino,Meta Ads,A
+69,43,Masculino,Google Ads,A
+70,61,Feminino,Google Ads,B
+71,51,Masculino,Meta Ads,A
+72,27,Feminino,Google Ads,B
+73,53,Outro,Google Ads,A
+74,31,Masculino,Email Marketing,A
+75,48,Feminino,Google Ads,A
+76,32,Feminino,Orgânico,B
+77,25,Outro,Google Ads,B
+78,31,Masculino,Meta Ads,B
+79,40,Feminino,Email Marketing,A
+80,57,Masculino,Google Ads,B
+81,38,Masculino,Google Ads,A
+82,33,Masculino,Meta Ads,B
+83,62,Outro,Orgânico,B
+84,35,Feminino,Meta Ads,B
+85,64,Feminino,Google Ads,A
+86,41,Feminino,Google Ads,B
+87,43,Masculino,Email Marketing,A
+88,42,Masculino,Email Marketing,B
+89,62,Masculino,Meta Ads,A
+90,58,Masculino,Orgânico,A
+91,46,Masculino,Meta Ads,A
+92,32,Masculino,Meta Ads,A
+93,62,Masculino,Google Ads,A
+94,18,Masculino,Meta Ads,B
+95,42,Masculino,Meta Ads,B
+96,24,Masculino,Google Ads,B
+97,26,Outro,Meta Ads,B
+98,41,Feminino,Orgânico,A
+99,18,Outro,Meta Ads,B
+100,61,Masculino,Meta Ads,A
+101,25,Masculino,Email Marketing,B
+102,41,Feminino,Google Ads,A
+103,28,Masculino,Meta Ads,A
+104,34,Masculino,Orgânico,A
+105,25,Masculino,Meta Ads,A
+106,52,Masculino,Google Ads,A
+107,52,Masculino,Google Ads,A
+108,50,Masculino,Orgânico,B
+109,22,Feminino,Meta Ads,B
+110,59,Masculino,Orgânico,A
+111,56,Masculino,Meta Ads,A
+112,58,Feminino,Meta Ads,B
+113,45,Masculino,Orgânico,A
+114,24,Masculino,Meta Ads,B
+115,26,Feminino,Google Ads,A
+116,25,Masculino,Meta Ads,B
+117,29,Masculino,Orgânico,B
+118,51,Feminino,Google Ads,B
+119,50,Masculino,Google Ads,B
+120,40,Feminino,Google Ads,A
+121,41,Feminino,Email Marketing,A
+122,54,Masculino,Google Ads,B
+123,52,Feminino,Meta Ads,B
+124,61,Feminino,Meta Ads,A
+125,57,Masculino,Meta Ads,B
+126,39,Feminino,Meta Ads,A
+127,44,Masculino,Google Ads,A
+128,52,Feminino,Meta Ads,B
+129,18,Masculino,Orgânico,A
+130,52,Masculino,Orgânico,B
+131,54,Masculino,Google Ads,A
+132,64,Feminino,Orgânico,A
+133,31,Masculino,Meta Ads,B
+134,20,Masculino,Orgânico,B
+135,18,Masculino,Meta Ads,A
+136,22,Feminino,Meta Ads,A
+137,43,Feminino,Email Marketing,A
+138,31,Feminino,Orgânico,A
+139,56,Feminino,Meta Ads,B
+140,44,Feminino,Google Ads,B
+141,26,Masculino,Google Ads,A
+142,32,Feminino,Google Ads,A
+143,32,Feminino,Google Ads,B
+144,43,Outro,Google Ads,B
+145,59,Feminino,Orgânico,B
+146,30,Masculino,Google Ads,B
+147,49,Masculino,Meta Ads,A
+148,56,Feminino,Google Ads,A
+149,49,Feminino,Google Ads,B
+150,21,Feminino,Google Ads,B
+151,47,Feminino,Google Ads,A
+152,54,Feminino,Orgânico,A
+153,40,Masculino,Orgânico,A
+154,56,Feminino,Google Ads,B
+155,62,Masculino,Meta Ads,A
+156,32,Masculino,Meta Ads,A
+157,60,Masculino,Orgânico,B
+158,46,Feminino,Orgânico,A
+159,53,Masculino,Meta Ads,A
+160,30,Masculino,Meta Ads,A
+161,49,Feminino,Orgânico,A
+162,24,Masculino,Google Ads,A
+163,39,Feminino,Meta Ads,B
+164,45,Feminino,Email Marketing,B
+165,19,Feminino,Orgânico,A
+166,59,Feminino,Meta Ads,A
+167,62,Masculino,Meta Ads,B
+168,23,Feminino,Google Ads,A
+169,45,Masculino,Meta Ads,A
+170,45,Feminino,Meta Ads,B
+171,61,Masculino,Meta Ads,A
+172,61,Feminino,Orgânico,A
+173,37,Masculino,Orgânico,A
+174,47,Masculino,Google Ads,A
+175,28,Masculino,Meta Ads,A
+176,45,Masculino,Meta Ads,A
+177,42,Feminino,Meta Ads,A
+178,56,Masculino,Google Ads,B
+179,50,Feminino,Meta Ads,A
+180,18,Outro,Orgânico,A
+181,44,Feminino,Meta Ads,B
+182,30,Masculino,Email Marketing,B
+183,58,Masculino,Email Marketing,A
+184,20,Feminino,Google Ads,A
+185,56,Masculino,Google Ads,A
+186,23,Masculino,Email Marketing,B
+187,25,Feminino,Email Marketing,A
+188,44,Feminino,Google Ads,A
+189,26,Feminino,Google Ads,A
+190,54,Masculino,Google Ads,A
+191,50,Feminino,Email Marketing,A
+192,59,Masculino,Google Ads,A
+193,61,Masculino,Meta Ads,B
+194,41,Feminino,Orgânico,B
+195,32,Masculino,Google Ads,A
+196,49,Masculino,Meta Ads,A
+197,49,Masculino,Google Ads,A
+198,41,Feminino,Orgânico,A
+199,58,Feminino,Google Ads,B
+200,29,Feminino,Meta Ads,B
+201,56,Feminino,Meta Ads,A
+202,19,Masculino,Google Ads,A
+203,20,Masculino,Google Ads,A
+204,54,Masculino,Meta Ads,B
+205,34,Masculino,Google Ads,B
+206,19,Feminino,Orgânico,B
+207,19,Feminino,Orgânico,B
+208,45,Masculino,Meta Ads,A
+209,40,Masculino,Meta Ads,B
+210,54,Masculino,Meta Ads,B
+211,49,Masculino,Orgânico,B
+212,50,Feminino,Meta Ads,A
+213,18,Masculino,Google Ads,B
+214,36,Masculino,Google Ads,B
+215,19,Feminino,Meta Ads,B
+216,61,Masculino,Meta Ads,B
+217,43,Feminino,Meta Ads,B
+218,49,Masculino,Google Ads,B
+219,23,Feminino,Orgânico,B
+220,49,Outro,Google Ads,B
+221,21,Feminino,Google Ads,A
+222,28,Masculino,Meta Ads,A
+223,34,Feminino,Google Ads,A
+224,55,Masculino,Meta Ads,B
+225,41,Masculino,Google Ads,B
+226,22,Masculino,Meta Ads,B
+227,51,Masculino,Meta Ads,A
+228,23,Feminino,Google Ads,A
+229,39,Feminino,Google Ads,A
+230,28,Feminino,Orgânico,A
+231,33,Feminino,Meta Ads,B
+232,50,Feminino,Meta Ads,A
+233,26,Masculino,Google Ads,B
+234,23,Masculino,Meta Ads,B
+235,33,Feminino,Meta Ads,A
+236,46,Masculino,Meta Ads,B
+237,20,Feminino,Orgânico,A
+238,37,Masculino,Google Ads,A
+239,53,Masculino,Google Ads,B
+240,36,Masculino,Orgânico,B
+241,43,Masculino,Email Marketing,A
+242,20,Masculino,Google Ads,A
+243,36,Feminino,Meta Ads,A
+244,37,Masculino,Google Ads,A
+245,49,Feminino,Google Ads,B
+246,24,Masculino,Google Ads,B
+247,58,Masculino,Google Ads,A
+248,50,Masculino,Orgânico,B
+249,57,Feminino,Meta Ads,A
+250,56,Masculino,Google Ads,A
+251,35,Feminino,Google Ads,B
+252,57,Masculino,Orgânico,B
+253,18,Feminino,Google Ads,B
+254,28,Masculino,Meta Ads,B
+255,45,Feminino,Google Ads,B
+256,42,Feminino,Meta Ads,A
+257,40,Feminino,Google Ads,B
+258,48,Masculino,Google Ads,B
+259,47,Masculino,Google Ads,A
+260,59,Masculino,Google Ads,B
+261,52,Feminino,Meta Ads,A
+262,24,Feminino,Meta Ads,A
+263,33,Feminino,Google Ads,B
+264,43,Masculino,Google Ads,A
+265,19,Masculino,Meta Ads,B
+266,18,Masculino,Meta Ads,A
+267,29,Outro,Email Marketing,B
+268,22,Feminino,Meta Ads,A
+269,54,Feminino,Meta Ads,A
+270,49,Masculino,Meta Ads,A
+271,26,Feminino,Email Marketing,B
+272,58,Feminino,Orgânico,B
+273,52,Masculino,Google Ads,B
+274,36,Feminino,Google Ads,A
+275,33,Feminino,Google Ads,A
+276,20,Feminino,Meta Ads,A
+277,37,Feminino,Orgânico,B
+278,41,Masculino,Meta Ads,A
+279,50,Masculino,Google Ads,B
+280,41,Outro,Orgânico,B
+281,28,Masculino,Orgânico,A
+282,25,Feminino,Google Ads,A
+283,53,Feminino,Meta Ads,B
+284,55,Feminino,Meta Ads,A
+285,57,Outro,Orgânico,A
+286,37,Masculino,Orgânico,A
+287,52,Masculino,Meta Ads,B
+288,42,Masculino,Meta Ads,B
+289,52,Masculino,Orgânico,A
+290,42,Masculino,Meta Ads,A
+291,46,Masculino,Google Ads,A
+292,35,Feminino,Orgânico,B
+293,63,Feminino,Google Ads,A
+294,35,Masculino,Google Ads,A
+295,19,Masculino,Orgânico,B
+296,52,Feminino,Orgânico,B
+297,33,Masculino,Meta Ads,B
+298,58,Masculino,Google Ads,B
+299,53,Masculino,Google Ads,A
+300,50,Feminino,Google Ads,A
+301,21,Masculino,Google Ads,A
+302,50,Outro,Orgânico,A
+303,31,Masculino,Google Ads,B
+304,38,Feminino,Meta Ads,B
+305,37,Masculino,Google Ads,B
+306,25,Masculino,Email Marketing,A
+307,24,Feminino,Google Ads,B
+308,20,Feminino,Google Ads,B
+309,34,Feminino,Google Ads,A
+310,50,Feminino,Meta Ads,B
+311,29,Feminino,Meta Ads,A
+312,39,Feminino,Meta Ads,A
+313,39,Feminino,Meta Ads,B
+314,63,Masculino,Google Ads,B
+315,47,Masculino,Meta Ads,A
+316,55,Masculino,Meta Ads,A
+317,55,Feminino,Google Ads,B
+318,62,Masculino,Google Ads,B
+319,25,Masculino,Google Ads,B
+320,44,Feminino,Google Ads,A
+321,44,Feminino,Meta Ads,A
+322,51,Feminino,Google Ads,A
+323,38,Masculino,Google Ads,A
+324,47,Feminino,Google Ads,A
+325,50,Masculino,Email Marketing,A
+326,45,Masculino,Orgânico,B
+327,64,Masculino,Google Ads,A
+328,50,Masculino,Google Ads,B
+329,22,Masculino,Google Ads,A
+330,36,Feminino,Meta Ads,A
+331,21,Masculino,Google Ads,A
+332,52,Feminino,Meta Ads,A
+333,34,Feminino,Meta Ads,A
+334,61,Masculino,Orgânico,B
+335,45,Feminino,Google Ads,B
+336,47,Masculino,Orgânico,A
+337,46,Feminino,Orgânico,A
+338,63,Masculino,Google Ads,B
+339,23,Masculino,Google Ads,B
+340,52,Masculino,Google Ads,A
+341,58,Feminino,Google Ads,B
+342,54,Feminino,Google Ads,B
+343,41,Masculino,Meta Ads,B
+344,46,Feminino,Meta Ads,B
+345,63,Feminino,Email Marketing,B
+346,48,Feminino,Google Ads,B
+347,52,Feminino,Email Marketing,A
+348,50,Feminino,Google Ads,B
+349,38,Feminino,Orgânico,B
+350,49,Feminino,Google Ads,B
+351,40,Masculino,Google Ads,B
+352,50,Masculino,Orgânico,A
+353,20,Masculino,Google Ads,A
+354,35,Feminino,Meta Ads,A
+355,42,Feminino,Meta Ads,A
+356,59,Masculino,Meta Ads,A
+357,48,Feminino,Meta Ads,B
+358,20,Masculino,Orgânico,A
+359,57,Masculino,Google Ads,B
+360,63,Outro,Meta Ads,B
+361,41,Masculino,Orgânico,A
+362,49,Masculino,Google Ads,A
+363,64,Feminino,Google Ads,B
+364,39,Feminino,Orgânico,B
+365,40,Masculino,Meta Ads,B
+366,19,Feminino,Meta Ads,B
+367,44,Feminino,Google Ads,B
+368,59,Masculino,Meta Ads,B
+369,19,Masculino,Google Ads,B
+370,43,Feminino,Meta Ads,B
+371,34,Masculino,Orgânico,B
+372,57,Feminino,Google Ads,A
+373,50,Feminino,Meta Ads,B
+374,26,Outro,Email Marketing,A
+375,60,Masculino,Meta Ads,B
+376,56,Outro,Orgânico,A
+377,46,Masculino,Meta Ads,A
+378,59,Masculino,Orgânico,A
+379,43,Masculino,Google Ads,A
+380,52,Masculino,Google Ads,A
+381,42,Feminino,Google Ads,B
+382,41,Masculino,Meta Ads,A
+383,30,Masculino,Orgânico,A
+384,24,Feminino,Google Ads,A
+385,53,Masculino,Meta Ads,B
+386,62,Feminino,Orgânico,A
+387,37,Masculino,Meta Ads,A
+388,18,Feminino,Google Ads,A
+389,25,Feminino,Meta Ads,B
+390,63,Masculino,Google Ads,A
+391,33,Masculino,Google Ads,A
+392,31,Masculino,Email Marketing,A
+393,29,Feminino,Google Ads,B
+394,40,Masculino,Google Ads,A
+395,32,Masculino,Orgânico,B
+396,45,Masculino,Google Ads,A
+397,51,Masculino,Meta Ads,A
+398,19,Feminino,Google Ads,A
+399,49,Feminino,Google Ads,A
+400,40,Masculino,Google Ads,A
+401,39,Masculino,Google Ads,A
+402,42,Feminino,Meta Ads,A
+403,39,Feminino,Orgânico,B
+404,39,Masculino,Meta Ads,B
+405,59,Masculino,Email Marketing,A
+406,23,Masculino,Google Ads,B
+407,32,Feminino,Meta Ads,B
+408,60,Masculino,Meta Ads,B
+409,54,Feminino,Email Marketing,A
+410,50,Feminino,Google Ads,B
+411,25,Feminino,Meta Ads,A
+412,61,Masculino,Orgânico,B
+413,61,Masculino,Google Ads,A
+414,22,Masculino,Orgânico,A
+415,56,Masculino,Google Ads,A
+416,21,Feminino,Orgânico,A
+417,23,Outro,Email Marketing,B
+418,62,Feminino,Meta Ads,A
+419,49,Feminino,Meta Ads,B
+420,47,Masculino,Google Ads,A
+421,64,Masculino,Email Marketing,A
+422,52,Masculino,Meta Ads,B
+423,57,Feminino,Google Ads,B
+424,33,Feminino,Meta Ads,A
+425,30,Feminino,Meta Ads,A
+426,59,Masculino,Google Ads,B
+427,47,Masculino,Google Ads,A
+428,36,Feminino,Google Ads,B
+429,34,Masculino,Meta Ads,B
+430,36,Feminino,Meta Ads,A
+431,45,Feminino,Meta Ads,A
+432,43,Feminino,Orgânico,A
+433,54,Masculino,Orgânico,A
+434,43,Masculino,Meta Ads,B
+435,40,Masculino,Google Ads,B
+436,26,Masculino,Meta Ads,B
+437,29,Masculino,Meta Ads,B
+438,18,Feminino,Meta Ads,A
+439,18,Feminino,Meta Ads,B
+440,64,Masculino,Google Ads,A
+441,51,Masculino,Email Marketing,B
+442,49,Masculino,Google Ads,A
+443,42,Masculino,Meta Ads,B
+444,57,Feminino,Google Ads,B
+445,62,Masculino,Email Marketing,A
+446,18,Masculino,Google Ads,A
+447,33,Masculino,Google Ads,B
+448,56,Feminino,Google Ads,A
+449,22,Feminino,Google Ads,B
+450,39,Masculino,Google Ads,B
+451,46,Feminino,Meta Ads,A
+452,20,Feminino,Meta Ads,A
+453,29,Feminino,Google Ads,B
+454,43,Masculino,Google Ads,A
+455,33,Feminino,Orgânico,A
+456,54,Feminino,Meta Ads,B
+457,39,Feminino,Orgânico,B
+458,46,Feminino,Meta Ads,A
+459,31,Feminino,Google Ads,A
+460,45,Masculino,Google Ads,B
+461,22,Feminino,Google Ads,B
+462,64,Feminino,Orgânico,B
+463,47,Feminino,Email Marketing,A
+464,63,Masculino,Meta Ads,B
+465,22,Feminino,Google Ads,B
+466,29,Feminino,Google Ads,B
+467,33,Masculino,Google Ads,B
+468,43,Feminino,Meta Ads,A
+469,43,Feminino,Google Ads,B
+470,38,Feminino,Email Marketing,A
+471,56,Masculino,Google Ads,A
+472,53,Masculino,Email Marketing,B
+473,50,Feminino,Orgânico,B
+474,47,Masculino,Orgânico,B
+475,54,Feminino,Meta Ads,B
+476,40,Feminino,Meta Ads,A
+477,27,Feminino,Meta Ads,B
+478,22,Masculino,Meta Ads,A
+479,53,Feminino,Meta Ads,B
+480,51,Masculino,Email Marketing,A
+481,48,Masculino,Orgânico,B
+482,27,Masculino,Orgânico,A
+483,36,Masculino,Orgânico,B
+484,49,Outro,Google Ads,B
+485,18,Outro,Google Ads,A
+486,22,Masculino,Meta Ads,B
+487,62,Feminino,Meta Ads,B
+488,21,Masculino,Orgânico,B
+489,33,Feminino,Meta Ads,B
+490,41,Feminino,Meta Ads,A
+491,33,Feminino,Meta Ads,A
+492,19,Masculino,Google Ads,A
+493,45,Feminino,Meta Ads,A
+494,49,Masculino,Orgânico,A
+495,44,Outro,Google Ads,B
+496,37,Masculino,Meta Ads,A
+497,41,Feminino,Meta Ads,A
+498,29,Feminino,Google Ads,A
+499,52,Feminino,Google Ads,B
+500,50,Masculino,Email Marketing,B
+501,50,Feminino,Google Ads,A
+502,60,Masculino,Google Ads,B
+503,54,Feminino,Google Ads,A
+504,29,Masculino,Meta Ads,B
+505,20,Masculino,Meta Ads,B
+506,18,Feminino,Meta Ads,A
+507,50,Masculino,Google Ads,B
+508,57,Masculino,Orgânico,B
+509,27,Masculino,Google Ads,A
+510,60,Masculino,Google Ads,B
+511,61,Feminino,Meta Ads,A
+512,46,Feminino,Google Ads,A
+513,30,Masculino,Orgânico,A
+514,29,Masculino,Email Marketing,A
+515,48,Masculino,Google Ads,A
+516,63,Masculino,Orgânico,B
+517,19,Feminino,Orgânico,A
+518,52,Feminino,Email Marketing,A
+519,40,Masculino,Google Ads,B
+520,34,Masculino,Meta Ads,B
+521,43,Masculino,Google Ads,B
+522,25,Feminino,Orgânico,B
+523,46,Outro,Google Ads,B
+524,43,Masculino,Meta Ads,B
+525,27,Masculino,Google Ads,B
+526,43,Feminino,Google Ads,B
+527,51,Feminino,Meta Ads,A
+528,58,Masculino,Orgânico,A
+529,24,Masculino,Meta Ads,B
+530,21,Masculino,Orgânico,A
+531,62,Feminino,Google Ads,A
+532,28,Masculino,Meta Ads,B
+533,46,Masculino,Meta Ads,B
+534,53,Feminino,Google Ads,A
+535,42,Masculino,Meta Ads,B
+536,38,Feminino,Meta Ads,B
+537,53,Masculino,Meta Ads,B
+538,27,Masculino,Orgânico,B
+539,54,Feminino,Meta Ads,B
+540,26,Masculino,Google Ads,B
+541,41,Outro,Google Ads,A
+542,52,Feminino,Meta Ads,B
+543,52,Masculino,Google Ads,B
+544,53,Feminino,Google Ads,B
+545,35,Masculino,Meta Ads,B
+546,56,Feminino,Meta Ads,A
+547,49,Masculino,Google Ads,B
+548,41,Feminino,Orgânico,A
+549,40,Masculino,Meta Ads,A
+550,49,Masculino,Google Ads,A
+551,54,Feminino,Orgânico,A
+552,29,Feminino,Meta Ads,B
+553,30,Masculino,Meta Ads,A
+554,40,Masculino,Meta Ads,A
+555,42,Feminino,Google Ads,B
+556,52,Feminino,Meta Ads,A
+557,58,Masculino,Google Ads,A
+558,47,Masculino,Email Marketing,A
+559,34,Masculino,Orgânico,A
+560,37,Feminino,Meta Ads,A
+561,42,Masculino,Google Ads,A
+562,39,Masculino,Google Ads,B
+563,30,Feminino,Google Ads,A
+564,36,Masculino,Meta Ads,A
+565,53,Feminino,Google Ads,B
+566,29,Masculino,Meta Ads,A
+567,58,Masculino,Google Ads,B
+568,36,Masculino,Email Marketing,A
+569,29,Feminino,Google Ads,A
+570,26,Masculino,Email Marketing,B
+571,24,Feminino,Email Marketing,A
+572,45,Feminino,Meta Ads,A
+573,31,Feminino,Orgânico,B
+574,48,Masculino,Meta Ads,A
+575,36,Masculino,Meta Ads,B
+576,64,Masculino,Google Ads,B
+577,33,Masculino,Google Ads,A
+578,22,Masculino,Meta Ads,B
+579,52,Feminino,Meta Ads,B
+580,29,Masculino,Meta Ads,B
+581,42,Masculino,Google Ads,B
+582,38,Masculino,Google Ads,B
+583,53,Feminino,Google Ads,A
+584,40,Masculino,Google Ads,B
+585,33,Feminino,Google Ads,A
+586,56,Masculino,Google Ads,A
+587,62,Feminino,Google Ads,B
+588,59,Feminino,Orgânico,A
+589,56,Masculino,Google Ads,B
+590,31,Masculino,Meta Ads,A
+591,48,Masculino,Google Ads,B
+592,22,Masculino,Orgânico,A
+593,52,Feminino,Meta Ads,A
+594,40,Feminino,Google Ads,A
+595,46,Feminino,Meta Ads,B
+596,60,Feminino,Google Ads,A
+597,28,Masculino,Meta Ads,B
+598,35,Masculino,Google Ads,A
+599,64,Feminino,Email Marketing,A
+600,29,Masculino,Meta Ads,A
+601,26,Feminino,Google Ads,A
+602,27,Masculino,Orgânico,B
+603,61,Masculino,Google Ads,B
+604,34,Outro,Orgânico,A
+605,55,Masculino,Meta Ads,B
+606,24,Outro,Orgânico,B
+607,63,Outro,Google Ads,A
+608,30,Feminino,Orgânico,A
+609,57,Feminino,Orgânico,B
+610,59,Feminino,Google Ads,A
+611,26,Feminino,Google Ads,A
+612,44,Masculino,Google Ads,A
+613,19,Masculino,Email Marketing,B
+614,22,Feminino,Google Ads,A
+615,46,Masculino,Meta Ads,A
+616,54,Masculino,Google Ads,A
+617,55,Masculino,Google Ads,A
+618,36,Feminino,Meta Ads,A
+619,25,Feminino,Email Marketing,B
+620,62,Masculino,Meta Ads,A
+621,18,Feminino,Orgânico,B
+622,39,Feminino,Meta Ads,A
+623,34,Feminino,Google Ads,B
+624,24,Feminino,Google Ads,B
+625,42,Feminino,Meta Ads,A
+626,62,Masculino,Email Marketing,B
+627,21,Feminino,Orgânico,A
+628,53,Masculino,Google Ads,B
+629,23,Feminino,Google Ads,A
+630,48,Outro,Google Ads,B
+631,36,Masculino,Email Marketing,B
+632,61,Masculino,Orgânico,B
+633,56,Feminino,Orgânico,B
+634,44,Masculino,Google Ads,A
+635,27,Feminino,Meta Ads,B
+636,43,Masculino,Meta Ads,B
+637,36,Masculino,Google Ads,B
+638,56,Outro,Meta Ads,A
+639,20,Feminino,Google Ads,B
+640,62,Feminino,Google Ads,A
+641,30,Masculino,Orgânico,B
+642,45,Feminino,Orgânico,A
+643,37,Feminino,Meta Ads,A
+644,45,Feminino,Meta Ads,B
+645,25,Feminino,Google Ads,A
+646,58,Feminino,Orgânico,B
+647,56,Masculino,Orgânico,B
+648,18,Masculino,Orgânico,A
+649,20,Feminino,Orgânico,A
+650,30,Masculino,Google Ads,B
+651,45,Feminino,Google Ads,A
+652,42,Masculino,Meta Ads,B
+653,50,Feminino,Google Ads,B
+654,55,Feminino,Orgânico,A
+655,23,Masculino,Google Ads,A
+656,61,Masculino,Google Ads,A
+657,62,Masculino,Google Ads,B
+658,49,Feminino,Email Marketing,A
+659,62,Feminino,Google Ads,A
+660,64,Masculino,Meta Ads,B
+661,38,Feminino,Meta Ads,B
+662,33,Masculino,Google Ads,A
+663,38,Masculino,Meta Ads,A
+664,28,Feminino,Orgânico,B
+665,54,Masculino,Meta Ads,B
+666,53,Masculino,Orgânico,B
+667,52,Masculino,Google Ads,B
+668,36,Masculino,Google Ads,B
+669,37,Masculino,Email Marketing,B
+670,35,Masculino,Google Ads,B
+671,64,Feminino,Meta Ads,B
+672,58,Masculino,Orgânico,B
+673,31,Feminino,Google Ads,A
+674,32,Masculino,Orgânico,A
+675,48,Masculino,Google Ads,B
+676,18,Feminino,Google Ads,A
+677,20,Outro,Google Ads,B
+678,33,Masculino,Orgânico,A
+679,40,Feminino,Google Ads,B
+680,28,Feminino,Orgânico,A
+681,29,Feminino,Email Marketing,B
+682,27,Feminino,Meta Ads,B
+683,49,Masculino,Meta Ads,A
+684,33,Masculino,Meta Ads,B
+685,25,Feminino,Google Ads,A
+686,55,Masculino,Meta Ads,A
+687,29,Feminino,Meta Ads,A
+688,41,Masculino,Email Marketing,A
+689,45,Masculino,Email Marketing,B
+690,25,Feminino,Orgânico,A
+691,45,Masculino,Orgânico,B
+692,53,Feminino,Meta Ads,A
+693,43,Feminino,Meta Ads,B
+694,25,Feminino,Orgânico,A
+695,45,Feminino,Google Ads,B
+696,45,Feminino,Email Marketing,B
+697,54,Feminino,Meta Ads,B
+698,58,Feminino,Meta Ads,A
+699,53,Masculino,Orgânico,B
+700,44,Masculino,Email Marketing,A
+701,34,Masculino,Google Ads,A
+702,26,Masculino,Orgânico,A
+703,50,Feminino,Meta Ads,A
+704,37,Feminino,Google Ads,A
+705,30,Feminino,Orgânico,B
+706,45,Masculino,Meta Ads,A
+707,46,Feminino,Meta Ads,A
+708,30,Masculino,Google Ads,A
+709,63,Feminino,Meta Ads,B
+710,52,Feminino,Meta Ads,B
+711,23,Masculino,Meta Ads,A
+712,35,Masculino,Google Ads,B
+713,22,Masculino,Email Marketing,B
+714,64,Feminino,Meta Ads,A
+715,42,Feminino,Orgânico,B
+716,19,Feminino,Meta Ads,B
+717,27,Masculino,Google Ads,B
+718,47,Masculino,Meta Ads,A
+719,62,Feminino,Meta Ads,A
+720,22,Feminino,Meta Ads,A
+721,50,Masculino,Meta Ads,B
+722,18,Masculino,Meta Ads,B
+723,35,Feminino,Google Ads,A
+724,49,Masculino,Meta Ads,A
+725,64,Masculino,Google Ads,B
+726,28,Masculino,Google Ads,B
+727,38,Feminino,Email Marketing,B
+728,43,Feminino,Meta Ads,B
+729,42,Feminino,Meta Ads,B
+730,39,Feminino,Meta Ads,A
+731,44,Feminino,Email Marketing,A
+732,30,Masculino,Meta Ads,A
+733,50,Feminino,Orgânico,B
+734,51,Masculino,Google Ads,A
+735,58,Feminino,Email Marketing,A
+736,52,Masculino,Orgânico,A
+737,18,Masculino,Orgânico,A
+738,38,Masculino,Google Ads,B
+739,23,Masculino,Google Ads,A
+740,45,Masculino,Google Ads,A
+741,34,Masculino,Google Ads,B
+742,22,Outro,Orgânico,A
+743,48,Masculino,Google Ads,B
+744,22,Feminino,Google Ads,B
+745,55,Feminino,Google Ads,B
+746,20,Outro,Google Ads,B
+747,40,Feminino,Google Ads,A
+748,54,Feminino,Orgânico,B
+749,54,Masculino,Meta Ads,A
+750,27,Masculino,Google Ads,A
+751,27,Masculino,Meta Ads,A
+752,36,Feminino,Meta Ads,A
+753,34,Feminino,Google Ads,B
+754,38,Masculino,Meta Ads,A
+755,31,Masculino,Orgânico,B
+756,26,Feminino,Orgânico,A
+757,63,Masculino,Orgânico,A
+758,18,Feminino,Google Ads,B
+759,62,Feminino,Email Marketing,A
+760,30,Feminino,Orgânico,B
+761,21,Feminino,Email Marketing,A
+762,18,Feminino,Google Ads,A
+763,57,Feminino,Email Marketing,A
+764,49,Feminino,Orgânico,B
+765,51,Feminino,Orgânico,A
+766,45,Masculino,Google Ads,A
+767,48,Masculino,Orgânico,A
+768,25,Masculino,Email Marketing,B
+769,56,Masculino,Meta Ads,B
+770,43,Feminino,Meta Ads,B
+771,51,Feminino,Email Marketing,A
+772,20,Masculino,Meta Ads,B
+773,29,Masculino,Meta Ads,B
+774,18,Outro,Meta Ads,B
+775,61,Masculino,Email Marketing,B
+776,22,Masculino,Google Ads,B
+777,47,Feminino,Meta Ads,A
+778,47,Feminino,Meta Ads,B
+779,34,Masculino,Orgânico,B
+780,64,Masculino,Meta Ads,A
+781,40,Masculino,Email Marketing,A
+782,32,Feminino,Email Marketing,B
+783,54,Feminino,Google Ads,A
+784,38,Masculino,Meta Ads,B
+785,31,Feminino,Google Ads,A
+786,19,Feminino,Google Ads,A
+787,28,Masculino,Meta Ads,A
+788,56,Feminino,Email Marketing,A
+789,55,Feminino,Orgânico,A
+790,51,Masculino,Google Ads,A
+791,55,Masculino,Google Ads,B
+792,51,Feminino,Meta Ads,B
+793,35,Feminino,Meta Ads,A
+794,47,Feminino,Google Ads,B
+795,32,Feminino,Orgânico,B
+796,44,Feminino,Email Marketing,B
+797,51,Masculino,Meta Ads,B
+798,55,Feminino,Orgânico,A
+799,50,Masculino,Google Ads,A
+800,41,Masculino,Orgânico,A
+801,32,Feminino,Meta Ads,A
+802,47,Feminino,Google Ads,B
+803,59,Masculino,Email Marketing,A
+804,34,Feminino,Meta Ads,B
+805,22,Masculino,Orgânico,B
+806,46,Masculino,Google Ads,B
+807,21,Masculino,Google Ads,B
+808,27,Feminino,Google Ads,A
+809,34,Feminino,Meta Ads,B
+810,27,Masculino,Meta Ads,A
+811,34,Feminino,Google Ads,B
+812,37,Masculino,Meta Ads,B
+813,41,Feminino,Meta Ads,B
+814,22,Masculino,Orgânico,A
+815,51,Masculino,Meta Ads,B
+816,23,Feminino,Email Marketing,A
+817,19,Masculino,Meta Ads,A
+818,30,Masculino,Meta Ads,B
+819,60,Feminino,Google Ads,A
+820,60,Outro,Google Ads,B
+821,28,Masculino,Google Ads,A
+822,64,Masculino,Meta Ads,B
+823,40,Masculino,Google Ads,A
+824,33,Feminino,Google Ads,B
+825,48,Masculino,Orgânico,B
+826,28,Feminino,Google Ads,B
+827,33,Outro,Google Ads,A
+828,25,Masculino,Google Ads,B
+829,21,Masculino,Orgânico,A
+830,57,Masculino,Google Ads,A
+831,21,Masculino,Meta Ads,A
+832,42,Feminino,Meta Ads,B
+833,20,Masculino,Meta Ads,A
+834,49,Masculino,Meta Ads,B
+835,20,Feminino,Orgânico,B
+836,44,Masculino,Google Ads,A
+837,46,Feminino,Google Ads,B
+838,49,Masculino,Google Ads,A
+839,36,Feminino,Google Ads,B
+840,38,Feminino,Google Ads,A
+841,22,Feminino,Google Ads,B
+842,35,Feminino,Meta Ads,A
+843,45,Masculino,Meta Ads,A
+844,59,Masculino,Google Ads,A
+845,39,Feminino,Orgânico,A
+846,38,Feminino,Google Ads,A
+847,23,Masculino,Google Ads,A
+848,18,Masculino,Meta Ads,A
+849,22,Masculino,Google Ads,B
+850,58,Masculino,Google Ads,B
+851,29,Masculino,Meta Ads,B
+852,43,Feminino,Email Marketing,B
+853,63,Masculino,Orgânico,B
+854,51,Masculino,Google Ads,B
+855,31,Feminino,Orgânico,A
+856,43,Feminino,Orgânico,B
+857,62,Feminino,Meta Ads,A
+858,44,Feminino,Orgânico,B
+859,26,Masculino,Meta Ads,B
+860,43,Feminino,Google Ads,A
+861,64,Feminino,Meta Ads,B
+862,39,Masculino,Meta Ads,A
+863,64,Feminino,Meta Ads,A
+864,47,Feminino,Meta Ads,A
+865,60,Masculino,Email Marketing,B
+866,34,Masculino,Email Marketing,B
+867,43,Masculino,Orgânico,B
+868,53,Masculino,Orgânico,A
+869,18,Masculino,Email Marketing,B
+870,25,Feminino,Google Ads,B
+871,52,Masculino,Google Ads,A
+872,32,Feminino,Meta Ads,B
+873,64,Feminino,Orgânico,A
+874,39,Feminino,Meta Ads,A
+875,31,Feminino,Orgânico,A
+876,43,Masculino,Google Ads,B
+877,45,Masculino,Google Ads,A
+878,40,Feminino,Orgânico,A
+879,31,Feminino,Google Ads,A
+880,41,Feminino,Google Ads,A
+881,19,Masculino,Google Ads,A
+882,62,Feminino,Google Ads,A
+883,43,Masculino,Orgânico,B
+884,31,Feminino,Google Ads,A
+885,24,Outro,Meta Ads,B
+886,20,Masculino,Google Ads,B
+887,64,Feminino,Orgânico,A
+888,40,Masculino,Google Ads,A
+889,63,Masculino,Meta Ads,B
+890,60,Feminino,Orgânico,A
+891,64,Feminino,Google Ads,A
+892,62,Feminino,Orgânico,A
+893,35,Feminino,Meta Ads,B
+894,55,Feminino,Meta Ads,B
+895,52,Feminino,Google Ads,B
+896,32,Feminino,Email Marketing,B
+897,42,Masculino,Orgânico,A
+898,54,Outro,Google Ads,A
+899,45,Masculino,Google Ads,A
+900,27,Feminino,Orgânico,A
+901,56,Masculino,Meta Ads,A
+902,34,Masculino,Orgânico,A
+903,56,Masculino,Meta Ads,A
+904,39,Feminino,Orgânico,A
+905,43,Masculino,Google Ads,A
+906,61,Masculino,Google Ads,B
+907,42,Feminino,Meta Ads,B
+908,34,Feminino,Email Marketing,B
+909,30,Masculino,Google Ads,A
+910,37,Masculino,Meta Ads,A
+911,42,Masculino,Meta Ads,A
+912,21,Masculino,Meta Ads,A
+913,27,Feminino,Orgânico,A
+914,20,Feminino,Orgânico,B
+915,58,Feminino,Google Ads,B
+916,62,Masculino,Email Marketing,A
+917,35,Feminino,Orgânico,A
+918,64,Feminino,Orgânico,A
+919,53,Feminino,Meta Ads,A
+920,64,Feminino,Orgânico,A
+921,39,Feminino,Google Ads,A
+922,51,Feminino,Google Ads,A
+923,64,Masculino,Orgânico,A
+924,25,Feminino,Google Ads,A
+925,57,Feminino,Google Ads,A
+926,61,Feminino,Orgânico,A
+927,36,Masculino,Orgânico,B
+928,59,Feminino,Google Ads,A
+929,58,Feminino,Orgânico,B
+930,54,Masculino,Meta Ads,B
+931,23,Masculino,Meta Ads,B
+932,43,Feminino,Orgânico,B
+933,51,Feminino,Meta Ads,B
+934,62,Feminino,Google Ads,B
+935,23,Masculino,Google Ads,A
+936,54,Feminino,Meta Ads,A
+937,50,Masculino,Meta Ads,B
+938,39,Masculino,Orgânico,B
+939,38,Masculino,Orgânico,B
+940,23,Masculino,Meta Ads,B
+941,23,Masculino,Orgânico,B
+942,21,Masculino,Google Ads,B
+943,47,Masculino,Google Ads,B
+944,28,Masculino,Orgânico,B
+945,47,Feminino,Google Ads,B
+946,48,Feminino,Google Ads,B
+947,41,Masculino,Meta Ads,B
+948,26,Feminino,Meta Ads,B
+949,20,Masculino,Orgânico,A
+950,48,Feminino,Google Ads,A
+951,57,Masculino,Google Ads,B
+952,54,Masculino,Google Ads,B
+953,53,Feminino,Meta Ads,A
+954,41,Feminino,Google Ads,A
+955,48,Feminino,Meta Ads,B
+956,23,Feminino,Orgânico,B
+957,19,Feminino,Email Marketing,B
+958,37,Masculino,Google Ads,B
+959,45,Masculino,Meta Ads,A
+960,28,Masculino,Meta Ads,A
+961,21,Masculino,Email Marketing,A
+962,32,Feminino,Email Marketing,B
+963,23,Feminino,Google Ads,A
+964,47,Masculino,Orgânico,B
+965,55,Feminino,Google Ads,B
+966,19,Feminino,Google Ads,B
+967,32,Masculino,Google Ads,B
+968,28,Masculino,Meta Ads,A
+969,25,Masculino,Meta Ads,B
+970,43,Masculino,Google Ads,A
+971,62,Masculino,Meta Ads,A
+972,61,Feminino,Google Ads,A
+973,22,Masculino,Meta Ads,A
+974,23,Masculino,Google Ads,B
+975,43,Outro,Google Ads,B
+976,21,Feminino,Meta Ads,A
+977,36,Feminino,Google Ads,A
+978,37,Masculino,Meta Ads,B
+979,50,Masculino,Google Ads,B
+980,37,Feminino,Meta Ads,A
+981,29,Masculino,Google Ads,B
+982,64,Masculino,Meta Ads,B
+983,18,Feminino,Orgânico,B
+984,43,Feminino,Google Ads,A
+985,31,Masculino,Meta Ads,B
+986,55,Feminino,Google Ads,B
+987,54,Masculino,Meta Ads,B
+988,28,Masculino,Google Ads,B
+989,53,Masculino,Meta Ads,B
+990,30,Masculino,Meta Ads,A
+991,60,Masculino,Email Marketing,B
+992,20,Feminino,Meta Ads,B
+993,50,Feminino,Meta Ads,B
+994,23,Feminino,Meta Ads,A
+995,27,Masculino,Email Marketing,A
+996,22,Masculino,Orgânico,B
+997,40,Masculino,Google Ads,B
+998,27,Masculino,Orgânico,A
+999,61,Masculino,Meta Ads,B
+1000,19,Feminino,Orgânico,A
+1001,30,Feminino,Orgânico,B
+1002,57,Feminino,Google Ads,B
+1003,19,Masculino,Orgânico,A
+1004,37,Feminino,Google Ads,B
+1005,18,Masculino,Google Ads,B
+1006,54,Masculino,Google Ads,A
+1007,26,Masculino,Orgânico,B
+1008,34,Feminino,Google Ads,A
+1009,26,Outro,Google Ads,B
+1010,28,Masculino,Orgânico,A
+1011,32,Feminino,Google Ads,A
+1012,41,Feminino,Google Ads,A
+1013,55,Masculino,Google Ads,A
+1014,52,Masculino,Google Ads,B
+1015,47,Masculino,Meta Ads,A
+1016,48,Outro,Google Ads,A
+1017,22,Masculino,Email Marketing,B
+1018,61,Feminino,Orgânico,A
+1019,31,Masculino,Google Ads,B
+1020,28,Feminino,Google Ads,B
+1021,26,Masculino,Meta Ads,B
+1022,51,Feminino,Meta Ads,A
+1023,29,Feminino,Google Ads,A
+1024,52,Feminino,Google Ads,B
+1025,52,Feminino,Orgânico,A
+1026,18,Masculino,Google Ads,A
+1027,57,Feminino,Google Ads,A
+1028,39,Masculino,Orgânico,A
+1029,46,Masculino,Meta Ads,B
+1030,25,Feminino,Google Ads,B
+1031,28,Masculino,Meta Ads,B
+1032,58,Feminino,Google Ads,B
+1033,54,Outro,Orgânico,A
+1034,31,Masculino,Meta Ads,A
+1035,47,Feminino,Orgânico,B
+1036,52,Masculino,Email Marketing,A
+1037,38,Masculino,Email Marketing,A
+1038,54,Masculino,Email Marketing,B
+1039,22,Feminino,Meta Ads,B
+1040,36,Feminino,Google Ads,A
+1041,31,Feminino,Meta Ads,B
+1042,43,Outro,Meta Ads,B
+1043,21,Masculino,Orgânico,A
+1044,42,Masculino,Google Ads,B
+1045,62,Feminino,Email Marketing,A
+1046,59,Feminino,Orgânico,B
+1047,42,Masculino,Email Marketing,B
+1048,35,Masculino,Orgânico,B
+1049,57,Feminino,Google Ads,A
+1050,25,Feminino,Google Ads,A
+1051,56,Masculino,Google Ads,A
+1052,57,Masculino,Google Ads,B
+1053,31,Feminino,Meta Ads,A
+1054,49,Feminino,Orgânico,A
+1055,55,Masculino,Orgânico,A
+1056,50,Feminino,Meta Ads,A
+1057,40,Masculino,Google Ads,A
+1058,32,Masculino,Google Ads,B
+1059,50,Feminino,Google Ads,A
+1060,42,Feminino,Google Ads,A
+1061,34,Masculino,Meta Ads,B
+1062,50,Feminino,Google Ads,B
+1063,64,Feminino,Google Ads,A
+1064,19,Feminino,Google Ads,A
+1065,31,Feminino,Meta Ads,B
+1066,57,Feminino,Meta Ads,A
+1067,57,Feminino,Meta Ads,B
+1068,56,Masculino,Meta Ads,A
+1069,23,Masculino,Email Marketing,A
+1070,23,Masculino,Google Ads,A
+1071,20,Feminino,Meta Ads,B
+1072,24,Feminino,Orgânico,B
+1073,25,Masculino,Meta Ads,A
+1074,59,Masculino,Email Marketing,B
+1075,32,Feminino,Google Ads,A
+1076,64,Masculino,Meta Ads,A
+1077,46,Feminino,Google Ads,B
+1078,50,Masculino,Meta Ads,A
+1079,47,Feminino,Google Ads,B
+1080,56,Feminino,Google Ads,B
+1081,44,Masculino,Meta Ads,B
+1082,53,Masculino,Meta Ads,B
+1083,46,Masculino,Google Ads,A
+1084,55,Feminino,Meta Ads,A
+1085,50,Feminino,Meta Ads,A
+1086,54,Masculino,Google Ads,A
+1087,44,Feminino,Meta Ads,A
+1088,50,Feminino,Orgânico,A
+1089,21,Masculino,Meta Ads,B
+1090,39,Masculino,Google Ads,A
+1091,19,Feminino,Google Ads,B
+1092,27,Feminino,Meta Ads,B
+1093,22,Feminino,Email Marketing,B
+1094,27,Feminino,Meta Ads,A
+1095,50,Feminino,Google Ads,A
+1096,55,Masculino,Meta Ads,A
+1097,30,Feminino,Orgânico,A
+1098,48,Feminino,Google Ads,A
+1099,64,Feminino,Email Marketing,B
+1100,53,Masculino,Email Marketing,A
+1101,62,Masculino,Google Ads,B
+1102,41,Masculino,Email Marketing,B
+1103,32,Masculino,Google Ads,A
+1104,46,Masculino,Orgânico,A
+1105,25,Feminino,Meta Ads,B
+1106,22,Feminino,Meta Ads,A
+1107,46,Masculino,Meta Ads,B
+1108,64,Feminino,Orgânico,A
+1109,21,Masculino,Google Ads,B
+1110,29,Masculino,Meta Ads,A
+1111,62,Masculino,Google Ads,A
+1112,19,Feminino,Google Ads,B
+1113,44,Masculino,Google Ads,A
+1114,48,Masculino,Meta Ads,A
+1115,53,Masculino,Google Ads,A
+1116,53,Feminino,Google Ads,A
+1117,43,Masculino,Google Ads,B
+1118,60,Feminino,Google Ads,B
+1119,44,Feminino,Meta Ads,B
+1120,22,Feminino,Email Marketing,B
+1121,37,Feminino,Google Ads,A
+1122,28,Masculino,Email Marketing,A
+1123,27,Masculino,Orgânico,B
+1124,57,Feminino,Meta Ads,B
+1125,55,Masculino,Meta Ads,A
+1126,23,Feminino,Orgânico,A
+1127,25,Feminino,Google Ads,A
+1128,40,Feminino,Meta Ads,B
+1129,64,Feminino,Meta Ads,B
+1130,43,Outro,Meta Ads,A
+1131,63,Feminino,Orgânico,B
+1132,60,Masculino,Google Ads,A
+1133,29,Feminino,Meta Ads,A
+1134,43,Masculino,Meta Ads,B
+1135,30,Masculino,Google Ads,A
+1136,57,Feminino,Google Ads,A
+1137,35,Masculino,Meta Ads,B
+1138,42,Masculino,Orgânico,B
+1139,50,Masculino,Meta Ads,B
+1140,64,Feminino,Orgânico,A
+1141,57,Feminino,Meta Ads,A
+1142,60,Feminino,Google Ads,B
+1143,29,Masculino,Google Ads,B
+1144,61,Feminino,Google Ads,B
+1145,53,Feminino,Google Ads,A
+1146,21,Masculino,Google Ads,A
+1147,22,Masculino,Orgânico,B
+1148,54,Masculino,Orgânico,B
+1149,25,Outro,Google Ads,A
+1150,59,Feminino,Google Ads,A
+1151,45,Feminino,Google Ads,A
+1152,48,Masculino,Meta Ads,A
+1153,26,Feminino,Google Ads,A
+1154,46,Feminino,Google Ads,A
+1155,31,Feminino,Email Marketing,B
+1156,57,Outro,Orgânico,A
+1157,58,Masculino,Google Ads,B
+1158,39,Masculino,Meta Ads,A
+1159,28,Feminino,Google Ads,B
+1160,40,Feminino,Orgânico,A
+1161,18,Feminino,Meta Ads,B
+1162,63,Masculino,Google Ads,B
+1163,54,Feminino,Orgânico,B
+1164,38,Masculino,Google Ads,B
+1165,43,Masculino,Google Ads,A
+1166,63,Feminino,Google Ads,B
+1167,53,Feminino,Meta Ads,B
+1168,40,Masculino,Google Ads,B
+1169,18,Masculino,Google Ads,A
+1170,57,Masculino,Google Ads,B
+1171,32,Masculino,Google Ads,A
+1172,38,Feminino,Orgânico,A
+1173,64,Feminino,Google Ads,A
+1174,26,Masculino,Google Ads,A
+1175,26,Feminino,Meta Ads,B
+1176,27,Feminino,Orgânico,B
+1177,43,Feminino,Orgânico,B
+1178,58,Masculino,Meta Ads,B
+1179,52,Feminino,Google Ads,B
+1180,42,Masculino,Orgânico,B
+1181,43,Masculino,Meta Ads,A
+1182,28,Masculino,Google Ads,B
+1183,55,Feminino,Email Marketing,B
+1184,19,Masculino,Google Ads,B
+1185,24,Masculino,Email Marketing,B
+1186,35,Masculino,Orgânico,B
+1187,44,Feminino,Meta Ads,A
+1188,51,Feminino,Email Marketing,A
+1189,44,Masculino,Orgânico,B
+1190,34,Feminino,Google Ads,A
+1191,60,Feminino,Meta Ads,B
+1192,61,Feminino,Google Ads,A
+1193,41,Masculino,Google Ads,A
+1194,42,Feminino,Orgânico,B
+1195,24,Feminino,Google Ads,A
+1196,23,Feminino,Google Ads,B
+1197,41,Masculino,Meta Ads,A
+1198,50,Feminino,Orgânico,A
+1199,46,Feminino,Google Ads,B
+1200,60,Feminino,Google Ads,A
+1201,39,Masculino,Google Ads,B
+1202,43,Masculino,Meta Ads,B
+1203,45,Feminino,Google Ads,A
+1204,38,Feminino,Meta Ads,B
+1205,24,Masculino,Google Ads,B
+1206,34,Feminino,Google Ads,A
+1207,37,Masculino,Email Marketing,A
+1208,58,Feminino,Google Ads,A
+1209,37,Feminino,Meta Ads,B
+1210,39,Feminino,Google Ads,B
+1211,45,Feminino,Meta Ads,B
+1212,57,Masculino,Meta Ads,B
+1213,24,Feminino,Google Ads,B
+1214,18,Masculino,Google Ads,B
+1215,49,Feminino,Google Ads,B
+1216,30,Feminino,Meta Ads,A
+1217,47,Feminino,Orgânico,B
+1218,40,Masculino,Meta Ads,B
+1219,36,Feminino,Meta Ads,B
+1220,49,Masculino,Google Ads,B
+1221,47,Masculino,Google Ads,A
+1222,46,Feminino,Google Ads,B
+1223,62,Masculino,Google Ads,A
+1224,46,Feminino,Google Ads,B
+1225,47,Masculino,Meta Ads,A
+1226,33,Masculino,Meta Ads,B
+1227,57,Feminino,Email Marketing,B
+1228,36,Feminino,Google Ads,B
+1229,35,Masculino,Meta Ads,A
+1230,18,Feminino,Orgânico,B
+1231,31,Feminino,Meta Ads,B
+1232,64,Feminino,Google Ads,B
+1233,19,Masculino,Google Ads,A
+1234,45,Feminino,Google Ads,B
+1235,47,Feminino,Google Ads,A
+1236,55,Feminino,Orgânico,B
+1237,21,Masculino,Google Ads,A
+1238,18,Feminino,Google Ads,B
+1239,25,Feminino,Orgânico,B
+1240,46,Feminino,Orgânico,A
+1241,56,Masculino,Meta Ads,A
+1242,20,Feminino,Meta Ads,B
+1243,49,Feminino,Google Ads,A
+1244,27,Masculino,Google Ads,B
+1245,27,Masculino,Google Ads,A
+1246,36,Feminino,Meta Ads,A
+1247,63,Masculino,Email Marketing,A
+1248,51,Outro,Google Ads,B
+1249,50,Feminino,Meta Ads,A
+1250,40,Feminino,Google Ads,B
+1251,45,Masculino,Meta Ads,B
+1252,49,Masculino,Google Ads,A
+1253,24,Feminino,Google Ads,B
+1254,46,Masculino,Orgânico,A
+1255,25,Feminino,Meta Ads,B
+1256,18,Masculino,Meta Ads,A
+1257,20,Masculino,Google Ads,A
+1258,41,Masculino,Google Ads,B
+1259,40,Feminino,Google Ads,B
+1260,25,Outro,Orgânico,A
+1261,64,Masculino,Email Marketing,B
+1262,54,Masculino,Meta Ads,A
+1263,20,Masculino,Google Ads,B
+1264,50,Feminino,Orgânico,B
+1265,45,Masculino,Meta Ads,A
+1266,64,Feminino,Meta Ads,A
+1267,25,Feminino,Google Ads,A
+1268,51,Feminino,Orgânico,A
+1269,52,Masculino,Meta Ads,A
+1270,49,Outro,Orgânico,B
+1271,41,Masculino,Orgânico,B
+1272,31,Masculino,Google Ads,A
+1273,49,Feminino,Orgânico,B
+1274,63,Feminino,Orgânico,B
+1275,60,Masculino,Google Ads,B
+1276,33,Masculino,Google Ads,B
+1277,21,Feminino,Google Ads,B
+1278,54,Masculino,Meta Ads,A
+1279,38,Feminino,Google Ads,A
+1280,31,Feminino,Meta Ads,A
+1281,48,Masculino,Google Ads,A
+1282,35,Masculino,Orgânico,A
+1283,24,Masculino,Google Ads,B
+1284,27,Feminino,Google Ads,A
+1285,24,Feminino,Meta Ads,B
+1286,50,Masculino,Meta Ads,A
+1287,40,Feminino,Google Ads,B
+1288,38,Outro,Google Ads,B
+1289,36,Masculino,Google Ads,A
+1290,36,Feminino,Orgânico,A
+1291,53,Masculino,Orgânico,B
+1292,46,Masculino,Meta Ads,A
+1293,35,Masculino,Orgânico,A
+1294,19,Masculino,Orgânico,A
+1295,18,Masculino,Google Ads,B
+1296,64,Masculino,Email Marketing,B
+1297,22,Feminino,Orgânico,B
+1298,37,Feminino,Google Ads,B
+1299,28,Feminino,Google Ads,B
+1300,59,Masculino,Google Ads,B
+1301,19,Masculino,Google Ads,B
+1302,20,Masculino,Orgânico,A
+1303,40,Feminino,Meta Ads,A
+1304,29,Feminino,Orgânico,B
+1305,37,Masculino,Orgânico,B
+1306,22,Masculino,Meta Ads,A
+1307,54,Feminino,Meta Ads,A
+1308,55,Masculino,Google Ads,B
+1309,47,Masculino,Google Ads,B
+1310,26,Feminino,Meta Ads,A
+1311,51,Feminino,Google Ads,B
+1312,61,Masculino,Google Ads,B
+1313,52,Masculino,Orgânico,B
+1314,39,Outro,Meta Ads,A
+1315,61,Masculino,Google Ads,A
+1316,41,Masculino,Meta Ads,A
+1317,34,Masculino,Orgânico,A
+1318,27,Masculino,Google Ads,B
+1319,47,Masculino,Google Ads,A
+1320,63,Feminino,Email Marketing,B
+1321,40,Masculino,Google Ads,A
+1322,49,Masculino,Google Ads,A
+1323,34,Feminino,Meta Ads,B
+1324,34,Feminino,Orgânico,B
+1325,31,Feminino,Google Ads,A
+1326,26,Feminino,Google Ads,B
+1327,57,Masculino,Google Ads,B
+1328,19,Feminino,Email Marketing,B
+1329,62,Masculino,Google Ads,B
+1330,42,Outro,Meta Ads,A
+1331,56,Feminino,Email Marketing,B
+1332,26,Outro,Google Ads,B
+1333,39,Feminino,Email Marketing,A
+1334,60,Masculino,Email Marketing,A
+1335,63,Feminino,Orgânico,B
+1336,21,Outro,Google Ads,A
+1337,43,Feminino,Meta Ads,A
+1338,46,Masculino,Orgânico,B
+1339,62,Feminino,Email Marketing,A
+1340,51,Masculino,Google Ads,A
+1341,40,Masculino,Orgânico,B
+1342,54,Masculino,Google Ads,B
+1343,28,Masculino,Google Ads,A
+1344,23,Feminino,Meta Ads,B
+1345,35,Masculino,Orgânico,B
+1346,38,Feminino,Meta Ads,B
+1347,59,Masculino,Meta Ads,A
+1348,53,Masculino,Email Marketing,A
+1349,58,Masculino,Google Ads,A
+1350,55,Masculino,Meta Ads,B
+1351,51,Masculino,Google Ads,B
+1352,34,Masculino,Google Ads,B
+1353,54,Feminino,Meta Ads,B
+1354,42,Masculino,Email Marketing,B
+1355,55,Masculino,Meta Ads,A
+1356,29,Masculino,Orgânico,B
+1357,40,Feminino,Google Ads,B
+1358,59,Feminino,Google Ads,B
+1359,39,Feminino,Meta Ads,A
+1360,38,Masculino,Google Ads,B
+1361,44,Masculino,Google Ads,A
+1362,48,Feminino,Meta Ads,A
+1363,23,Masculino,Google Ads,B
+1364,44,Masculino,Google Ads,B
+1365,57,Masculino,Meta Ads,A
+1366,51,Masculino,Meta Ads,B
+1367,29,Masculino,Email Marketing,A
+1368,62,Feminino,Meta Ads,A
+1369,24,Masculino,Meta Ads,A
+1370,27,Feminino,Email Marketing,B
+1371,62,Masculino,Orgânico,B
+1372,34,Masculino,Google Ads,B
+1373,43,Feminino,Google Ads,B
+1374,38,Masculino,Meta Ads,A
+1375,45,Feminino,Meta Ads,A
+1376,63,Feminino,Orgânico,B
+1377,19,Masculino,Orgânico,A
+1378,60,Feminino,Meta Ads,B
+1379,18,Masculino,Email Marketing,B
+1380,53,Feminino,Meta Ads,B
+1381,43,Masculino,Google Ads,A
+1382,46,Feminino,Orgânico,A
+1383,38,Masculino,Google Ads,B
+1384,28,Feminino,Orgânico,A
+1385,57,Feminino,Email Marketing,B
+1386,28,Feminino,Meta Ads,A
+1387,53,Feminino,Meta Ads,A
+1388,56,Feminino,Meta Ads,A
+1389,57,Feminino,Google Ads,A
+1390,52,Masculino,Google Ads,B
+1391,51,Masculino,Meta Ads,A
+1392,64,Masculino,Orgânico,A
+1393,41,Masculino,Meta Ads,A
+1394,39,Masculino,Google Ads,A
+1395,22,Feminino,Meta Ads,A
+1396,50,Masculino,Orgânico,A
+1397,53,Feminino,Meta Ads,B
+1398,64,Masculino,Meta Ads,B
+1399,37,Masculino,Orgânico,B
+1400,36,Feminino,Meta Ads,B
+1401,52,Feminino,Meta Ads,A
+1402,60,Feminino,Orgânico,B
+1403,34,Feminino,Google Ads,B
+1404,62,Masculino,Email Marketing,A
+1405,60,Feminino,Google Ads,B
+1406,51,Masculino,Google Ads,A
+1407,26,Masculino,Orgânico,A
+1408,43,Masculino,Google Ads,B
+1409,19,Masculino,Orgânico,A
+1410,26,Masculino,Orgânico,A
+1411,26,Feminino,Orgânico,A
+1412,57,Feminino,Email Marketing,A
+1413,34,Masculino,Google Ads,A
+1414,18,Masculino,Orgânico,B
+1415,42,Masculino,Google Ads,B
+1416,60,Masculino,Meta Ads,B
+1417,57,Feminino,Orgânico,A
+1418,59,Masculino,Google Ads,B
+1419,42,Feminino,Meta Ads,B
+1420,56,Masculino,Meta Ads,A
+1421,52,Outro,Meta Ads,B
+1422,20,Masculino,Email Marketing,B
+1423,54,Feminino,Google Ads,B
+1424,61,Masculino,Meta Ads,A
+1425,61,Feminino,Orgânico,A
+1426,47,Masculino,Meta Ads,B
+1427,55,Masculino,Google Ads,B
+1428,51,Feminino,Meta Ads,B
+1429,29,Feminino,Google Ads,B
+1430,36,Feminino,Google Ads,B
+1431,54,Feminino,Orgânico,A
+1432,61,Feminino,Meta Ads,B
+1433,34,Masculino,Email Marketing,A
+1434,27,Masculino,Orgânico,B
+1435,64,Masculino,Meta Ads,B
+1436,29,Feminino,Google Ads,A
+1437,33,Masculino,Meta Ads,B
+1438,41,Masculino,Google Ads,A
+1439,36,Feminino,Email Marketing,A
+1440,25,Feminino,Google Ads,A
+1441,48,Masculino,Google Ads,A
+1442,38,Masculino,Meta Ads,A
+1443,34,Masculino,Google Ads,A
+1444,40,Masculino,Google Ads,B
+1445,54,Masculino,Meta Ads,B
+1446,33,Feminino,Google Ads,B
+1447,23,Feminino,Google Ads,A
+1448,25,Feminino,Google Ads,B
+1449,42,Masculino,Orgânico,B
+1450,35,Feminino,Meta Ads,A
+1451,42,Masculino,Meta Ads,B
+1452,29,Masculino,Meta Ads,A
+1453,32,Feminino,Google Ads,B
+1454,43,Masculino,Email Marketing,A
+1455,58,Masculino,Google Ads,A
+1456,62,Feminino,Meta Ads,B
+1457,43,Masculino,Orgânico,A
+1458,64,Feminino,Orgânico,A
+1459,49,Masculino,Google Ads,B
+1460,27,Feminino,Google Ads,B
+1461,33,Masculino,Orgânico,B
+1462,24,Masculino,Google Ads,A
+1463,34,Feminino,Orgânico,A
+1464,40,Masculino,Orgânico,B
+1465,43,Masculino,Orgânico,A
+1466,38,Masculino,Google Ads,A
+1467,39,Masculino,Orgânico,B
+1468,24,Masculino,Meta Ads,A
+1469,31,Masculino,Orgânico,A
+1470,32,Feminino,Google Ads,A
+1471,24,Masculino,Google Ads,A
+1472,26,Feminino,Google Ads,A
+1473,25,Masculino,Google Ads,A
+1474,40,Masculino,Meta Ads,A
+1475,46,Feminino,Email Marketing,B
+1476,35,Masculino,Google Ads,B
+1477,48,Outro,Orgânico,A
+1478,47,Masculino,Google Ads,B
+1479,56,Feminino,Google Ads,A
+1480,52,Feminino,Google Ads,A
+1481,35,Feminino,Google Ads,A
+1482,59,Feminino,Email Marketing,B
+1483,56,Feminino,Google Ads,B
+1484,34,Masculino,Meta Ads,B
+1485,31,Masculino,Meta Ads,A
+1486,48,Feminino,Email Marketing,A
+1487,41,Masculino,Google Ads,B
+1488,52,Masculino,Google Ads,A
+1489,61,Feminino,Google Ads,B
+1490,62,Masculino,Meta Ads,B
+1491,51,Feminino,Google Ads,B
+1492,20,Feminino,Orgânico,B
+1493,54,Feminino,Meta Ads,B
+1494,60,Feminino,Meta Ads,B
+1495,57,Masculino,Meta Ads,B
+1496,43,Masculino,Google Ads,A
+1497,40,Masculino,Meta Ads,B
+1498,61,Masculino,Email Marketing,A
+1499,56,Feminino,Orgânico,A
+1500,32,Feminino,Orgânico,A
+1501,21,Masculino,Orgânico,A
+1502,46,Masculino,Google Ads,B
+1503,39,Outro,Google Ads,B
+1504,42,Masculino,Google Ads,A
+1505,30,Feminino,Google Ads,A
+1506,35,Masculino,Google Ads,B
+1507,50,Feminino,Meta Ads,B
+1508,33,Feminino,Meta Ads,B
+1509,62,Feminino,Orgânico,A
+1510,59,Feminino,Orgânico,B
+1511,61,Masculino,Email Marketing,A
+1512,19,Masculino,Google Ads,A
+1513,52,Feminino,Google Ads,A
+1514,59,Masculino,Meta Ads,A
+1515,51,Feminino,Google Ads,A
+1516,47,Feminino,Google Ads,B
+1517,30,Feminino,Google Ads,A
+1518,30,Feminino,Google Ads,A
+1519,35,Feminino,Meta Ads,A
+1520,49,Feminino,Meta Ads,A
+1521,49,Masculino,Meta Ads,B
+1522,52,Masculino,Meta Ads,A
+1523,56,Masculino,Google Ads,B
+1524,63,Feminino,Google Ads,A
+1525,46,Masculino,Google Ads,B
+1526,46,Feminino,Google Ads,B
+1527,61,Masculino,Orgânico,B
+1528,33,Feminino,Orgânico,B
+1529,61,Masculino,Meta Ads,B
+1530,64,Feminino,Google Ads,A
+1531,27,Feminino,Meta Ads,B
+1532,47,Masculino,Meta Ads,B
+1533,42,Masculino,Meta Ads,B
+1534,56,Feminino,Meta Ads,A
+1535,37,Feminino,Meta Ads,A
+1536,22,Masculino,Meta Ads,B
+1537,18,Outro,Orgânico,A
+1538,47,Feminino,Google Ads,A
+1539,20,Feminino,Orgânico,A
+1540,62,Masculino,Google Ads,B
+1541,31,Masculino,Google Ads,B
+1542,47,Feminino,Email Marketing,A
+1543,21,Feminino,Email Marketing,A
+1544,35,Feminino,Google Ads,A
+1545,54,Masculino,Meta Ads,A
+1546,42,Masculino,Google Ads,B
+1547,18,Masculino,Meta Ads,B
+1548,63,Masculino,Orgânico,A
+1549,32,Masculino,Email Marketing,B
+1550,26,Masculino,Meta Ads,B
+1551,32,Outro,Google Ads,A
+1552,41,Masculino,Meta Ads,A
+1553,21,Feminino,Google Ads,B
+1554,29,Feminino,Email Marketing,A
+1555,54,Feminino,Orgânico,B
+1556,54,Masculino,Meta Ads,A
+1557,60,Feminino,Google Ads,B
+1558,23,Feminino,Google Ads,B
+1559,56,Feminino,Google Ads,B
+1560,63,Feminino,Orgânico,B
+1561,41,Outro,Meta Ads,B
+1562,28,Feminino,Google Ads,B
+1563,30,Masculino,Meta Ads,A
+1564,51,Feminino,Orgânico,A
+1565,42,Masculino,Google Ads,B
+1566,24,Feminino,Orgânico,B
+1567,21,Masculino,Orgânico,A
+1568,25,Masculino,Email Marketing,A
+1569,37,Feminino,Google Ads,B
+1570,46,Feminino,Google Ads,A
+1571,62,Masculino,Google Ads,A
+1572,63,Masculino,Google Ads,B
+1573,27,Feminino,Google Ads,B
+1574,60,Masculino,Meta Ads,A
+1575,51,Feminino,Meta Ads,A
+1576,43,Masculino,Orgânico,A
+1577,58,Feminino,Google Ads,A
+1578,20,Feminino,Meta Ads,B
+1579,23,Masculino,Orgânico,B
+1580,22,Masculino,Orgânico,A
+1581,22,Masculino,Orgânico,A
+1582,64,Feminino,Orgânico,A
+1583,40,Feminino,Email Marketing,B
+1584,26,Feminino,Google Ads,A
+1585,52,Masculino,Meta Ads,B
+1586,37,Masculino,Google Ads,B
+1587,59,Masculino,Google Ads,B
+1588,52,Masculino,Google Ads,B
+1589,35,Feminino,Google Ads,A
+1590,34,Feminino,Google Ads,B
+1591,41,Feminino,Google Ads,A
+1592,20,Masculino,Google Ads,B
+1593,49,Feminino,Email Marketing,A
+1594,52,Feminino,Google Ads,B
+1595,55,Feminino,Orgânico,A
+1596,30,Feminino,Google Ads,B
+1597,64,Masculino,Email Marketing,A
+1598,42,Masculino,Orgânico,B
+1599,26,Feminino,Meta Ads,A
+1600,21,Masculino,Meta Ads,A
+1601,31,Masculino,Google Ads,B
+1602,54,Feminino,Email Marketing,B
+1603,51,Feminino,Orgânico,A
+1604,28,Feminino,Orgânico,B
+1605,58,Masculino,Meta Ads,B
+1606,20,Masculino,Google Ads,B
+1607,45,Feminino,Orgânico,A
+1608,46,Outro,Google Ads,A
+1609,26,Feminino,Meta Ads,B
+1610,20,Feminino,Google Ads,A
+1611,42,Feminino,Email Marketing,B
+1612,51,Feminino,Google Ads,A
+1613,29,Masculino,Google Ads,A
+1614,59,Feminino,Meta Ads,B
+1615,26,Feminino,Orgânico,B
+1616,32,Feminino,Meta Ads,B
+1617,57,Feminino,Google Ads,A
+1618,42,Feminino,Google Ads,A
+1619,22,Masculino,Orgânico,A
+1620,28,Feminino,Email Marketing,A
+1621,51,Masculino,Orgânico,B
+1622,41,Feminino,Meta Ads,B
+1623,32,Masculino,Email Marketing,A
+1624,55,Masculino,Meta Ads,B
+1625,25,Masculino,Meta Ads,A
+1626,22,Feminino,Meta Ads,B
+1627,43,Masculino,Meta Ads,A
+1628,35,Masculino,Orgânico,B
+1629,23,Feminino,Meta Ads,A
+1630,54,Masculino,Google Ads,A
+1631,30,Feminino,Google Ads,A
+1632,45,Feminino,Google Ads,A
+1633,22,Feminino,Meta Ads,A
+1634,30,Masculino,Google Ads,A
+1635,34,Feminino,Google Ads,A
+1636,57,Masculino,Meta Ads,B
+1637,62,Masculino,Meta Ads,A
+1638,49,Masculino,Orgânico,B
+1639,46,Feminino,Meta Ads,A
+1640,20,Masculino,Orgânico,B
+1641,57,Feminino,Email Marketing,B
+1642,51,Feminino,Orgânico,A
+1643,57,Feminino,Meta Ads,B
+1644,44,Masculino,Google Ads,A
+1645,30,Outro,Email Marketing,B
+1646,62,Feminino,Google Ads,B
+1647,50,Feminino,Google Ads,A
+1648,23,Masculino,Meta Ads,A
+1649,41,Feminino,Google Ads,A
+1650,36,Masculino,Email Marketing,A
+1651,33,Masculino,Meta Ads,B
+1652,57,Masculino,Meta Ads,A
+1653,45,Feminino,Meta Ads,A
+1654,50,Masculino,Meta Ads,A
+1655,58,Masculino,Google Ads,A
+1656,30,Feminino,Meta Ads,A
+1657,60,Feminino,Orgânico,B
+1658,62,Masculino,Meta Ads,A
+1659,42,Feminino,Orgânico,B
+1660,59,Masculino,Google Ads,A
+1661,53,Masculino,Google Ads,A
+1662,44,Masculino,Google Ads,B
+1663,55,Feminino,Google Ads,A
+1664,24,Masculino,Orgânico,A
+1665,22,Masculino,Orgânico,B
+1666,60,Masculino,Google Ads,A
+1667,62,Feminino,Meta Ads,A
+1668,48,Masculino,Orgânico,B
+1669,40,Masculino,Google Ads,B
+1670,59,Masculino,Google Ads,A
+1671,27,Masculino,Email Marketing,A
+1672,49,Feminino,Meta Ads,A
+1673,60,Feminino,Email Marketing,A
+1674,47,Masculino,Google Ads,B
+1675,56,Masculino,Orgânico,B
+1676,48,Masculino,Google Ads,B
+1677,35,Masculino,Google Ads,A
+1678,53,Masculino,Meta Ads,A
+1679,19,Feminino,Google Ads,B
+1680,31,Outro,Google Ads,A
+1681,30,Outro,Google Ads,B
+1682,46,Feminino,Google Ads,B
+1683,29,Feminino,Orgânico,B
+1684,56,Feminino,Meta Ads,A
+1685,19,Masculino,Google Ads,A
+1686,49,Feminino,Google Ads,B
+1687,30,Masculino,Google Ads,B
+1688,63,Feminino,Meta Ads,B
+1689,44,Feminino,Google Ads,A
+1690,58,Masculino,Orgânico,B
+1691,34,Masculino,Google Ads,B
+1692,57,Feminino,Google Ads,A
+1693,48,Masculino,Orgânico,B
+1694,51,Feminino,Orgânico,B
+1695,41,Feminino,Google Ads,A
+1696,62,Feminino,Orgânico,A
+1697,52,Feminino,Meta Ads,B
+1698,23,Masculino,Orgânico,A
+1699,36,Masculino,Meta Ads,B
+1700,47,Feminino,Meta Ads,A
+1701,24,Feminino,Email Marketing,A
+1702,27,Feminino,Google Ads,B
+1703,58,Masculino,Meta Ads,B
+1704,49,Masculino,Meta Ads,A
+1705,51,Outro,Google Ads,B
+1706,45,Masculino,Google Ads,A
+1707,32,Feminino,Google Ads,A
+1708,47,Masculino,Meta Ads,A
+1709,54,Feminino,Meta Ads,A
+1710,46,Feminino,Meta Ads,B
+1711,39,Feminino,Google Ads,B
+1712,21,Masculino,Meta Ads,B
+1713,37,Feminino,Email Marketing,B
+1714,49,Feminino,Google Ads,A
+1715,53,Masculino,Meta Ads,B
+1716,21,Feminino,Orgânico,B
+1717,44,Feminino,Orgânico,B
+1718,34,Feminino,Meta Ads,B
+1719,29,Feminino,Orgânico,B
+1720,39,Masculino,Google Ads,A
+1721,34,Masculino,Orgânico,B
+1722,27,Masculino,Google Ads,B
+1723,18,Feminino,Google Ads,B
+1724,39,Feminino,Google Ads,A
+1725,43,Feminino,Orgânico,B
+1726,35,Masculino,Meta Ads,B
+1727,31,Masculino,Google Ads,A
+1728,64,Feminino,Google Ads,B
+1729,46,Masculino,Email Marketing,A
+1730,29,Masculino,Orgânico,A
+1731,53,Feminino,Meta Ads,A
+1732,52,Masculino,Meta Ads,B
+1733,29,Masculino,Meta Ads,A
+1734,24,Masculino,Google Ads,A
+1735,46,Masculino,Email Marketing,A
+1736,28,Outro,Google Ads,A
+1737,50,Masculino,Meta Ads,A
+1738,23,Masculino,Google Ads,A
+1739,64,Masculino,Meta Ads,B
+1740,32,Feminino,Meta Ads,B
+1741,49,Masculino,Meta Ads,A
+1742,28,Feminino,Google Ads,A
+1743,40,Masculino,Meta Ads,B
+1744,43,Masculino,Google Ads,A
+1745,51,Masculino,Google Ads,B
+1746,63,Feminino,Google Ads,B
+1747,51,Feminino,Orgânico,A
+1748,46,Masculino,Meta Ads,A
+1749,21,Feminino,Meta Ads,B
+1750,34,Feminino,Orgânico,A
+1751,52,Masculino,Meta Ads,A
+1752,30,Feminino,Meta Ads,A
+1753,58,Masculino,Google Ads,B
+1754,56,Feminino,Google Ads,B
+1755,32,Feminino,Meta Ads,A
+1756,46,Feminino,Meta Ads,B
+1757,46,Feminino,Orgânico,A
+1758,28,Masculino,Orgânico,B
+1759,49,Feminino,Google Ads,A
+1760,19,Masculino,Google Ads,B
+1761,64,Masculino,Meta Ads,B
+1762,31,Feminino,Google Ads,A
+1763,37,Feminino,Google Ads,A
+1764,39,Feminino,Orgânico,A
+1765,28,Masculino,Google Ads,A
+1766,44,Feminino,Email Marketing,A
+1767,20,Feminino,Orgânico,B
+1768,34,Masculino,Orgânico,B
+1769,61,Masculino,Google Ads,A
+1770,45,Masculino,Google Ads,B
+1771,46,Masculino,Meta Ads,B
+1772,38,Outro,Google Ads,B
+1773,64,Feminino,Google Ads,A
+1774,33,Feminino,Google Ads,A
+1775,54,Outro,Google Ads,A
+1776,37,Masculino,Google Ads,A
+1777,23,Feminino,Orgânico,B
+1778,36,Masculino,Google Ads,B
+1779,22,Feminino,Google Ads,A
+1780,20,Masculino,Meta Ads,A
+1781,18,Feminino,Email Marketing,B
+1782,55,Masculino,Google Ads,B
+1783,32,Masculino,Google Ads,B
+1784,51,Feminino,Meta Ads,A
+1785,52,Masculino,Email Marketing,B
+1786,42,Feminino,Orgânico,B
+1787,41,Masculino,Meta Ads,B
+1788,29,Feminino,Google Ads,A
+1789,35,Masculino,Meta Ads,A
+1790,32,Masculino,Google Ads,A
+1791,61,Masculino,Meta Ads,B
+1792,33,Masculino,Orgânico,B
+1793,44,Masculino,Email Marketing,B
+1794,25,Masculino,Google Ads,B
+1795,63,Masculino,Google Ads,A
+1796,42,Masculino,Meta Ads,A
+1797,34,Feminino,Orgânico,A
+1798,46,Feminino,Orgânico,A
+1799,25,Masculino,Google Ads,B
+1800,32,Feminino,Google Ads,B
+1801,44,Feminino,Meta Ads,A
+1802,63,Masculino,Google Ads,B
+1803,24,Feminino,Orgânico,B
+1804,20,Masculino,Meta Ads,A
+1805,46,Feminino,Orgânico,A
+1806,61,Masculino,Meta Ads,A
+1807,41,Feminino,Orgânico,A
+1808,20,Feminino,Google Ads,B
+1809,37,Masculino,Orgânico,A
+1810,63,Masculino,Google Ads,A
+1811,32,Outro,Meta Ads,B
+1812,42,Masculino,Google Ads,B
+1813,47,Feminino,Meta Ads,A
+1814,31,Feminino,Google Ads,B
+1815,24,Feminino,Google Ads,A
+1816,34,Feminino,Email Marketing,A
+1817,61,Feminino,Google Ads,B
+1818,37,Feminino,Orgânico,A
+1819,53,Masculino,Email Marketing,B
+1820,26,Masculino,Google Ads,A
+1821,55,Masculino,Meta Ads,A
+1822,39,Outro,Google Ads,B
+1823,19,Feminino,Google Ads,A
+1824,41,Masculino,Meta Ads,B
+1825,25,Feminino,Email Marketing,B
+1826,28,Feminino,Google Ads,B
+1827,30,Masculino,Meta Ads,B
+1828,34,Feminino,Meta Ads,A
+1829,25,Masculino,Orgânico,B
+1830,38,Feminino,Google Ads,B
+1831,35,Masculino,Meta Ads,B
+1832,47,Feminino,Meta Ads,B
+1833,35,Feminino,Meta Ads,B
+1834,63,Masculino,Email Marketing,A
+1835,64,Outro,Orgânico,B
+1836,48,Feminino,Google Ads,A
+1837,55,Masculino,Meta Ads,A
+1838,49,Masculino,Google Ads,B
+1839,28,Feminino,Google Ads,A
+1840,62,Masculino,Meta Ads,A
+1841,42,Masculino,Google Ads,A
+1842,50,Masculino,Meta Ads,B
+1843,55,Masculino,Email Marketing,A
+1844,58,Feminino,Google Ads,B
+1845,25,Masculino,Email Marketing,A
+1846,28,Masculino,Meta Ads,A
+1847,39,Masculino,Meta Ads,A
+1848,41,Masculino,Orgânico,B
+1849,58,Feminino,Google Ads,A
+1850,34,Masculino,Meta Ads,B
+1851,29,Outro,Meta Ads,B
+1852,63,Feminino,Google Ads,B
+1853,49,Masculino,Email Marketing,B
+1854,32,Feminino,Orgânico,A
+1855,33,Masculino,Google Ads,B
+1856,39,Feminino,Google Ads,B
+1857,45,Outro,Meta Ads,B
+1858,37,Masculino,Google Ads,B
+1859,50,Masculino,Meta Ads,B
+1860,27,Feminino,Google Ads,B
+1861,57,Masculino,Meta Ads,A
+1862,49,Masculino,Google Ads,B
+1863,50,Masculino,Google Ads,B
+1864,19,Masculino,Meta Ads,B
+1865,50,Feminino,Meta Ads,A
+1866,50,Masculino,Email Marketing,B
+1867,58,Masculino,Orgânico,B
+1868,30,Feminino,Google Ads,A
+1869,47,Masculino,Google Ads,B
+1870,50,Masculino,Orgânico,A
+1871,30,Feminino,Email Marketing,B
+1872,43,Masculino,Orgânico,A
+1873,39,Feminino,Google Ads,A
+1874,56,Feminino,Email Marketing,A
+1875,19,Masculino,Google Ads,B
+1876,55,Feminino,Orgânico,A
+1877,56,Masculino,Email Marketing,B
+1878,43,Masculino,Google Ads,B
+1879,63,Feminino,Email Marketing,B
+1880,32,Feminino,Google Ads,A
+1881,51,Masculino,Email Marketing,B
+1882,59,Feminino,Google Ads,B
+1883,61,Feminino,Email Marketing,A
+1884,57,Outro,Google Ads,A
+1885,28,Feminino,Orgânico,A
+1886,20,Masculino,Meta Ads,B
+1887,23,Masculino,Meta Ads,A
+1888,26,Feminino,Google Ads,A
+1889,23,Masculino,Orgânico,B
+1890,26,Feminino,Google Ads,B
+1891,56,Masculino,Meta Ads,B
+1892,48,Masculino,Google Ads,B
+1893,49,Masculino,Email Marketing,A
+1894,58,Outro,Google Ads,B
+1895,29,Masculino,Google Ads,A
+1896,25,Feminino,Google Ads,B
+1897,25,Masculino,Meta Ads,B
+1898,45,Masculino,Google Ads,A
+1899,37,Masculino,Meta Ads,B
+1900,64,Feminino,Orgânico,A
+1901,24,Masculino,Orgânico,A
+1902,28,Masculino,Meta Ads,B
+1903,37,Masculino,Google Ads,B
+1904,33,Masculino,Meta Ads,B
+1905,21,Outro,Google Ads,B
+1906,23,Feminino,Orgânico,B
+1907,39,Masculino,Google Ads,A
+1908,43,Feminino,Meta Ads,A
+1909,20,Feminino,Google Ads,A
+1910,58,Masculino,Orgânico,A
+1911,59,Feminino,Google Ads,B
+1912,31,Feminino,Meta Ads,A
+1913,28,Masculino,Google Ads,A
+1914,35,Masculino,Orgânico,A
+1915,29,Outro,Email Marketing,B
+1916,40,Feminino,Meta Ads,B
+1917,29,Masculino,Meta Ads,A
+1918,30,Masculino,Email Marketing,B
+1919,42,Masculino,Meta Ads,A
+1920,62,Feminino,Meta Ads,B
+1921,36,Feminino,Meta Ads,A
+1922,63,Outro,Meta Ads,A
+1923,53,Masculino,Google Ads,B
+1924,62,Feminino,Orgânico,B
+1925,25,Feminino,Meta Ads,A
+1926,46,Masculino,Google Ads,B
+1927,49,Masculino,Orgânico,B
+1928,61,Outro,Google Ads,B
+1929,35,Feminino,Google Ads,A
+1930,23,Feminino,Meta Ads,A
+1931,35,Feminino,Orgânico,B
+1932,36,Masculino,Orgânico,A
+1933,39,Feminino,Email Marketing,A
+1934,54,Feminino,Orgânico,A
+1935,49,Feminino,Google Ads,B
+1936,58,Outro,Google Ads,A
+1937,20,Feminino,Orgânico,B
+1938,45,Masculino,Google Ads,A
+1939,27,Feminino,Meta Ads,A
+1940,52,Masculino,Meta Ads,A
+1941,46,Masculino,Google Ads,A
+1942,32,Masculino,Email Marketing,B
+1943,50,Masculino,Meta Ads,B
+1944,24,Feminino,Meta Ads,A
+1945,29,Feminino,Email Marketing,A
+1946,47,Feminino,Meta Ads,B
+1947,38,Feminino,Google Ads,B
+1948,48,Masculino,Meta Ads,B
+1949,41,Feminino,Orgânico,B
+1950,37,Masculino,Orgânico,A
+1951,54,Masculino,Orgânico,B
+1952,21,Feminino,Orgânico,A
+1953,45,Masculino,Google Ads,A
+1954,61,Masculino,Orgânico,B
+1955,37,Feminino,Orgânico,B
+1956,41,Feminino,Google Ads,B
+1957,49,Masculino,Google Ads,A
+1958,58,Outro,Email Marketing,A
+1959,53,Feminino,Orgânico,A
+1960,51,Feminino,Orgânico,B
+1961,53,Masculino,Orgânico,A
+1962,19,Feminino,Meta Ads,B
+1963,32,Feminino,Meta Ads,A
+1964,51,Feminino,Meta Ads,B
+1965,53,Feminino,Google Ads,B
+1966,23,Masculino,Orgânico,A
+1967,56,Masculino,Meta Ads,A
+1968,59,Masculino,Meta Ads,B
+1969,29,Masculino,Meta Ads,B
+1970,20,Feminino,Meta Ads,B
+1971,62,Masculino,Google Ads,B
+1972,35,Outro,Google Ads,A
+1973,57,Feminino,Google Ads,B
+1974,38,Masculino,Google Ads,A
+1975,32,Masculino,Email Marketing,B
+1976,50,Feminino,Google Ads,A
+1977,52,Outro,Google Ads,B
+1978,43,Masculino,Meta Ads,A
+1979,25,Masculino,Meta Ads,A
+1980,53,Feminino,Google Ads,A
+1981,47,Feminino,Orgânico,B
+1982,40,Masculino,Orgânico,B
+1983,59,Feminino,Google Ads,B
+1984,61,Masculino,Google Ads,A
+1985,31,Masculino,Email Marketing,B
+1986,31,Masculino,Orgânico,B
+1987,19,Masculino,Meta Ads,A
+1988,54,Masculino,Google Ads,A
+1989,22,Feminino,Meta Ads,A
+1990,55,Masculino,Meta Ads,A
+1991,62,Masculino,Google Ads,A
+1992,58,Masculino,Meta Ads,B
+1993,64,Outro,Meta Ads,A
+1994,31,Masculino,Google Ads,B
+1995,56,Masculino,Orgânico,B
+1996,42,Feminino,Orgânico,B
+1997,37,Outro,Google Ads,B
+1998,19,Masculino,Orgânico,A
+1999,56,Feminino,Google Ads,B
+2000,23,Feminino,Orgânico,A
+2001,34,Feminino,Google Ads,B
+2002,42,Masculino,Google Ads,B
+2003,45,Feminino,Meta Ads,B
+2004,19,Masculino,Meta Ads,B
+2005,52,Feminino,Email Marketing,A
+2006,54,Feminino,Google Ads,A
+2007,22,Masculino,Google Ads,B
+2008,18,Feminino,Meta Ads,A
+2009,57,Masculino,Meta Ads,B
+2010,29,Feminino,Google Ads,A
+2011,53,Masculino,Meta Ads,B
+2012,62,Masculino,Orgânico,A
+2013,40,Masculino,Orgânico,B
+2014,64,Feminino,Email Marketing,B
+2015,48,Masculino,Google Ads,A
+2016,28,Masculino,Orgânico,A
+2017,27,Masculino,Google Ads,A
+2018,20,Feminino,Meta Ads,A
+2019,31,Feminino,Meta Ads,A
+2020,33,Masculino,Email Marketing,A
+2021,27,Masculino,Orgânico,B
+2022,46,Masculino,Email Marketing,A
+2023,27,Masculino,Orgânico,B
+2024,29,Masculino,Email Marketing,B
+2025,47,Feminino,Orgânico,A
+2026,58,Masculino,Meta Ads,A
+2027,18,Masculino,Google Ads,B
+2028,22,Masculino,Google Ads,A
+2029,37,Outro,Google Ads,B
+2030,25,Feminino,Meta Ads,B
+2031,60,Feminino,Meta Ads,A
+2032,29,Masculino,Meta Ads,B
+2033,18,Masculino,Email Marketing,A
+2034,37,Masculino,Email Marketing,A
+2035,45,Masculino,Google Ads,B
+2036,60,Feminino,Google Ads,B
+2037,54,Feminino,Meta Ads,B
+2038,64,Feminino,Google Ads,B
+2039,54,Feminino,Orgânico,B
+2040,29,Masculino,Meta Ads,B
+2041,54,Feminino,Meta Ads,A
+2042,61,Masculino,Orgânico,B
+2043,45,Masculino,Orgânico,B
+2044,64,Feminino,Google Ads,A
+2045,32,Masculino,Orgânico,B
+2046,23,Masculino,Meta Ads,A
+2047,61,Masculino,Google Ads,B
+2048,37,Feminino,Google Ads,B
+2049,31,Feminino,Meta Ads,B
+2050,19,Masculino,Google Ads,A
+2051,26,Feminino,Google Ads,B
+2052,54,Masculino,Meta Ads,A
+2053,37,Masculino,Orgânico,B
+2054,43,Feminino,Google Ads,B
+2055,46,Feminino,Google Ads,B
+2056,18,Outro,Orgânico,B
+2057,52,Masculino,Google Ads,B
+2058,23,Feminino,Email Marketing,A
+2059,54,Feminino,Meta Ads,A
+2060,22,Feminino,Google Ads,B
+2061,50,Masculino,Google Ads,A
+2062,31,Feminino,Google Ads,A
+2063,29,Feminino,Google Ads,B
+2064,59,Masculino,Google Ads,A
+2065,37,Masculino,Meta Ads,A
+2066,41,Masculino,Google Ads,B
+2067,60,Feminino,Meta Ads,A
+2068,51,Feminino,Meta Ads,A
+2069,42,Feminino,Google Ads,A
+2070,46,Feminino,Google Ads,B
+2071,56,Feminino,Google Ads,B
+2072,48,Masculino,Google Ads,B
+2073,64,Masculino,Orgânico,A
+2074,60,Feminino,Google Ads,B
+2075,40,Masculino,Orgânico,B
+2076,61,Masculino,Meta Ads,B
+2077,55,Feminino,Meta Ads,B
+2078,37,Masculino,Meta Ads,A
+2079,40,Masculino,Orgânico,A
+2080,62,Masculino,Google Ads,A
+2081,33,Masculino,Google Ads,A
+2082,59,Feminino,Meta Ads,B
+2083,25,Feminino,Google Ads,B
+2084,38,Feminino,Meta Ads,B
+2085,18,Masculino,Meta Ads,A
+2086,25,Feminino,Meta Ads,A
+2087,46,Feminino,Meta Ads,A
+2088,49,Feminino,Meta Ads,A
+2089,55,Masculino,Orgânico,A
+2090,22,Feminino,Orgânico,B
+2091,64,Feminino,Meta Ads,A
+2092,39,Feminino,Meta Ads,B
+2093,64,Feminino,Orgânico,A
+2094,51,Masculino,Meta Ads,B
+2095,18,Feminino,Meta Ads,B
+2096,43,Masculino,Orgânico,A
+2097,60,Feminino,Meta Ads,B
+2098,27,Masculino,Google Ads,B
+2099,47,Masculino,Orgânico,B
+2100,35,Masculino,Google Ads,B
+2101,34,Feminino,Orgânico,A
+2102,43,Masculino,Orgânico,B
+2103,25,Feminino,Email Marketing,B
+2104,64,Feminino,Google Ads,A
+2105,57,Masculino,Meta Ads,A
+2106,29,Masculino,Meta Ads,B
+2107,44,Masculino,Google Ads,A
+2108,25,Feminino,Google Ads,B
+2109,42,Feminino,Meta Ads,B
+2110,63,Masculino,Meta Ads,B
+2111,21,Masculino,Google Ads,A
+2112,50,Feminino,Meta Ads,A
+2113,18,Feminino,Orgânico,A
+2114,36,Feminino,Orgânico,B
+2115,48,Feminino,Email Marketing,B
+2116,33,Masculino,Meta Ads,B
+2117,31,Masculino,Email Marketing,B
+2118,22,Masculino,Orgânico,A
+2119,58,Masculino,Google Ads,A
+2120,43,Masculino,Google Ads,B
+2121,45,Masculino,Meta Ads,A
+2122,19,Masculino,Meta Ads,A
+2123,23,Feminino,Meta Ads,A
+2124,26,Feminino,Meta Ads,A
+2125,50,Feminino,Orgânico,A
+2126,58,Feminino,Meta Ads,B
+2127,42,Masculino,Google Ads,B
+2128,30,Feminino,Orgânico,B
+2129,26,Masculino,Google Ads,B
+2130,30,Feminino,Email Marketing,B
+2131,48,Masculino,Google Ads,B
+2132,58,Outro,Email Marketing,A
+2133,28,Masculino,Google Ads,B
+2134,21,Masculino,Google Ads,A
+2135,51,Feminino,Google Ads,A
+2136,55,Masculino,Orgânico,A
+2137,63,Feminino,Orgânico,B
+2138,21,Feminino,Meta Ads,A
+2139,55,Feminino,Email Marketing,A
+2140,36,Outro,Meta Ads,A
+2141,23,Outro,Meta Ads,B
+2142,51,Masculino,Orgânico,B
+2143,35,Feminino,Google Ads,B
+2144,30,Feminino,Google Ads,A
+2145,58,Feminino,Email Marketing,A
+2146,40,Masculino,Email Marketing,B
+2147,36,Feminino,Email Marketing,A
+2148,62,Outro,Email Marketing,B
+2149,28,Feminino,Google Ads,B
+2150,18,Masculino,Orgânico,B
+2151,41,Masculino,Meta Ads,B
+2152,24,Masculino,Email Marketing,A
+2153,42,Feminino,Meta Ads,A
+2154,38,Feminino,Meta Ads,B
+2155,32,Masculino,Meta Ads,A
+2156,18,Masculino,Google Ads,A
+2157,29,Masculino,Google Ads,A
+2158,24,Masculino,Orgânico,A
+2159,32,Feminino,Orgânico,A
+2160,38,Feminino,Google Ads,A
+2161,36,Masculino,Orgânico,B
+2162,46,Feminino,Meta Ads,B
+2163,42,Masculino,Meta Ads,B
+2164,50,Outro,Google Ads,B
+2165,49,Masculino,Orgânico,A
+2166,52,Masculino,Orgânico,A
+2167,61,Masculino,Meta Ads,A
+2168,55,Feminino,Meta Ads,B
+2169,43,Feminino,Google Ads,B
+2170,28,Feminino,Meta Ads,A
+2171,52,Masculino,Google Ads,A
+2172,25,Masculino,Google Ads,B
+2173,63,Masculino,Meta Ads,B
+2174,31,Feminino,Email Marketing,B
+2175,27,Masculino,Meta Ads,A
+2176,19,Feminino,Google Ads,A
+2177,63,Feminino,Meta Ads,B
+2178,26,Feminino,Orgânico,B
+2179,20,Masculino,Orgânico,B
+2180,38,Masculino,Orgânico,B
+2181,43,Masculino,Meta Ads,B
+2182,25,Feminino,Orgânico,B
+2183,19,Feminino,Google Ads,A
+2184,23,Masculino,Google Ads,A
+2185,45,Masculino,Google Ads,B
+2186,46,Feminino,Meta Ads,A
+2187,43,Feminino,Email Marketing,B
+2188,42,Masculino,Orgânico,B
+2189,29,Feminino,Google Ads,B
+2190,22,Masculino,Google Ads,A
+2191,51,Masculino,Google Ads,A
+2192,54,Feminino,Google Ads,B
+2193,32,Feminino,Meta Ads,B
+2194,61,Feminino,Email Marketing,B
+2195,53,Masculino,Email Marketing,A
+2196,32,Feminino,Meta Ads,A
+2197,60,Masculino,Orgânico,B
+2198,40,Masculino,Meta Ads,B
+2199,23,Feminino,Google Ads,B
+2200,63,Masculino,Meta Ads,A
+2201,61,Feminino,Meta Ads,A
+2202,60,Feminino,Orgânico,A
+2203,62,Masculino,Google Ads,B
+2204,38,Masculino,Google Ads,B
+2205,40,Masculino,Google Ads,A
+2206,60,Masculino,Email Marketing,A
+2207,33,Feminino,Meta Ads,B
+2208,64,Feminino,Orgânico,A
+2209,32,Masculino,Orgânico,B
+2210,42,Masculino,Google Ads,B
+2211,53,Feminino,Meta Ads,A
+2212,28,Feminino,Orgânico,A
+2213,32,Masculino,Meta Ads,B
+2214,21,Masculino,Email Marketing,A
+2215,38,Feminino,Google Ads,A
+2216,30,Masculino,Google Ads,B
+2217,39,Masculino,Orgânico,B
+2218,36,Feminino,Orgânico,B
+2219,51,Feminino,Email Marketing,A
+2220,31,Feminino,Meta Ads,A
+2221,21,Feminino,Email Marketing,A
+2222,63,Feminino,Orgânico,A
+2223,44,Masculino,Orgânico,B
+2224,46,Masculino,Meta Ads,A
+2225,64,Masculino,Google Ads,B
+2226,45,Masculino,Email Marketing,A
+2227,52,Feminino,Meta Ads,A
+2228,25,Feminino,Meta Ads,B
+2229,33,Outro,Meta Ads,A
+2230,59,Feminino,Meta Ads,A
+2231,53,Masculino,Meta Ads,A
+2232,47,Masculino,Google Ads,A
+2233,35,Feminino,Orgânico,A
+2234,19,Feminino,Meta Ads,A
+2235,30,Feminino,Meta Ads,B
+2236,21,Feminino,Google Ads,B
+2237,43,Feminino,Google Ads,B
+2238,42,Feminino,Google Ads,A
+2239,47,Masculino,Orgânico,B
+2240,28,Feminino,Google Ads,A
+2241,24,Feminino,Email Marketing,B
+2242,48,Masculino,Google Ads,B
+2243,61,Feminino,Google Ads,A
+2244,27,Masculino,Google Ads,B
+2245,56,Feminino,Google Ads,B
+2246,30,Masculino,Orgânico,B
+2247,48,Feminino,Orgânico,A
+2248,24,Masculino,Meta Ads,B
+2249,59,Feminino,Google Ads,B
+2250,59,Masculino,Google Ads,A
+2251,53,Masculino,Meta Ads,B
+2252,37,Feminino,Email Marketing,A
+2253,21,Feminino,Google Ads,A
+2254,24,Masculino,Orgânico,B
+2255,18,Masculino,Meta Ads,B
+2256,61,Feminino,Google Ads,B
+2257,62,Feminino,Meta Ads,B
+2258,59,Feminino,Google Ads,A
+2259,64,Masculino,Orgânico,A
+2260,30,Feminino,Google Ads,B
+2261,39,Masculino,Orgânico,A
+2262,38,Masculino,Google Ads,B
+2263,39,Feminino,Email Marketing,B
+2264,45,Feminino,Google Ads,A
+2265,26,Feminino,Orgânico,A
+2266,43,Masculino,Orgânico,B
+2267,26,Masculino,Email Marketing,B
+2268,32,Masculino,Meta Ads,B
+2269,27,Outro,Orgânico,B
+2270,41,Masculino,Google Ads,A
+2271,59,Masculino,Google Ads,A
+2272,25,Masculino,Meta Ads,A
+2273,41,Feminino,Google Ads,A
+2274,33,Masculino,Email Marketing,A
+2275,43,Feminino,Google Ads,A
+2276,44,Masculino,Meta Ads,A
+2277,54,Feminino,Meta Ads,A
+2278,21,Masculino,Meta Ads,A
+2279,41,Feminino,Meta Ads,B
+2280,36,Feminino,Google Ads,B
+2281,53,Masculino,Meta Ads,A
+2282,56,Outro,Google Ads,B
+2283,27,Masculino,Email Marketing,A
+2284,42,Feminino,Orgânico,B
+2285,35,Feminino,Email Marketing,A
+2286,36,Masculino,Google Ads,B
+2287,53,Masculino,Google Ads,A
+2288,27,Masculino,Google Ads,B
+2289,50,Masculino,Google Ads,A
+2290,22,Masculino,Google Ads,B
+2291,64,Masculino,Meta Ads,A
+2292,52,Masculino,Google Ads,A
+2293,61,Feminino,Meta Ads,B
+2294,51,Masculino,Orgânico,A
+2295,50,Masculino,Meta Ads,B
+2296,38,Feminino,Google Ads,A
+2297,34,Masculino,Google Ads,A
+2298,39,Masculino,Meta Ads,B
+2299,54,Masculino,Google Ads,A
+2300,32,Feminino,Meta Ads,A
+2301,52,Feminino,Google Ads,B
+2302,45,Masculino,Orgânico,B
+2303,24,Feminino,Orgânico,B
+2304,49,Feminino,Meta Ads,A
+2305,28,Feminino,Google Ads,B
+2306,27,Feminino,Google Ads,A
+2307,26,Feminino,Orgânico,A
+2308,31,Masculino,Meta Ads,B
+2309,30,Masculino,Google Ads,A
+2310,42,Masculino,Google Ads,A
+2311,19,Feminino,Google Ads,A
+2312,52,Feminino,Orgânico,B
+2313,24,Feminino,Google Ads,B
+2314,38,Outro,Meta Ads,B
+2315,35,Masculino,Meta Ads,A
+2316,20,Feminino,Meta Ads,B
+2317,59,Feminino,Orgânico,B
+2318,56,Outro,Orgânico,A
+2319,58,Outro,Meta Ads,A
+2320,28,Feminino,Google Ads,A
+2321,56,Masculino,Meta Ads,A
+2322,41,Feminino,Meta Ads,B
+2323,63,Masculino,Meta Ads,A
+2324,36,Feminino,Meta Ads,A
+2325,21,Feminino,Google Ads,B
+2326,43,Masculino,Meta Ads,B
+2327,55,Feminino,Google Ads,B
+2328,59,Masculino,Orgânico,A
+2329,49,Masculino,Google Ads,A
+2330,56,Masculino,Orgânico,A
+2331,62,Feminino,Google Ads,A
+2332,63,Feminino,Meta Ads,A
+2333,53,Feminino,Orgânico,B
+2334,57,Masculino,Google Ads,A
+2335,54,Feminino,Orgânico,A
+2336,50,Feminino,Meta Ads,A
+2337,53,Masculino,Meta Ads,B
+2338,20,Masculino,Google Ads,B
+2339,26,Masculino,Meta Ads,B
+2340,25,Feminino,Meta Ads,A
+2341,50,Feminino,Meta Ads,A
+2342,23,Feminino,Meta Ads,A
+2343,58,Masculino,Meta Ads,A
+2344,56,Feminino,Google Ads,B
+2345,21,Masculino,Google Ads,B
+2346,30,Masculino,Google Ads,B
+2347,19,Feminino,Google Ads,B
+2348,22,Masculino,Orgânico,B
+2349,61,Feminino,Orgânico,A
+2350,44,Masculino,Google Ads,B
+2351,49,Feminino,Email Marketing,A
+2352,38,Masculino,Meta Ads,B
+2353,25,Feminino,Email Marketing,A
+2354,55,Masculino,Orgânico,A
+2355,25,Masculino,Orgânico,B
+2356,20,Feminino,Google Ads,A
+2357,61,Masculino,Google Ads,A
+2358,20,Feminino,Google Ads,A
+2359,39,Outro,Orgânico,A
+2360,23,Masculino,Google Ads,B
+2361,19,Masculino,Orgânico,B
+2362,40,Feminino,Google Ads,A
+2363,61,Outro,Orgânico,A
+2364,19,Feminino,Google Ads,B
+2365,55,Feminino,Google Ads,A
+2366,34,Feminino,Google Ads,A
+2367,52,Masculino,Meta Ads,A
+2368,51,Outro,Google Ads,B
+2369,40,Outro,Orgânico,A
+2370,47,Masculino,Google Ads,A
+2371,25,Masculino,Google Ads,A
+2372,39,Masculino,Orgânico,A
+2373,61,Masculino,Google Ads,B
+2374,53,Feminino,Email Marketing,A
+2375,22,Masculino,Email Marketing,A
+2376,30,Masculino,Google Ads,A
+2377,46,Masculino,Google Ads,A
+2378,48,Outro,Google Ads,B
+2379,64,Feminino,Orgânico,B
+2380,33,Masculino,Meta Ads,A
+2381,59,Masculino,Meta Ads,A
+2382,47,Outro,Orgânico,A
+2383,33,Feminino,Google Ads,B
+2384,29,Masculino,Orgânico,B
+2385,34,Masculino,Orgânico,A
+2386,33,Masculino,Meta Ads,B
+2387,29,Masculino,Orgânico,B
+2388,25,Feminino,Orgânico,B
+2389,37,Feminino,Google Ads,A
+2390,20,Feminino,Meta Ads,A
+2391,33,Feminino,Meta Ads,A
+2392,47,Masculino,Google Ads,B
+2393,62,Feminino,Email Marketing,B
+2394,40,Feminino,Google Ads,B
+2395,45,Masculino,Meta Ads,A
+2396,57,Masculino,Meta Ads,A
+2397,22,Feminino,Google Ads,A
+2398,37,Masculino,Email Marketing,B
+2399,57,Masculino,Orgânico,A
+2400,61,Feminino,Meta Ads,A
+2401,18,Outro,Google Ads,B
+2402,47,Masculino,Google Ads,A
+2403,38,Feminino,Google Ads,A
+2404,37,Masculino,Google Ads,A
+2405,23,Feminino,Meta Ads,B
+2406,39,Feminino,Email Marketing,B
+2407,35,Feminino,Meta Ads,B
+2408,25,Masculino,Orgânico,A
+2409,56,Feminino,Meta Ads,B
+2410,49,Feminino,Meta Ads,B
+2411,50,Masculino,Orgânico,B
+2412,33,Masculino,Meta Ads,B
+2413,29,Masculino,Orgânico,A
+2414,55,Masculino,Google Ads,A
+2415,51,Feminino,Google Ads,A
+2416,31,Masculino,Orgânico,B
+2417,53,Masculino,Meta Ads,B
+2418,50,Feminino,Orgânico,B
+2419,40,Masculino,Email Marketing,A
+2420,62,Feminino,Google Ads,A
+2421,19,Masculino,Meta Ads,A
+2422,58,Feminino,Google Ads,B
+2423,38,Feminino,Meta Ads,A
+2424,19,Feminino,Orgânico,B
+2425,44,Masculino,Google Ads,A
+2426,26,Feminino,Meta Ads,A
+2427,18,Masculino,Orgânico,B
+2428,28,Masculino,Google Ads,A
+2429,20,Masculino,Orgânico,A
+2430,40,Feminino,Meta Ads,A
+2431,43,Masculino,Email Marketing,A
+2432,21,Feminino,Google Ads,B
+2433,35,Masculino,Google Ads,B
+2434,23,Masculino,Meta Ads,A
+2435,52,Feminino,Google Ads,B
+2436,39,Masculino,Email Marketing,A
+2437,60,Feminino,Google Ads,B
+2438,32,Masculino,Orgânico,B
+2439,39,Feminino,Meta Ads,B
+2440,54,Feminino,Google Ads,A
+2441,59,Masculino,Google Ads,A
+2442,29,Masculino,Meta Ads,A
+2443,64,Feminino,Meta Ads,B
+2444,59,Feminino,Google Ads,B
+2445,55,Masculino,Email Marketing,A
+2446,35,Masculino,Google Ads,B
+2447,62,Feminino,Meta Ads,A
+2448,52,Feminino,Meta Ads,A
+2449,47,Masculino,Google Ads,A
+2450,41,Feminino,Email Marketing,A
+2451,59,Masculino,Google Ads,A
+2452,47,Feminino,Google Ads,B
+2453,31,Masculino,Google Ads,A
+2454,23,Outro,Meta Ads,A
+2455,20,Feminino,Meta Ads,B
+2456,33,Feminino,Meta Ads,A
+2457,24,Feminino,Google Ads,B
+2458,31,Feminino,Google Ads,A
+2459,26,Feminino,Orgânico,B
+2460,32,Masculino,Google Ads,B
+2461,38,Feminino,Orgânico,A
+2462,52,Feminino,Google Ads,B
+2463,19,Feminino,Orgânico,B
+2464,44,Masculino,Google Ads,B
+2465,19,Masculino,Meta Ads,A
+2466,52,Masculino,Google Ads,A
+2467,35,Feminino,Google Ads,B
+2468,31,Masculino,Google Ads,B
+2469,37,Feminino,Google Ads,A
+2470,35,Feminino,Google Ads,A
+2471,27,Feminino,Meta Ads,A
+2472,42,Feminino,Meta Ads,A
+2473,19,Masculino,Orgânico,A
+2474,42,Masculino,Meta Ads,A
+2475,50,Masculino,Meta Ads,A
+2476,53,Feminino,Meta Ads,A
+2477,48,Masculino,Meta Ads,B
+2478,31,Feminino,Meta Ads,A
+2479,18,Masculino,Orgânico,A
+2480,63,Masculino,Google Ads,A
+2481,33,Masculino,Google Ads,B
+2482,63,Feminino,Meta Ads,B
+2483,20,Feminino,Google Ads,B
+2484,52,Masculino,Orgânico,A
+2485,58,Feminino,Orgânico,B
+2486,23,Masculino,Google Ads,A
+2487,42,Outro,Google Ads,A
+2488,30,Feminino,Meta Ads,B
+2489,51,Masculino,Meta Ads,B
+2490,25,Feminino,Google Ads,B
+2491,38,Masculino,Orgânico,B
+2492,51,Outro,Meta Ads,B
+2493,21,Masculino,Google Ads,A
+2494,42,Feminino,Google Ads,A
+2495,32,Masculino,Orgânico,A
+2496,21,Feminino,Google Ads,B
+2497,62,Feminino,Orgânico,A
+2498,29,Feminino,Meta Ads,B
+2499,49,Feminino,Meta Ads,A
+2500,49,Feminino,Orgânico,A
+2501,45,Masculino,Orgânico,A
+2502,30,Masculino,Google Ads,A
+2503,48,Masculino,Google Ads,B
+2504,31,Outro,Orgânico,A
+2505,37,Masculino,Meta Ads,A
+2506,35,Feminino,Google Ads,A
+2507,46,Feminino,Email Marketing,A
+2508,23,Masculino,Google Ads,A
+2509,49,Masculino,Google Ads,A
+2510,46,Masculino,Google Ads,B
+2511,60,Masculino,Meta Ads,A
+2512,19,Masculino,Meta Ads,A
+2513,40,Masculino,Google Ads,B
+2514,36,Feminino,Google Ads,A
+2515,48,Outro,Google Ads,A
+2516,22,Masculino,Meta Ads,B
+2517,36,Masculino,Google Ads,A
+2518,51,Masculino,Email Marketing,B
+2519,27,Feminino,Google Ads,A
+2520,42,Feminino,Email Marketing,B
+2521,19,Masculino,Google Ads,B
+2522,28,Masculino,Orgânico,A
+2523,48,Feminino,Google Ads,A
+2524,32,Feminino,Google Ads,A
+2525,26,Masculino,Orgânico,A
+2526,40,Feminino,Orgânico,B
+2527,36,Masculino,Meta Ads,B
+2528,26,Masculino,Orgânico,A
+2529,52,Feminino,Meta Ads,B
+2530,38,Feminino,Orgânico,A
+2531,26,Masculino,Google Ads,B
+2532,45,Feminino,Meta Ads,B
+2533,63,Masculino,Meta Ads,B
+2534,24,Feminino,Google Ads,A
+2535,33,Feminino,Orgânico,B
+2536,33,Feminino,Google Ads,A
+2537,50,Feminino,Google Ads,B
+2538,21,Masculino,Meta Ads,A
+2539,21,Feminino,Meta Ads,A
+2540,56,Feminino,Google Ads,B
+2541,57,Feminino,Google Ads,B
+2542,34,Masculino,Email Marketing,A
+2543,54,Feminino,Google Ads,B
+2544,56,Feminino,Meta Ads,B
+2545,46,Masculino,Orgânico,B
+2546,53,Feminino,Meta Ads,B
+2547,55,Masculino,Email Marketing,A
+2548,56,Masculino,Orgânico,B
+2549,54,Feminino,Meta Ads,A
+2550,52,Feminino,Meta Ads,A
+2551,24,Feminino,Meta Ads,B
+2552,44,Masculino,Meta Ads,B
+2553,45,Outro,Orgânico,B
+2554,39,Masculino,Google Ads,B
+2555,31,Masculino,Google Ads,B
+2556,24,Masculino,Google Ads,A
+2557,54,Feminino,Google Ads,B
+2558,39,Feminino,Google Ads,A
+2559,22,Feminino,Orgânico,B
+2560,19,Feminino,Meta Ads,B
+2561,44,Masculino,Meta Ads,B
+2562,38,Feminino,Meta Ads,A
+2563,55,Masculino,Orgânico,B
+2564,32,Feminino,Meta Ads,B
+2565,38,Masculino,Orgânico,B
+2566,27,Feminino,Google Ads,A
+2567,40,Feminino,Email Marketing,B
+2568,56,Feminino,Meta Ads,B
+2569,22,Feminino,Google Ads,B
+2570,18,Masculino,Meta Ads,B
+2571,30,Feminino,Meta Ads,A
+2572,38,Masculino,Google Ads,A
+2573,43,Feminino,Meta Ads,A
+2574,62,Feminino,Google Ads,A
+2575,38,Masculino,Google Ads,B
+2576,35,Outro,Email Marketing,A
+2577,54,Feminino,Meta Ads,A
+2578,62,Masculino,Orgânico,A
+2579,49,Feminino,Meta Ads,B
+2580,53,Masculino,Google Ads,A
+2581,34,Feminino,Meta Ads,A
+2582,52,Feminino,Meta Ads,A
+2583,28,Outro,Email Marketing,A
+2584,38,Feminino,Google Ads,B
+2585,43,Masculino,Orgânico,A
+2586,21,Feminino,Email Marketing,B
+2587,51,Masculino,Meta Ads,B
+2588,35,Feminino,Email Marketing,B
+2589,57,Feminino,Google Ads,B
+2590,52,Masculino,Email Marketing,B
+2591,58,Masculino,Orgânico,A
+2592,46,Feminino,Google Ads,B
+2593,46,Feminino,Email Marketing,A
+2594,55,Masculino,Meta Ads,A
+2595,59,Masculino,Meta Ads,B
+2596,38,Masculino,Meta Ads,B
+2597,59,Feminino,Google Ads,B
+2598,30,Masculino,Meta Ads,B
+2599,58,Feminino,Orgânico,A
+2600,34,Masculino,Google Ads,B
+2601,26,Feminino,Google Ads,A
+2602,58,Masculino,Google Ads,A
+2603,18,Feminino,Meta Ads,B
+2604,19,Masculino,Orgânico,A
+2605,46,Feminino,Orgânico,B
+2606,50,Masculino,Email Marketing,B
+2607,27,Feminino,Meta Ads,A
+2608,57,Feminino,Google Ads,B
+2609,38,Masculino,Email Marketing,B
+2610,45,Feminino,Orgânico,A
+2611,28,Feminino,Meta Ads,A
+2612,51,Masculino,Meta Ads,B
+2613,25,Masculino,Email Marketing,A
+2614,39,Masculino,Orgânico,B
+2615,25,Feminino,Google Ads,A
+2616,32,Feminino,Orgânico,B
+2617,34,Masculino,Google Ads,B
+2618,40,Feminino,Google Ads,A
+2619,41,Feminino,Meta Ads,B
+2620,62,Feminino,Google Ads,B
+2621,36,Feminino,Google Ads,B
+2622,22,Feminino,Google Ads,B
+2623,49,Feminino,Meta Ads,B
+2624,61,Masculino,Orgânico,B
+2625,18,Feminino,Email Marketing,B
+2626,40,Feminino,Google Ads,B
+2627,54,Masculino,Meta Ads,A
+2628,25,Feminino,Email Marketing,B
+2629,30,Feminino,Google Ads,A
+2630,25,Feminino,Orgânico,A
+2631,40,Masculino,Orgânico,A
+2632,60,Masculino,Google Ads,A
+2633,18,Feminino,Orgânico,A
+2634,62,Feminino,Orgânico,A
+2635,41,Masculino,Google Ads,A
+2636,52,Feminino,Google Ads,B
+2637,41,Feminino,Google Ads,A
+2638,34,Masculino,Google Ads,A
+2639,22,Masculino,Meta Ads,A
+2640,37,Masculino,Meta Ads,A
+2641,38,Feminino,Google Ads,A
+2642,57,Masculino,Email Marketing,B
+2643,48,Masculino,Google Ads,B
+2644,63,Masculino,Google Ads,B
+2645,53,Masculino,Google Ads,B
+2646,28,Masculino,Meta Ads,A
+2647,32,Masculino,Meta Ads,A
+2648,36,Feminino,Google Ads,A
+2649,24,Feminino,Google Ads,B
+2650,45,Masculino,Orgânico,A
+2651,60,Masculino,Email Marketing,B
+2652,22,Outro,Google Ads,A
+2653,22,Masculino,Google Ads,A
+2654,47,Masculino,Meta Ads,B
+2655,49,Masculino,Orgânico,B
+2656,25,Masculino,Google Ads,B
+2657,27,Feminino,Email Marketing,B
+2658,55,Masculino,Meta Ads,B
+2659,64,Feminino,Meta Ads,B
+2660,49,Masculino,Meta Ads,B
+2661,45,Masculino,Email Marketing,A
+2662,34,Feminino,Orgânico,B
+2663,48,Masculino,Google Ads,B
+2664,25,Feminino,Google Ads,A
+2665,57,Masculino,Meta Ads,B
+2666,42,Feminino,Google Ads,B
+2667,26,Masculino,Orgânico,A
+2668,19,Feminino,Orgânico,A
+2669,32,Masculino,Orgânico,A
+2670,20,Feminino,Email Marketing,B
+2671,53,Masculino,Google Ads,B
+2672,21,Feminino,Orgânico,A
+2673,31,Masculino,Orgânico,B
+2674,58,Feminino,Google Ads,A
+2675,58,Masculino,Orgânico,B
+2676,42,Masculino,Google Ads,A
+2677,27,Feminino,Orgânico,A
+2678,38,Masculino,Meta Ads,B
+2679,53,Masculino,Google Ads,A
+2680,29,Feminino,Meta Ads,A
+2681,44,Outro,Meta Ads,A
+2682,57,Masculino,Google Ads,A
+2683,19,Feminino,Google Ads,A
+2684,30,Feminino,Meta Ads,B
+2685,49,Masculino,Meta Ads,B
+2686,48,Feminino,Orgânico,B
+2687,33,Feminino,Email Marketing,B
+2688,49,Outro,Meta Ads,A
+2689,49,Masculino,Orgânico,A
+2690,51,Feminino,Meta Ads,A
+2691,28,Masculino,Orgânico,B
+2692,27,Masculino,Google Ads,B
+2693,32,Masculino,Google Ads,A
+2694,34,Outro,Meta Ads,A
+2695,57,Feminino,Google Ads,B
+2696,35,Feminino,Orgânico,B
+2697,26,Feminino,Orgânico,B
+2698,42,Masculino,Google Ads,A
+2699,57,Masculino,Meta Ads,B
+2700,31,Masculino,Orgânico,A
+2701,42,Masculino,Orgânico,B
+2702,39,Feminino,Google Ads,B
+2703,47,Feminino,Google Ads,B
+2704,37,Masculino,Meta Ads,A
+2705,38,Masculino,Meta Ads,A
+2706,61,Masculino,Google Ads,A
+2707,49,Masculino,Google Ads,A
+2708,63,Feminino,Orgânico,B
+2709,38,Feminino,Meta Ads,B
+2710,52,Feminino,Email Marketing,A
+2711,49,Masculino,Orgânico,A
+2712,47,Masculino,Email Marketing,A
+2713,56,Masculino,Google Ads,B
+2714,29,Feminino,Orgânico,B
+2715,58,Feminino,Google Ads,A
+2716,64,Masculino,Meta Ads,A
+2717,35,Feminino,Meta Ads,B
+2718,38,Feminino,Google Ads,B
+2719,30,Feminino,Orgânico,A
+2720,38,Feminino,Orgânico,B
+2721,25,Feminino,Google Ads,B
+2722,63,Feminino,Meta Ads,B
+2723,57,Masculino,Google Ads,B
+2724,63,Masculino,Meta Ads,A
+2725,24,Masculino,Orgânico,B
+2726,40,Masculino,Google Ads,A
+2727,61,Feminino,Email Marketing,A
+2728,49,Feminino,Google Ads,A
+2729,28,Masculino,Meta Ads,A
+2730,39,Feminino,Meta Ads,A
+2731,39,Masculino,Google Ads,B
+2732,60,Masculino,Google Ads,B
+2733,42,Masculino,Orgânico,B
+2734,39,Masculino,Orgânico,A
+2735,45,Masculino,Google Ads,A
+2736,46,Feminino,Meta Ads,B
+2737,30,Masculino,Google Ads,A
+2738,35,Outro,Google Ads,B
+2739,19,Masculino,Meta Ads,A
+2740,46,Masculino,Google Ads,B
+2741,38,Masculino,Orgânico,A
+2742,32,Feminino,Orgânico,B
+2743,44,Masculino,Email Marketing,B
+2744,48,Feminino,Meta Ads,B
+2745,32,Feminino,Email Marketing,B
+2746,40,Feminino,Meta Ads,A
+2747,41,Feminino,Meta Ads,B
+2748,61,Masculino,Email Marketing,A
+2749,30,Masculino,Meta Ads,B
+2750,39,Masculino,Google Ads,A
+2751,60,Feminino,Orgânico,B
+2752,54,Masculino,Email Marketing,B
+2753,50,Masculino,Orgânico,A
+2754,20,Outro,Meta Ads,A
+2755,36,Masculino,Meta Ads,A
+2756,40,Feminino,Email Marketing,B
+2757,46,Feminino,Google Ads,A
+2758,47,Masculino,Meta Ads,B
+2759,56,Masculino,Google Ads,B
+2760,61,Masculino,Meta Ads,B
+2761,64,Feminino,Meta Ads,B
+2762,42,Feminino,Google Ads,A
+2763,54,Feminino,Google Ads,B
+2764,64,Feminino,Meta Ads,B
+2765,25,Feminino,Google Ads,B
+2766,59,Masculino,Google Ads,B
+2767,33,Masculino,Orgânico,B
+2768,25,Feminino,Google Ads,A
+2769,18,Masculino,Meta Ads,B
+2770,61,Masculino,Email Marketing,B
+2771,22,Feminino,Google Ads,B
+2772,20,Masculino,Google Ads,B
+2773,18,Feminino,Meta Ads,A
+2774,21,Feminino,Orgânico,B
+2775,57,Masculino,Email Marketing,B
+2776,52,Feminino,Email Marketing,A
+2777,49,Masculino,Orgânico,B
+2778,59,Masculino,Google Ads,A
+2779,51,Masculino,Google Ads,B
+2780,60,Masculino,Google Ads,A
+2781,42,Feminino,Google Ads,B
+2782,27,Masculino,Orgânico,A
+2783,38,Masculino,Meta Ads,A
+2784,63,Masculino,Google Ads,A
+2785,56,Feminino,Orgânico,A
+2786,44,Feminino,Google Ads,B
+2787,44,Masculino,Meta Ads,A
+2788,19,Masculino,Meta Ads,B
+2789,58,Masculino,Meta Ads,B
+2790,30,Masculino,Meta Ads,B
+2791,26,Feminino,Google Ads,B
+2792,53,Feminino,Meta Ads,A
+2793,39,Masculino,Orgânico,A
+2794,59,Masculino,Email Marketing,B
+2795,43,Masculino,Meta Ads,A
+2796,29,Feminino,Meta Ads,B
+2797,34,Masculino,Orgânico,A
+2798,31,Outro,Email Marketing,B
+2799,31,Feminino,Google Ads,A
+2800,51,Masculino,Meta Ads,B
+2801,37,Feminino,Orgânico,A
+2802,28,Feminino,Meta Ads,A
+2803,33,Feminino,Google Ads,B
+2804,48,Masculino,Meta Ads,A
+2805,23,Masculino,Google Ads,B
+2806,36,Feminino,Meta Ads,B
+2807,54,Feminino,Meta Ads,A
+2808,21,Feminino,Orgânico,B
+2809,64,Feminino,Meta Ads,A
+2810,21,Feminino,Google Ads,B
+2811,37,Feminino,Google Ads,B
+2812,27,Masculino,Orgânico,B
+2813,41,Feminino,Google Ads,A
+2814,52,Feminino,Meta Ads,A
+2815,43,Feminino,Google Ads,B
+2816,54,Feminino,Orgânico,A
+2817,55,Masculino,Meta Ads,A
+2818,38,Feminino,Google Ads,B
+2819,57,Feminino,Google Ads,B
+2820,56,Masculino,Orgânico,A
+2821,38,Masculino,Meta Ads,A
+2822,27,Masculino,Orgânico,A
+2823,55,Masculino,Orgânico,A
+2824,63,Masculino,Email Marketing,A
+2825,21,Masculino,Google Ads,A
+2826,62,Feminino,Email Marketing,B
+2827,37,Feminino,Google Ads,B
+2828,34,Feminino,Google Ads,A
+2829,24,Feminino,Orgânico,A
+2830,21,Masculino,Google Ads,B
+2831,46,Masculino,Google Ads,A
+2832,31,Feminino,Google Ads,B
+2833,20,Masculino,Meta Ads,B
+2834,41,Outro,Meta Ads,B
+2835,54,Feminino,Orgânico,A
+2836,33,Feminino,Orgânico,B
+2837,21,Outro,Meta Ads,B
+2838,41,Masculino,Google Ads,B
+2839,51,Masculino,Email Marketing,B
+2840,47,Feminino,Google Ads,A
+2841,35,Masculino,Google Ads,A
+2842,36,Feminino,Google Ads,B
+2843,48,Masculino,Meta Ads,B
+2844,36,Feminino,Google Ads,B
+2845,63,Feminino,Google Ads,B
+2846,36,Feminino,Google Ads,A
+2847,39,Masculino,Google Ads,A
+2848,41,Masculino,Meta Ads,B
+2849,62,Feminino,Orgânico,A
+2850,29,Masculino,Orgânico,B
+2851,47,Feminino,Google Ads,A
+2852,55,Feminino,Google Ads,B
+2853,48,Feminino,Email Marketing,B
+2854,53,Feminino,Google Ads,A
+2855,36,Masculino,Orgânico,A
+2856,62,Feminino,Google Ads,B
+2857,53,Feminino,Email Marketing,B
+2858,47,Masculino,Google Ads,B
+2859,50,Outro,Meta Ads,A
+2860,35,Masculino,Orgânico,A
+2861,45,Masculino,Meta Ads,A
+2862,64,Masculino,Google Ads,A
+2863,28,Feminino,Meta Ads,B
+2864,62,Masculino,Orgânico,B
+2865,50,Feminino,Google Ads,A
+2866,34,Feminino,Google Ads,A
+2867,23,Masculino,Meta Ads,A
+2868,21,Masculino,Google Ads,B
+2869,37,Feminino,Meta Ads,B
+2870,64,Masculino,Google Ads,B
+2871,44,Feminino,Meta Ads,A
+2872,32,Masculino,Google Ads,B
+2873,23,Feminino,Meta Ads,A
+2874,64,Feminino,Google Ads,A
+2875,31,Masculino,Google Ads,B
+2876,28,Masculino,Google Ads,B
+2877,56,Masculino,Email Marketing,A
+2878,26,Masculino,Google Ads,A
+2879,43,Feminino,Orgânico,A
+2880,33,Feminino,Google Ads,A
+2881,22,Masculino,Google Ads,B
+2882,27,Feminino,Meta Ads,B
+2883,20,Feminino,Meta Ads,A
+2884,30,Masculino,Email Marketing,A
+2885,60,Masculino,Email Marketing,A
+2886,47,Feminino,Orgânico,B
+2887,62,Feminino,Meta Ads,A
+2888,23,Feminino,Meta Ads,B
+2889,34,Feminino,Google Ads,A
+2890,62,Masculino,Email Marketing,B
+2891,36,Feminino,Meta Ads,B
+2892,59,Feminino,Meta Ads,B
+2893,52,Feminino,Google Ads,B
+2894,63,Masculino,Google Ads,B
+2895,43,Masculino,Email Marketing,B
+2896,22,Masculino,Google Ads,A
+2897,46,Feminino,Meta Ads,A
+2898,54,Masculino,Google Ads,A
+2899,37,Masculino,Orgânico,B
+2900,38,Masculino,Google Ads,B
+2901,27,Masculino,Orgânico,A
+2902,22,Feminino,Google Ads,B
+2903,53,Feminino,Orgânico,B
+2904,23,Feminino,Orgânico,B
+2905,43,Masculino,Google Ads,B
+2906,21,Feminino,Meta Ads,B
+2907,56,Masculino,Google Ads,A
+2908,56,Masculino,Google Ads,A
+2909,52,Masculino,Orgânico,B
+2910,18,Masculino,Meta Ads,A
+2911,41,Masculino,Google Ads,A
+2912,53,Feminino,Google Ads,B
+2913,23,Feminino,Google Ads,B
+2914,58,Feminino,Orgânico,B
+2915,63,Masculino,Google Ads,A
+2916,61,Masculino,Email Marketing,B
+2917,48,Masculino,Email Marketing,A
+2918,37,Outro,Google Ads,A
+2919,41,Feminino,Google Ads,B
+2920,42,Feminino,Orgânico,A
+2921,53,Masculino,Google Ads,A
+2922,38,Feminino,Google Ads,B
+2923,47,Masculino,Google Ads,A
+2924,41,Feminino,Meta Ads,B
+2925,61,Feminino,Orgânico,B
+2926,59,Outro,Google Ads,B
+2927,47,Feminino,Google Ads,A
+2928,39,Masculino,Email Marketing,B
+2929,45,Feminino,Orgânico,A
+2930,24,Feminino,Meta Ads,B
+2931,52,Masculino,Orgânico,A
+2932,45,Masculino,Meta Ads,A
+2933,31,Masculino,Orgânico,B
+2934,27,Masculino,Google Ads,A
+2935,33,Masculino,Google Ads,A
+2936,33,Feminino,Orgânico,A
+2937,48,Masculino,Meta Ads,B
+2938,59,Masculino,Email Marketing,A
+2939,42,Feminino,Google Ads,A
+2940,30,Feminino,Email Marketing,A
+2941,23,Feminino,Email Marketing,B
+2942,61,Masculino,Google Ads,B
+2943,26,Feminino,Orgânico,A
+2944,62,Feminino,Meta Ads,A
+2945,53,Masculino,Email Marketing,A
+2946,60,Masculino,Meta Ads,A
+2947,37,Feminino,Orgânico,A
+2948,35,Feminino,Meta Ads,A
+2949,60,Outro,Google Ads,B
+2950,38,Feminino,Google Ads,B
+2951,21,Feminino,Meta Ads,A
+2952,50,Feminino,Orgânico,B
+2953,44,Masculino,Meta Ads,B
+2954,24,Masculino,Meta Ads,B
+2955,23,Masculino,Google Ads,B
+2956,32,Feminino,Meta Ads,A
+2957,35,Feminino,Google Ads,A
+2958,49,Feminino,Orgânico,B
+2959,28,Masculino,Email Marketing,A
+2960,37,Feminino,Meta Ads,A
+2961,41,Masculino,Google Ads,A
+2962,32,Masculino,Google Ads,A
+2963,24,Feminino,Meta Ads,B
+2964,38,Feminino,Meta Ads,A
+2965,59,Outro,Orgânico,A
+2966,43,Masculino,Google Ads,A
+2967,61,Feminino,Orgânico,A
+2968,31,Masculino,Meta Ads,B
+2969,54,Masculino,Google Ads,A
+2970,38,Feminino,Meta Ads,B
+2971,35,Feminino,Google Ads,B
+2972,22,Feminino,Meta Ads,B
+2973,20,Masculino,Orgânico,A
+2974,40,Feminino,Meta Ads,A
+2975,43,Masculino,Orgânico,B
+2976,54,Feminino,Meta Ads,B
+2977,41,Masculino,Google Ads,A
+2978,36,Masculino,Meta Ads,A
+2979,42,Feminino,Meta Ads,A
+2980,38,Feminino,Google Ads,B
+2981,29,Masculino,Google Ads,A
+2982,58,Masculino,Meta Ads,B
+2983,50,Feminino,Google Ads,B
+2984,21,Masculino,Google Ads,B
+2985,59,Masculino,Meta Ads,B
+2986,24,Masculino,Google Ads,A
+2987,39,Masculino,Email Marketing,B
+2988,50,Feminino,Google Ads,B
+2989,34,Feminino,Orgânico,B
+2990,41,Feminino,Meta Ads,A
+2991,51,Outro,Orgânico,B
+2992,45,Masculino,Google Ads,A
+2993,60,Masculino,Email Marketing,A
+2994,58,Masculino,Meta Ads,B
+2995,56,Masculino,Orgânico,B
+2996,39,Masculino,Google Ads,B
+2997,34,Feminino,Google Ads,A
+2998,51,Feminino,Meta Ads,B
+2999,23,Masculino,Google Ads,A
+3000,63,Feminino,Meta Ads,B
+3001,23,Feminino,Google Ads,A
+3002,51,Feminino,Meta Ads,B
+3003,18,Feminino,Email Marketing,B
+3004,27,Feminino,Meta Ads,A
+3005,38,Feminino,Orgânico,A
+3006,22,Feminino,Meta Ads,B
+3007,19,Feminino,Meta Ads,B
+3008,39,Masculino,Email Marketing,B
+3009,19,Masculino,Orgânico,B
+3010,27,Feminino,Orgânico,A
+3011,51,Masculino,Google Ads,A
+3012,33,Masculino,Meta Ads,A
+3013,56,Feminino,Google Ads,A
+3014,39,Masculino,Meta Ads,B
+3015,29,Feminino,Meta Ads,A
+3016,41,Feminino,Orgânico,B
+3017,64,Outro,Orgânico,B
+3018,57,Feminino,Meta Ads,B
+3019,55,Masculino,Google Ads,B
+3020,27,Feminino,Orgânico,A
+3021,52,Feminino,Google Ads,B
+3022,49,Outro,Meta Ads,A
+3023,24,Masculino,Google Ads,A
+3024,38,Masculino,Google Ads,B
+3025,37,Feminino,Email Marketing,A
+3026,43,Masculino,Google Ads,B
+3027,21,Feminino,Meta Ads,B
+3028,63,Masculino,Google Ads,B
+3029,39,Masculino,Email Marketing,A
+3030,32,Masculino,Orgânico,B
+3031,57,Masculino,Google Ads,A
+3032,38,Feminino,Google Ads,B
+3033,32,Feminino,Meta Ads,A
+3034,39,Masculino,Google Ads,B
+3035,45,Feminino,Meta Ads,A
+3036,31,Masculino,Google Ads,A
+3037,44,Feminino,Google Ads,A
+3038,58,Masculino,Meta Ads,A
+3039,57,Feminino,Google Ads,B
+3040,45,Feminino,Orgânico,A
+3041,43,Feminino,Google Ads,A
+3042,19,Feminino,Google Ads,B
+3043,42,Feminino,Email Marketing,A
+3044,20,Outro,Meta Ads,A
+3045,25,Feminino,Orgânico,B
+3046,61,Feminino,Google Ads,A
+3047,50,Feminino,Meta Ads,A
+3048,59,Masculino,Orgânico,A
+3049,52,Feminino,Google Ads,A
+3050,23,Masculino,Orgânico,B
+3051,56,Feminino,Meta Ads,A
+3052,40,Feminino,Google Ads,B
+3053,42,Feminino,Meta Ads,A
+3054,60,Masculino,Meta Ads,A
+3055,36,Masculino,Google Ads,A
+3056,22,Feminino,Meta Ads,B
+3057,28,Feminino,Google Ads,B
+3058,29,Masculino,Meta Ads,B
+3059,27,Masculino,Orgânico,B
+3060,25,Feminino,Meta Ads,A
+3061,41,Feminino,Email Marketing,A
+3062,45,Masculino,Google Ads,A
+3063,58,Masculino,Meta Ads,A
+3064,53,Masculino,Orgânico,A
+3065,54,Outro,Meta Ads,A
+3066,38,Masculino,Meta Ads,A
+3067,25,Masculino,Google Ads,A
+3068,26,Masculino,Google Ads,A
+3069,64,Masculino,Google Ads,A
+3070,32,Feminino,Email Marketing,B
+3071,63,Masculino,Google Ads,A
+3072,57,Masculino,Orgânico,B
+3073,35,Masculino,Meta Ads,B
+3074,59,Masculino,Google Ads,A
+3075,37,Masculino,Meta Ads,A
+3076,23,Feminino,Orgânico,A
+3077,29,Feminino,Orgânico,B
+3078,19,Feminino,Google Ads,A
+3079,24,Feminino,Google Ads,A
+3080,33,Feminino,Google Ads,A
+3081,20,Masculino,Google Ads,B
+3082,62,Feminino,Meta Ads,A
+3083,20,Feminino,Orgânico,B
+3084,44,Feminino,Google Ads,A
+3085,60,Feminino,Orgânico,B
+3086,57,Masculino,Meta Ads,B
+3087,55,Feminino,Google Ads,A
+3088,50,Feminino,Google Ads,B
+3089,45,Outro,Orgânico,B
+3090,18,Masculino,Orgânico,A
+3091,25,Masculino,Meta Ads,A
+3092,54,Masculino,Google Ads,B
+3093,49,Feminino,Google Ads,B
+3094,60,Masculino,Google Ads,B
+3095,54,Masculino,Meta Ads,B
+3096,21,Outro,Orgânico,B
+3097,47,Masculino,Google Ads,A
+3098,23,Feminino,Orgânico,B
+3099,63,Masculino,Meta Ads,A
+3100,36,Feminino,Meta Ads,B
+3101,49,Feminino,Email Marketing,B
+3102,26,Feminino,Google Ads,B
+3103,29,Feminino,Email Marketing,A
+3104,28,Masculino,Google Ads,A
+3105,63,Masculino,Google Ads,A
+3106,33,Masculino,Orgânico,B
+3107,18,Feminino,Email Marketing,B
+3108,62,Feminino,Meta Ads,A
+3109,38,Masculino,Meta Ads,B
+3110,47,Feminino,Orgânico,B
+3111,30,Masculino,Orgânico,A
+3112,51,Feminino,Google Ads,A
+3113,21,Outro,Orgânico,B
+3114,45,Masculino,Meta Ads,B
+3115,55,Feminino,Meta Ads,B
+3116,48,Masculino,Meta Ads,B
+3117,44,Feminino,Meta Ads,B
+3118,22,Feminino,Email Marketing,A
+3119,42,Masculino,Meta Ads,A
+3120,20,Masculino,Email Marketing,A
+3121,50,Masculino,Google Ads,A
+3122,21,Feminino,Orgânico,A
+3123,42,Feminino,Orgânico,A
+3124,37,Masculino,Meta Ads,B
+3125,51,Feminino,Meta Ads,B
+3126,43,Feminino,Meta Ads,A
+3127,22,Masculino,Orgânico,B
+3128,52,Masculino,Orgânico,B
+3129,45,Feminino,Google Ads,B
+3130,46,Feminino,Orgânico,B
+3131,26,Masculino,Meta Ads,A
+3132,55,Masculino,Google Ads,B
+3133,23,Masculino,Orgânico,B
+3134,36,Feminino,Meta Ads,B
+3135,61,Masculino,Orgânico,B
+3136,28,Masculino,Google Ads,B
+3137,19,Feminino,Google Ads,B
+3138,64,Feminino,Meta Ads,B
+3139,61,Masculino,Google Ads,B
+3140,61,Masculino,Orgânico,A
+3141,26,Feminino,Google Ads,A
+3142,38,Masculino,Meta Ads,A
+3143,41,Masculino,Google Ads,B
+3144,51,Feminino,Google Ads,B
+3145,39,Masculino,Orgânico,A
+3146,20,Feminino,Google Ads,B
+3147,29,Feminino,Meta Ads,B
+3148,45,Masculino,Email Marketing,B
+3149,47,Masculino,Meta Ads,A
+3150,43,Feminino,Orgânico,B
+3151,38,Feminino,Google Ads,B
+3152,45,Feminino,Google Ads,B
+3153,43,Feminino,Orgânico,B
+3154,50,Masculino,Orgânico,B
+3155,38,Feminino,Meta Ads,A
+3156,52,Masculino,Meta Ads,B
+3157,51,Masculino,Meta Ads,A
+3158,58,Masculino,Google Ads,A
+3159,64,Masculino,Orgânico,A
+3160,35,Feminino,Meta Ads,A
+3161,28,Masculino,Meta Ads,A
+3162,40,Masculino,Orgânico,B
+3163,39,Masculino,Google Ads,B
+3164,34,Feminino,Google Ads,A
+3165,22,Feminino,Orgânico,B
+3166,61,Masculino,Orgânico,A
+3167,28,Masculino,Meta Ads,A
+3168,47,Masculino,Google Ads,B
+3169,32,Feminino,Google Ads,B
+3170,44,Feminino,Meta Ads,B
+3171,52,Feminino,Google Ads,A
+3172,50,Feminino,Orgânico,B
+3173,37,Masculino,Email Marketing,B
+3174,33,Feminino,Orgânico,B
+3175,51,Feminino,Google Ads,A
+3176,19,Masculino,Orgânico,B
+3177,52,Masculino,Google Ads,B
+3178,57,Feminino,Google Ads,B
+3179,45,Feminino,Google Ads,A
+3180,64,Masculino,Google Ads,B
+3181,56,Feminino,Email Marketing,A
+3182,23,Feminino,Google Ads,B
+3183,26,Masculino,Google Ads,A
+3184,37,Masculino,Email Marketing,A
+3185,18,Masculino,Google Ads,B
+3186,25,Feminino,Orgânico,A
+3187,40,Masculino,Google Ads,A
+3188,20,Masculino,Google Ads,A
+3189,21,Feminino,Email Marketing,A
+3190,42,Feminino,Google Ads,B
+3191,64,Masculino,Meta Ads,B
+3192,55,Masculino,Google Ads,B
+3193,32,Feminino,Google Ads,A
+3194,38,Feminino,Google Ads,B
+3195,52,Feminino,Google Ads,A
+3196,63,Masculino,Google Ads,B
+3197,31,Feminino,Orgânico,A
+3198,53,Feminino,Meta Ads,B
+3199,29,Feminino,Google Ads,B
+3200,34,Feminino,Meta Ads,A
+3201,56,Masculino,Email Marketing,A
+3202,26,Masculino,Email Marketing,B
+3203,52,Feminino,Orgânico,A
+3204,30,Feminino,Orgânico,A
+3205,32,Feminino,Google Ads,A
+3206,35,Masculino,Google Ads,B
+3207,50,Feminino,Meta Ads,B
+3208,23,Feminino,Meta Ads,A
+3209,44,Masculino,Meta Ads,A
+3210,40,Masculino,Meta Ads,B
+3211,44,Feminino,Email Marketing,B
+3212,51,Feminino,Orgânico,A
+3213,63,Feminino,Meta Ads,B
+3214,55,Feminino,Orgânico,A
+3215,31,Masculino,Google Ads,A
+3216,53,Masculino,Google Ads,B
+3217,25,Feminino,Google Ads,B
+3218,52,Feminino,Meta Ads,A
+3219,36,Feminino,Google Ads,A
+3220,47,Feminino,Orgânico,A
+3221,31,Masculino,Google Ads,A
+3222,37,Feminino,Meta Ads,A
+3223,42,Masculino,Google Ads,A
+3224,57,Masculino,Google Ads,B
+3225,41,Masculino,Orgânico,B
+3226,31,Masculino,Meta Ads,B
+3227,43,Masculino,Email Marketing,B
+3228,55,Masculino,Email Marketing,A
+3229,40,Masculino,Google Ads,A
+3230,39,Masculino,Google Ads,A
+3231,36,Feminino,Orgânico,B
+3232,63,Masculino,Email Marketing,A
+3233,20,Masculino,Meta Ads,B
+3234,59,Feminino,Orgânico,B
+3235,36,Feminino,Orgânico,A
+3236,26,Feminino,Google Ads,A
+3237,45,Masculino,Meta Ads,B
+3238,37,Feminino,Orgânico,B
+3239,62,Masculino,Meta Ads,B
+3240,24,Masculino,Google Ads,A
+3241,31,Masculino,Google Ads,B
+3242,26,Feminino,Google Ads,A
+3243,36,Masculino,Google Ads,B
+3244,64,Masculino,Email Marketing,B
+3245,31,Masculino,Google Ads,B
+3246,55,Feminino,Google Ads,A
+3247,53,Feminino,Google Ads,B
+3248,57,Masculino,Meta Ads,A
+3249,34,Feminino,Meta Ads,A
+3250,47,Feminino,Google Ads,A
+3251,26,Feminino,Google Ads,B
+3252,50,Masculino,Google Ads,B
+3253,42,Feminino,Meta Ads,A
+3254,31,Masculino,Google Ads,B
+3255,28,Feminino,Email Marketing,A
+3256,52,Masculino,Meta Ads,A
+3257,58,Masculino,Google Ads,A
+3258,31,Masculino,Orgânico,B
+3259,47,Feminino,Google Ads,B
+3260,58,Masculino,Meta Ads,A
+3261,21,Feminino,Google Ads,B
+3262,21,Masculino,Meta Ads,A
+3263,45,Feminino,Orgânico,B
+3264,25,Feminino,Email Marketing,A
+3265,19,Feminino,Google Ads,B
+3266,58,Feminino,Google Ads,B
+3267,63,Feminino,Meta Ads,B
+3268,39,Masculino,Email Marketing,A
+3269,58,Feminino,Email Marketing,B
+3270,33,Masculino,Google Ads,A
+3271,46,Feminino,Google Ads,B
+3272,47,Feminino,Meta Ads,A
+3273,29,Masculino,Google Ads,A
+3274,52,Masculino,Google Ads,B
+3275,28,Masculino,Google Ads,B
+3276,63,Feminino,Meta Ads,A
+3277,38,Feminino,Email Marketing,B
+3278,38,Feminino,Email Marketing,B
+3279,22,Feminino,Google Ads,B
+3280,37,Feminino,Meta Ads,A
+3281,54,Masculino,Orgânico,B
+3282,20,Masculino,Google Ads,A
+3283,61,Feminino,Meta Ads,A
+3284,50,Feminino,Meta Ads,B
+3285,26,Feminino,Google Ads,B
+3286,26,Masculino,Meta Ads,B
+3287,21,Masculino,Google Ads,A
+3288,52,Masculino,Meta Ads,A
+3289,34,Masculino,Google Ads,A
+3290,51,Masculino,Google Ads,A
+3291,41,Feminino,Google Ads,A
+3292,49,Masculino,Orgânico,A
+3293,18,Feminino,Meta Ads,B
+3294,25,Masculino,Meta Ads,B
+3295,62,Feminino,Meta Ads,B
+3296,40,Masculino,Meta Ads,B
+3297,64,Masculino,Google Ads,A
+3298,57,Masculino,Orgânico,A
+3299,29,Outro,Google Ads,B
+3300,29,Feminino,Google Ads,B
+3301,63,Masculino,Orgânico,B
+3302,64,Masculino,Google Ads,A
+3303,32,Feminino,Google Ads,A
+3304,58,Masculino,Meta Ads,B
+3305,36,Masculino,Meta Ads,B
+3306,43,Feminino,Orgânico,B
+3307,46,Feminino,Meta Ads,B
+3308,39,Masculino,Meta Ads,B
+3309,57,Masculino,Orgânico,B
+3310,38,Feminino,Google Ads,B
+3311,55,Masculino,Google Ads,B
+3312,37,Masculino,Meta Ads,B
+3313,46,Feminino,Google Ads,B
+3314,21,Feminino,Email Marketing,B
+3315,24,Masculino,Orgânico,A
+3316,45,Outro,Google Ads,B
+3317,45,Feminino,Google Ads,B
+3318,21,Masculino,Google Ads,A
+3319,39,Outro,Google Ads,B
+3320,29,Masculino,Google Ads,A
+3321,62,Masculino,Meta Ads,B
+3322,20,Feminino,Orgânico,B
+3323,39,Masculino,Orgânico,A
+3324,61,Masculino,Google Ads,A
+3325,19,Masculino,Google Ads,B
+3326,41,Masculino,Meta Ads,B
+3327,51,Feminino,Orgânico,A
+3328,44,Feminino,Orgânico,B
+3329,58,Outro,Email Marketing,B
+3330,18,Masculino,Meta Ads,B
+3331,25,Masculino,Meta Ads,A
+3332,40,Masculino,Google Ads,B
+3333,55,Masculino,Meta Ads,A
+3334,23,Masculino,Google Ads,B
+3335,39,Feminino,Meta Ads,B
+3336,42,Feminino,Meta Ads,A
+3337,35,Outro,Google Ads,B
+3338,34,Masculino,Google Ads,A
+3339,29,Feminino,Google Ads,B
+3340,23,Masculino,Google Ads,B
+3341,43,Masculino,Google Ads,B
+3342,44,Feminino,Google Ads,B
+3343,25,Feminino,Google Ads,B
+3344,36,Masculino,Google Ads,B
+3345,59,Masculino,Email Marketing,B
+3346,18,Masculino,Google Ads,A
+3347,46,Feminino,Google Ads,B
+3348,62,Masculino,Meta Ads,B
+3349,52,Outro,Orgânico,A
+3350,57,Masculino,Meta Ads,A
+3351,31,Masculino,Google Ads,A
+3352,52,Feminino,Meta Ads,A
+3353,62,Feminino,Orgânico,A
+3354,37,Masculino,Orgânico,A
+3355,30,Feminino,Meta Ads,A
+3356,55,Feminino,Orgânico,B
+3357,63,Feminino,Orgânico,A
+3358,25,Feminino,Meta Ads,B
+3359,60,Feminino,Meta Ads,B
+3360,37,Feminino,Meta Ads,B
+3361,50,Feminino,Orgânico,B
+3362,43,Masculino,Google Ads,A
+3363,56,Masculino,Email Marketing,B
+3364,38,Masculino,Google Ads,B
+3365,59,Masculino,Meta Ads,A
+3366,60,Masculino,Orgânico,A
+3367,58,Outro,Google Ads,A
+3368,26,Masculino,Meta Ads,A
+3369,41,Masculino,Google Ads,A
+3370,54,Feminino,Google Ads,B
+3371,58,Masculino,Google Ads,B
+3372,34,Masculino,Google Ads,B
+3373,41,Masculino,Google Ads,B
+3374,38,Masculino,Email Marketing,B
+3375,56,Masculino,Email Marketing,B
+3376,58,Feminino,Google Ads,B
+3377,56,Feminino,Orgânico,A
+3378,30,Masculino,Google Ads,B
+3379,28,Masculino,Google Ads,B
+3380,63,Masculino,Google Ads,A
+3381,36,Feminino,Email Marketing,B
+3382,28,Masculino,Email Marketing,B
+3383,30,Masculino,Google Ads,B
+3384,63,Feminino,Google Ads,A
+3385,62,Masculino,Google Ads,B
+3386,18,Masculino,Meta Ads,A
+3387,57,Masculino,Meta Ads,A
+3388,61,Feminino,Google Ads,A
+3389,36,Feminino,Orgânico,B
+3390,29,Feminino,Google Ads,B
+3391,25,Feminino,Email Marketing,A
+3392,25,Feminino,Meta Ads,B
+3393,62,Outro,Meta Ads,A
+3394,29,Outro,Orgânico,A
+3395,50,Masculino,Orgânico,B
+3396,62,Feminino,Google Ads,A
+3397,43,Masculino,Google Ads,B
+3398,56,Masculino,Email Marketing,A
+3399,45,Feminino,Google Ads,A
+3400,22,Masculino,Google Ads,B
+3401,25,Feminino,Meta Ads,B
+3402,42,Masculino,Orgânico,A
+3403,44,Feminino,Orgânico,B
+3404,63,Feminino,Email Marketing,B
+3405,40,Feminino,Meta Ads,B
+3406,47,Masculino,Google Ads,A
+3407,62,Masculino,Meta Ads,B
+3408,64,Feminino,Orgânico,B
+3409,40,Masculino,Google Ads,A
+3410,64,Outro,Google Ads,B
+3411,37,Feminino,Google Ads,B
+3412,35,Masculino,Meta Ads,B
+3413,35,Masculino,Orgânico,B
+3414,19,Masculino,Meta Ads,B
+3415,21,Feminino,Email Marketing,B
+3416,47,Masculino,Google Ads,B
+3417,50,Masculino,Email Marketing,B
+3418,53,Masculino,Orgânico,B
+3419,35,Feminino,Google Ads,A
+3420,54,Masculino,Email Marketing,A
+3421,36,Masculino,Google Ads,B
+3422,64,Feminino,Orgânico,A
+3423,45,Feminino,Orgânico,B
+3424,57,Feminino,Orgânico,B
+3425,37,Masculino,Meta Ads,B
+3426,50,Masculino,Google Ads,B
+3427,29,Feminino,Meta Ads,B
+3428,32,Masculino,Google Ads,A
+3429,58,Feminino,Orgânico,B
+3430,56,Feminino,Orgânico,A
+3431,19,Masculino,Email Marketing,A
+3432,46,Feminino,Google Ads,A
+3433,58,Feminino,Orgânico,A
+3434,27,Masculino,Email Marketing,A
+3435,19,Feminino,Orgânico,A
+3436,28,Masculino,Google Ads,B
+3437,30,Masculino,Google Ads,B
+3438,27,Masculino,Google Ads,A
+3439,31,Feminino,Meta Ads,A
+3440,35,Feminino,Meta Ads,B
+3441,26,Feminino,Email Marketing,B
+3442,56,Masculino,Google Ads,B
+3443,45,Feminino,Google Ads,A
+3444,20,Masculino,Meta Ads,B
+3445,37,Feminino,Orgânico,B
+3446,23,Masculino,Email Marketing,B
+3447,44,Masculino,Orgânico,A
+3448,19,Masculino,Meta Ads,A
+3449,46,Feminino,Meta Ads,A
+3450,55,Masculino,Orgânico,A
+3451,20,Feminino,Meta Ads,B
+3452,33,Masculino,Google Ads,B
+3453,47,Masculino,Google Ads,B
+3454,57,Masculino,Google Ads,B
+3455,19,Feminino,Orgânico,B
+3456,34,Feminino,Google Ads,A
+3457,58,Masculino,Google Ads,B
+3458,29,Masculino,Google Ads,B
+3459,52,Masculino,Meta Ads,A
+3460,60,Feminino,Google Ads,A
+3461,18,Masculino,Meta Ads,B
+3462,62,Feminino,Google Ads,B
+3463,32,Feminino,Google Ads,A
+3464,43,Masculino,Meta Ads,B
+3465,54,Feminino,Google Ads,B
+3466,38,Feminino,Google Ads,B
+3467,48,Feminino,Google Ads,A
+3468,42,Masculino,Orgânico,A
+3469,40,Masculino,Meta Ads,B
+3470,41,Masculino,Google Ads,B
+3471,55,Masculino,Google Ads,A
+3472,45,Masculino,Email Marketing,A
+3473,38,Masculino,Meta Ads,A
+3474,60,Feminino,Meta Ads,A
+3475,35,Masculino,Orgânico,B
+3476,53,Masculino,Orgânico,B
+3477,52,Masculino,Orgânico,A
+3478,62,Feminino,Meta Ads,A
+3479,26,Feminino,Meta Ads,B
+3480,55,Feminino,Google Ads,A
+3481,47,Masculino,Email Marketing,B
+3482,61,Outro,Meta Ads,B
+3483,51,Masculino,Google Ads,B
+3484,49,Masculino,Email Marketing,A
+3485,20,Masculino,Email Marketing,A
+3486,20,Masculino,Email Marketing,A
+3487,45,Masculino,Orgânico,A
+3488,61,Feminino,Email Marketing,A
+3489,32,Feminino,Google Ads,B
+3490,58,Masculino,Orgânico,B
+3491,40,Feminino,Orgânico,B
+3492,57,Masculino,Google Ads,A
+3493,28,Masculino,Google Ads,B
+3494,49,Feminino,Email Marketing,B
+3495,53,Feminino,Google Ads,A
+3496,50,Masculino,Orgânico,B
+3497,41,Masculino,Google Ads,A
+3498,56,Feminino,Google Ads,A
+3499,51,Feminino,Meta Ads,A
+3500,45,Feminino,Google Ads,B
+3501,54,Masculino,Meta Ads,B
+3502,24,Masculino,Meta Ads,A
+3503,21,Masculino,Google Ads,A
+3504,54,Masculino,Google Ads,A
+3505,18,Feminino,Google Ads,A
+3506,18,Masculino,Google Ads,A
+3507,64,Masculino,Orgânico,A
+3508,37,Feminino,Meta Ads,A
+3509,36,Feminino,Google Ads,B
+3510,46,Masculino,Meta Ads,B
+3511,27,Feminino,Google Ads,B
+3512,35,Feminino,Google Ads,A
+3513,45,Feminino,Google Ads,A
+3514,52,Masculino,Orgânico,A
+3515,60,Feminino,Email Marketing,A
+3516,64,Feminino,Orgânico,A
+3517,48,Masculino,Google Ads,B
+3518,44,Masculino,Google Ads,B
+3519,28,Feminino,Meta Ads,A
+3520,55,Masculino,Orgânico,A
+3521,22,Feminino,Email Marketing,B
+3522,25,Masculino,Google Ads,A
+3523,51,Masculino,Google Ads,B
+3524,29,Masculino,Meta Ads,B
+3525,55,Feminino,Orgânico,B
+3526,18,Masculino,Orgânico,A
+3527,48,Feminino,Meta Ads,A
+3528,21,Feminino,Email Marketing,A
+3529,62,Feminino,Meta Ads,B
+3530,22,Feminino,Email Marketing,B
+3531,47,Feminino,Email Marketing,B
+3532,41,Masculino,Orgânico,B
+3533,20,Feminino,Google Ads,B
+3534,28,Feminino,Google Ads,B
+3535,62,Masculino,Meta Ads,B
+3536,21,Masculino,Meta Ads,B
+3537,43,Feminino,Orgânico,B
+3538,44,Masculino,Google Ads,A
+3539,63,Feminino,Google Ads,B
+3540,60,Masculino,Orgânico,A
+3541,44,Masculino,Google Ads,A
+3542,59,Feminino,Google Ads,B
+3543,23,Masculino,Google Ads,B
+3544,32,Masculino,Meta Ads,B
+3545,47,Feminino,Google Ads,A
+3546,59,Masculino,Orgânico,B
+3547,54,Feminino,Meta Ads,A
+3548,54,Feminino,Email Marketing,B
+3549,59,Feminino,Meta Ads,A
+3550,54,Masculino,Google Ads,B
+3551,52,Masculino,Google Ads,B
+3552,40,Feminino,Google Ads,A
+3553,23,Feminino,Meta Ads,B
+3554,21,Feminino,Google Ads,B
+3555,35,Feminino,Google Ads,A
+3556,26,Masculino,Meta Ads,A
+3557,46,Masculino,Google Ads,A
+3558,30,Masculino,Google Ads,A
+3559,64,Masculino,Orgânico,B
+3560,34,Masculino,Email Marketing,B
+3561,62,Feminino,Google Ads,A
+3562,49,Masculino,Google Ads,A
+3563,39,Masculino,Email Marketing,B
+3564,21,Masculino,Google Ads,A
+3565,22,Feminino,Email Marketing,A
+3566,54,Feminino,Google Ads,A
+3567,58,Feminino,Orgânico,B
+3568,30,Feminino,Google Ads,B
+3569,51,Masculino,Email Marketing,B
+3570,62,Feminino,Google Ads,A
+3571,39,Masculino,Meta Ads,B
+3572,40,Masculino,Google Ads,B
+3573,20,Feminino,Google Ads,B
+3574,59,Feminino,Orgânico,A
+3575,51,Masculino,Meta Ads,B
+3576,49,Masculino,Email Marketing,B
+3577,62,Feminino,Meta Ads,A
+3578,38,Masculino,Orgânico,A
+3579,63,Masculino,Meta Ads,B
+3580,61,Masculino,Email Marketing,B
+3581,38,Masculino,Email Marketing,B
+3582,61,Feminino,Google Ads,B
+3583,28,Masculino,Orgânico,B
+3584,56,Masculino,Orgânico,A
+3585,21,Feminino,Google Ads,A
+3586,18,Feminino,Meta Ads,B
+3587,45,Masculino,Google Ads,A
+3588,41,Masculino,Orgânico,A
+3589,52,Masculino,Google Ads,B
+3590,30,Feminino,Google Ads,B
+3591,64,Feminino,Meta Ads,A
+3592,51,Feminino,Meta Ads,A
+3593,28,Feminino,Orgânico,A
+3594,53,Feminino,Email Marketing,A
+3595,34,Feminino,Meta Ads,B
+3596,52,Feminino,Google Ads,A
+3597,35,Masculino,Orgânico,B
+3598,57,Outro,Meta Ads,B
+3599,39,Masculino,Meta Ads,B
+3600,41,Masculino,Google Ads,A
+3601,36,Feminino,Meta Ads,B
+3602,54,Masculino,Google Ads,A
+3603,56,Feminino,Orgânico,A
+3604,38,Feminino,Meta Ads,B
+3605,25,Masculino,Orgânico,A
+3606,45,Feminino,Meta Ads,B
+3607,22,Masculino,Google Ads,A
+3608,34,Masculino,Orgânico,A
+3609,54,Feminino,Meta Ads,B
+3610,53,Feminino,Google Ads,B
+3611,36,Feminino,Meta Ads,B
+3612,44,Masculino,Google Ads,B
+3613,51,Feminino,Orgânico,A
+3614,28,Masculino,Meta Ads,B
+3615,62,Feminino,Orgânico,A
+3616,64,Masculino,Google Ads,B
+3617,29,Feminino,Google Ads,B
+3618,38,Masculino,Email Marketing,B
+3619,28,Masculino,Orgânico,B
+3620,56,Feminino,Google Ads,A
+3621,45,Feminino,Google Ads,B
+3622,22,Feminino,Google Ads,A
+3623,34,Feminino,Meta Ads,A
+3624,37,Feminino,Orgânico,A
+3625,58,Feminino,Orgânico,B
+3626,63,Masculino,Meta Ads,A
+3627,29,Feminino,Orgânico,A
+3628,23,Masculino,Meta Ads,B
+3629,34,Feminino,Google Ads,B
+3630,36,Feminino,Meta Ads,A
+3631,43,Feminino,Email Marketing,A
+3632,61,Feminino,Orgânico,B
+3633,61,Feminino,Meta Ads,B
+3634,49,Feminino,Meta Ads,A
+3635,23,Masculino,Email Marketing,B
+3636,53,Feminino,Meta Ads,B
+3637,55,Masculino,Google Ads,B
+3638,28,Feminino,Email Marketing,B
+3639,50,Masculino,Orgânico,B
+3640,41,Masculino,Google Ads,B
+3641,40,Masculino,Meta Ads,A
+3642,32,Masculino,Meta Ads,B
+3643,44,Feminino,Google Ads,B
+3644,28,Masculino,Email Marketing,A
+3645,34,Feminino,Meta Ads,B
+3646,31,Masculino,Orgânico,A
+3647,44,Feminino,Google Ads,A
+3648,35,Feminino,Meta Ads,A
+3649,45,Feminino,Google Ads,B
+3650,64,Feminino,Orgânico,B
+3651,64,Masculino,Meta Ads,A
+3652,21,Feminino,Meta Ads,B
+3653,24,Masculino,Google Ads,A
+3654,62,Feminino,Google Ads,B
+3655,52,Feminino,Google Ads,B
+3656,26,Masculino,Google Ads,B
+3657,25,Feminino,Meta Ads,B
+3658,62,Feminino,Meta Ads,A
+3659,34,Masculino,Meta Ads,B
+3660,34,Masculino,Meta Ads,B
+3661,50,Masculino,Google Ads,A
+3662,49,Feminino,Google Ads,B
+3663,25,Feminino,Google Ads,B
+3664,36,Masculino,Orgânico,A
+3665,55,Masculino,Meta Ads,B
+3666,20,Feminino,Google Ads,B
+3667,22,Feminino,Google Ads,B
+3668,30,Masculino,Orgânico,A
+3669,64,Masculino,Orgânico,A
+3670,63,Feminino,Meta Ads,A
+3671,48,Masculino,Meta Ads,B
+3672,33,Masculino,Google Ads,B
+3673,49,Feminino,Email Marketing,B
+3674,39,Feminino,Orgânico,A
+3675,46,Masculino,Google Ads,A
+3676,39,Masculino,Orgânico,B
+3677,60,Masculino,Orgânico,B
+3678,20,Masculino,Google Ads,B
+3679,27,Feminino,Meta Ads,B
+3680,59,Masculino,Google Ads,B
+3681,38,Feminino,Google Ads,B
+3682,33,Feminino,Orgânico,B
+3683,29,Masculino,Google Ads,A
+3684,19,Masculino,Orgânico,B
+3685,58,Feminino,Email Marketing,B
+3686,41,Feminino,Google Ads,A
+3687,52,Feminino,Meta Ads,A
+3688,47,Masculino,Orgânico,A
+3689,47,Feminino,Orgânico,B
+3690,64,Feminino,Orgânico,A
+3691,52,Feminino,Google Ads,A
+3692,36,Masculino,Meta Ads,B
+3693,25,Feminino,Meta Ads,A
+3694,43,Feminino,Email Marketing,B
+3695,57,Masculino,Google Ads,A
+3696,24,Feminino,Email Marketing,B
+3697,47,Masculino,Google Ads,A
+3698,24,Masculino,Email Marketing,A
+3699,20,Masculino,Meta Ads,A
+3700,18,Feminino,Meta Ads,B
+3701,53,Masculino,Meta Ads,B
+3702,42,Masculino,Google Ads,A
+3703,54,Feminino,Google Ads,B
+3704,18,Masculino,Google Ads,A
+3705,32,Feminino,Google Ads,B
+3706,54,Feminino,Google Ads,B
+3707,30,Feminino,Orgânico,B
+3708,57,Feminino,Meta Ads,B
+3709,25,Feminino,Google Ads,B
+3710,22,Masculino,Orgânico,B
+3711,26,Feminino,Meta Ads,B
+3712,18,Masculino,Email Marketing,B
+3713,53,Feminino,Meta Ads,B
+3714,52,Masculino,Google Ads,B
+3715,19,Feminino,Meta Ads,B
+3716,57,Feminino,Meta Ads,B
+3717,40,Feminino,Google Ads,B
+3718,26,Masculino,Google Ads,A
+3719,51,Masculino,Google Ads,A
+3720,63,Feminino,Google Ads,A
+3721,31,Feminino,Meta Ads,B
+3722,21,Masculino,Meta Ads,A
+3723,47,Outro,Google Ads,B
+3724,48,Feminino,Meta Ads,B
+3725,55,Masculino,Meta Ads,B
+3726,28,Feminino,Google Ads,A
+3727,52,Feminino,Google Ads,B
+3728,25,Masculino,Google Ads,B
+3729,20,Masculino,Google Ads,B
+3730,31,Feminino,Google Ads,A
+3731,30,Feminino,Google Ads,B
+3732,62,Masculino,Meta Ads,B
+3733,49,Feminino,Meta Ads,B
+3734,51,Feminino,Google Ads,B
+3735,62,Feminino,Google Ads,B
+3736,36,Masculino,Meta Ads,B
+3737,55,Feminino,Orgânico,B
+3738,33,Masculino,Orgânico,B
+3739,19,Masculino,Meta Ads,B
+3740,57,Masculino,Google Ads,A
+3741,34,Feminino,Google Ads,A
+3742,51,Feminino,Orgânico,A
+3743,59,Masculino,Google Ads,A
+3744,33,Feminino,Email Marketing,A
+3745,55,Masculino,Meta Ads,A
+3746,19,Masculino,Meta Ads,B
+3747,19,Outro,Google Ads,A
+3748,43,Feminino,Meta Ads,A
+3749,30,Masculino,Meta Ads,B
+3750,64,Feminino,Google Ads,B
+3751,48,Masculino,Google Ads,B
+3752,51,Masculino,Orgânico,B
+3753,56,Feminino,Meta Ads,A
+3754,20,Feminino,Meta Ads,A
+3755,25,Masculino,Google Ads,A
+3756,40,Feminino,Orgânico,A
+3757,31,Feminino,Orgânico,A
+3758,44,Masculino,Meta Ads,B
+3759,46,Feminino,Meta Ads,A
+3760,56,Feminino,Meta Ads,A
+3761,56,Feminino,Meta Ads,A
+3762,18,Feminino,Google Ads,B
+3763,34,Feminino,Email Marketing,A
+3764,58,Masculino,Meta Ads,A
+3765,47,Feminino,Google Ads,A
+3766,30,Feminino,Meta Ads,A
+3767,38,Masculino,Orgânico,A
+3768,36,Feminino,Google Ads,B
+3769,36,Feminino,Google Ads,A
+3770,42,Feminino,Meta Ads,B
+3771,39,Masculino,Google Ads,B
+3772,48,Masculino,Orgânico,B
+3773,34,Feminino,Google Ads,A
+3774,40,Masculino,Orgânico,A
+3775,49,Feminino,Google Ads,A
+3776,27,Masculino,Google Ads,B
+3777,27,Masculino,Orgânico,B
+3778,53,Masculino,Meta Ads,A
+3779,25,Masculino,Google Ads,B
+3780,37,Feminino,Google Ads,B
+3781,49,Masculino,Meta Ads,B
+3782,31,Masculino,Meta Ads,A
+3783,45,Masculino,Email Marketing,B
+3784,63,Feminino,Email Marketing,A
+3785,41,Masculino,Meta Ads,B
+3786,32,Feminino,Meta Ads,A
+3787,39,Feminino,Meta Ads,A
+3788,47,Feminino,Meta Ads,B
+3789,21,Feminino,Google Ads,B
+3790,30,Feminino,Google Ads,A
+3791,40,Feminino,Google Ads,A
+3792,25,Masculino,Google Ads,B
+3793,35,Masculino,Google Ads,B
+3794,29,Masculino,Meta Ads,B
+3795,48,Feminino,Orgânico,B
+3796,31,Outro,Meta Ads,A
+3797,51,Feminino,Google Ads,B
+3798,35,Masculino,Google Ads,B
+3799,51,Feminino,Meta Ads,B
+3800,28,Masculino,Google Ads,A
+3801,58,Masculino,Meta Ads,B
+3802,29,Masculino,Email Marketing,B
+3803,32,Masculino,Google Ads,B
+3804,48,Feminino,Google Ads,B
+3805,46,Masculino,Meta Ads,B
+3806,43,Masculino,Email Marketing,B
+3807,35,Feminino,Orgânico,A
+3808,49,Feminino,Orgânico,A
+3809,39,Feminino,Google Ads,B
+3810,55,Masculino,Email Marketing,B
+3811,34,Feminino,Google Ads,A
+3812,40,Feminino,Google Ads,B
+3813,41,Masculino,Orgânico,A
+3814,25,Feminino,Email Marketing,A
+3815,58,Masculino,Google Ads,B
+3816,23,Masculino,Google Ads,B
+3817,22,Feminino,Google Ads,A
+3818,61,Feminino,Google Ads,B
+3819,46,Masculino,Google Ads,B
+3820,45,Feminino,Email Marketing,B
+3821,28,Feminino,Meta Ads,A
+3822,18,Feminino,Orgânico,B
+3823,60,Masculino,Orgânico,A
+3824,36,Feminino,Meta Ads,A
+3825,26,Masculino,Orgânico,B
+3826,44,Feminino,Meta Ads,B
+3827,51,Masculino,Google Ads,A
+3828,61,Masculino,Meta Ads,B
+3829,21,Feminino,Meta Ads,B
+3830,53,Masculino,Orgânico,B
+3831,35,Masculino,Email Marketing,B
+3832,32,Masculino,Meta Ads,A
+3833,30,Feminino,Orgânico,B
+3834,36,Masculino,Google Ads,A
+3835,23,Feminino,Orgânico,B
+3836,29,Masculino,Google Ads,A
+3837,54,Masculino,Google Ads,A
+3838,34,Masculino,Google Ads,B
+3839,40,Feminino,Meta Ads,A
+3840,43,Masculino,Google Ads,A
+3841,46,Masculino,Email Marketing,A
+3842,50,Outro,Google Ads,B
+3843,44,Feminino,Email Marketing,B
+3844,42,Masculino,Orgânico,A
+3845,27,Masculino,Google Ads,A
+3846,64,Feminino,Google Ads,A
+3847,40,Masculino,Orgânico,B
+3848,38,Masculino,Meta Ads,B
+3849,38,Feminino,Meta Ads,A
+3850,60,Feminino,Google Ads,A
+3851,30,Feminino,Meta Ads,A
+3852,54,Masculino,Email Marketing,A
+3853,50,Masculino,Google Ads,A
+3854,41,Feminino,Meta Ads,B
+3855,61,Masculino,Google Ads,A
+3856,28,Feminino,Orgânico,B
+3857,34,Feminino,Orgânico,B
+3858,21,Masculino,Google Ads,A
+3859,64,Feminino,Google Ads,B
+3860,42,Feminino,Google Ads,B
+3861,47,Feminino,Meta Ads,A
+3862,26,Masculino,Meta Ads,B
+3863,38,Masculino,Email Marketing,A
+3864,37,Feminino,Meta Ads,B
+3865,36,Masculino,Google Ads,B
+3866,36,Outro,Orgânico,B
+3867,29,Masculino,Meta Ads,B
+3868,54,Feminino,Meta Ads,B
+3869,59,Masculino,Google Ads,B
+3870,34,Feminino,Google Ads,B
+3871,54,Masculino,Email Marketing,A
+3872,56,Masculino,Meta Ads,B
+3873,45,Masculino,Google Ads,A
+3874,58,Feminino,Meta Ads,A
+3875,52,Masculino,Email Marketing,B
+3876,64,Feminino,Google Ads,A
+3877,35,Feminino,Meta Ads,A
+3878,31,Masculino,Email Marketing,B
+3879,52,Feminino,Google Ads,A
+3880,61,Masculino,Orgânico,A
+3881,58,Outro,Meta Ads,B
+3882,24,Feminino,Meta Ads,B
+3883,58,Masculino,Google Ads,B
+3884,30,Masculino,Google Ads,B
+3885,35,Masculino,Meta Ads,B
+3886,54,Outro,Google Ads,B
+3887,30,Masculino,Meta Ads,A
+3888,53,Feminino,Google Ads,B
+3889,48,Masculino,Google Ads,B
+3890,19,Feminino,Email Marketing,A
+3891,33,Masculino,Meta Ads,A
+3892,26,Feminino,Email Marketing,A
+3893,26,Feminino,Google Ads,B
+3894,55,Feminino,Meta Ads,A
+3895,28,Masculino,Google Ads,B
+3896,39,Masculino,Orgânico,B
+3897,50,Masculino,Orgânico,B
+3898,53,Feminino,Google Ads,A
+3899,62,Masculino,Email Marketing,B
+3900,40,Feminino,Google Ads,A
+3901,62,Masculino,Meta Ads,B
+3902,62,Feminino,Email Marketing,B
+3903,51,Feminino,Orgânico,A
+3904,26,Feminino,Email Marketing,B
+3905,41,Masculino,Google Ads,A
+3906,25,Masculino,Google Ads,B
+3907,24,Masculino,Google Ads,A
+3908,53,Masculino,Meta Ads,A
+3909,35,Feminino,Orgânico,A
+3910,20,Feminino,Google Ads,A
+3911,45,Feminino,Meta Ads,B
+3912,23,Masculino,Google Ads,B
+3913,61,Feminino,Google Ads,B
+3914,61,Feminino,Meta Ads,A
+3915,38,Feminino,Meta Ads,A
+3916,45,Masculino,Orgânico,B
+3917,57,Masculino,Google Ads,A
+3918,18,Masculino,Orgânico,B
+3919,53,Feminino,Google Ads,B
+3920,38,Feminino,Google Ads,A
+3921,60,Masculino,Meta Ads,B
+3922,52,Masculino,Orgânico,B
+3923,30,Feminino,Google Ads,B
+3924,27,Feminino,Google Ads,A
+3925,61,Masculino,Meta Ads,A
+3926,64,Feminino,Google Ads,A
+3927,27,Outro,Orgânico,A
+3928,63,Feminino,Orgânico,A
+3929,30,Masculino,Google Ads,B
+3930,54,Feminino,Meta Ads,B
+3931,55,Feminino,Orgânico,B
+3932,41,Masculino,Google Ads,A
+3933,19,Feminino,Meta Ads,B
+3934,39,Feminino,Google Ads,A
+3935,34,Feminino,Meta Ads,B
+3936,53,Masculino,Google Ads,B
+3937,31,Feminino,Orgânico,B
+3938,27,Feminino,Google Ads,B
+3939,52,Masculino,Google Ads,B
+3940,42,Feminino,Orgânico,A
+3941,20,Feminino,Google Ads,A
+3942,64,Feminino,Google Ads,A
+3943,55,Masculino,Google Ads,A
+3944,34,Feminino,Google Ads,B
+3945,29,Masculino,Email Marketing,A
+3946,41,Masculino,Orgânico,B
+3947,46,Feminino,Google Ads,A
+3948,60,Masculino,Orgânico,A
+3949,42,Feminino,Meta Ads,B
+3950,53,Masculino,Email Marketing,A
+3951,43,Masculino,Google Ads,B
+3952,55,Masculino,Meta Ads,B
+3953,18,Outro,Meta Ads,A
+3954,37,Feminino,Meta Ads,B
+3955,45,Feminino,Meta Ads,A
+3956,33,Masculino,Google Ads,B
+3957,64,Masculino,Orgânico,B
+3958,34,Outro,Meta Ads,A
+3959,57,Masculino,Email Marketing,B
+3960,45,Masculino,Google Ads,A
+3961,29,Feminino,Meta Ads,B
+3962,44,Masculino,Email Marketing,B
+3963,59,Feminino,Meta Ads,B
+3964,64,Feminino,Orgânico,B
+3965,47,Masculino,Orgânico,A
+3966,58,Masculino,Google Ads,B
+3967,51,Masculino,Meta Ads,A
+3968,54,Feminino,Google Ads,B
+3969,23,Feminino,Meta Ads,A
+3970,24,Masculino,Google Ads,B
+3971,49,Masculino,Orgânico,B
+3972,49,Feminino,Meta Ads,B
+3973,42,Feminino,Meta Ads,A
+3974,50,Masculino,Google Ads,B
+3975,24,Masculino,Email Marketing,B
+3976,29,Masculino,Google Ads,B
+3977,33,Feminino,Google Ads,A
+3978,33,Outro,Google Ads,A
+3979,60,Masculino,Email Marketing,A
+3980,53,Feminino,Email Marketing,A
+3981,30,Masculino,Meta Ads,A
+3982,24,Masculino,Orgânico,A
+3983,53,Masculino,Google Ads,A
+3984,64,Feminino,Email Marketing,A
+3985,26,Feminino,Google Ads,A
+3986,49,Feminino,Google Ads,B
+3987,28,Masculino,Google Ads,B
+3988,25,Masculino,Meta Ads,A
+3989,50,Masculino,Orgânico,B
+3990,40,Feminino,Google Ads,B
+3991,42,Masculino,Email Marketing,B
+3992,25,Feminino,Meta Ads,A
+3993,62,Masculino,Google Ads,A
+3994,39,Masculino,Meta Ads,B
+3995,21,Masculino,Meta Ads,A
+3996,57,Masculino,Orgânico,A
+3997,20,Masculino,Meta Ads,A
+3998,46,Masculino,Meta Ads,A
+3999,58,Feminino,Google Ads,B
+4000,46,Feminino,Meta Ads,A
+4001,51,Masculino,Email Marketing,B
+4002,51,Masculino,Google Ads,B
+4003,45,Masculino,Orgânico,B
+4004,30,Masculino,Meta Ads,A
+4005,32,Masculino,Google Ads,A
+4006,40,Feminino,Email Marketing,A
+4007,61,Masculino,Meta Ads,A
+4008,43,Masculino,Google Ads,B
+4009,21,Masculino,Google Ads,A
+4010,43,Masculino,Google Ads,B
+4011,57,Feminino,Orgânico,B
+4012,26,Masculino,Meta Ads,B
+4013,22,Masculino,Email Marketing,B
+4014,49,Feminino,Google Ads,A
+4015,37,Masculino,Google Ads,A
+4016,28,Feminino,Google Ads,A
+4017,32,Feminino,Meta Ads,A
+4018,49,Masculino,Email Marketing,B
+4019,45,Feminino,Meta Ads,A
+4020,39,Masculino,Google Ads,A
+4021,58,Feminino,Orgânico,B
+4022,34,Masculino,Orgânico,A
+4023,43,Masculino,Google Ads,B
+4024,61,Feminino,Orgânico,A
+4025,24,Feminino,Google Ads,A
+4026,59,Outro,Google Ads,B
+4027,43,Feminino,Google Ads,B
+4028,42,Masculino,Meta Ads,A
+4029,27,Masculino,Meta Ads,A
+4030,62,Masculino,Google Ads,A
+4031,36,Masculino,Google Ads,A
+4032,28,Masculino,Orgânico,A
+4033,30,Feminino,Email Marketing,B
+4034,25,Masculino,Orgânico,A
+4035,57,Masculino,Google Ads,A
+4036,21,Masculino,Google Ads,B
+4037,64,Feminino,Google Ads,A
+4038,48,Feminino,Google Ads,A
+4039,45,Feminino,Meta Ads,B
+4040,28,Masculino,Meta Ads,A
+4041,60,Feminino,Orgânico,B
+4042,18,Masculino,Meta Ads,A
+4043,64,Feminino,Google Ads,A
+4044,55,Feminino,Google Ads,A
+4045,41,Masculino,Meta Ads,A
+4046,64,Feminino,Google Ads,A
+4047,48,Feminino,Google Ads,A
+4048,58,Masculino,Google Ads,B
+4049,63,Feminino,Google Ads,B
+4050,43,Masculino,Google Ads,A
+4051,22,Masculino,Orgânico,B
+4052,37,Masculino,Orgânico,B
+4053,58,Masculino,Google Ads,B
+4054,28,Feminino,Google Ads,A
+4055,50,Masculino,Orgânico,B
+4056,55,Feminino,Google Ads,A
+4057,44,Masculino,Google Ads,A
+4058,51,Outro,Google Ads,B
+4059,32,Feminino,Google Ads,B
+4060,49,Feminino,Orgânico,B
+4061,38,Masculino,Orgânico,B
+4062,63,Masculino,Google Ads,A
+4063,22,Masculino,Google Ads,B
+4064,23,Feminino,Google Ads,A
+4065,55,Feminino,Google Ads,A
+4066,39,Masculino,Email Marketing,B
+4067,35,Masculino,Meta Ads,A
+4068,31,Feminino,Meta Ads,B
+4069,27,Masculino,Orgânico,A
+4070,63,Feminino,Orgânico,B
+4071,30,Feminino,Orgânico,A
+4072,48,Feminino,Google Ads,A
+4073,47,Masculino,Google Ads,B
+4074,20,Masculino,Meta Ads,A
+4075,47,Feminino,Google Ads,B
+4076,23,Feminino,Email Marketing,B
+4077,46,Masculino,Meta Ads,B
+4078,25,Masculino,Email Marketing,B
+4079,61,Feminino,Google Ads,A
+4080,62,Feminino,Orgânico,B
+4081,60,Feminino,Google Ads,A
+4082,61,Outro,Email Marketing,A
+4083,50,Masculino,Google Ads,A
+4084,34,Masculino,Meta Ads,B
+4085,28,Feminino,Orgânico,B
+4086,30,Feminino,Meta Ads,B
+4087,28,Masculino,Meta Ads,B
+4088,48,Masculino,Email Marketing,B
+4089,45,Feminino,Meta Ads,B
+4090,61,Masculino,Meta Ads,A
+4091,23,Masculino,Google Ads,B
+4092,58,Feminino,Orgânico,B
+4093,33,Feminino,Meta Ads,A
+4094,21,Feminino,Meta Ads,B
+4095,52,Masculino,Google Ads,A
+4096,43,Feminino,Meta Ads,B
+4097,29,Feminino,Google Ads,B
+4098,28,Feminino,Google Ads,B
+4099,54,Feminino,Meta Ads,B
+4100,42,Masculino,Google Ads,B
+4101,35,Masculino,Google Ads,B
+4102,36,Masculino,Meta Ads,A
+4103,40,Masculino,Google Ads,A
+4104,55,Feminino,Google Ads,B
+4105,35,Feminino,Google Ads,B
+4106,43,Feminino,Meta Ads,B
+4107,23,Feminino,Meta Ads,A
+4108,21,Masculino,Orgânico,B
+4109,61,Masculino,Google Ads,B
+4110,46,Masculino,Google Ads,A
+4111,51,Masculino,Google Ads,B
+4112,34,Masculino,Meta Ads,B
+4113,60,Feminino,Email Marketing,B
+4114,60,Outro,Google Ads,B
+4115,33,Masculino,Google Ads,A
+4116,19,Masculino,Google Ads,B
+4117,51,Feminino,Meta Ads,B
+4118,25,Masculino,Meta Ads,A
+4119,30,Feminino,Meta Ads,B
+4120,59,Feminino,Orgânico,B
+4121,25,Feminino,Meta Ads,A
+4122,47,Masculino,Google Ads,A
+4123,49,Feminino,Google Ads,A
+4124,53,Masculino,Meta Ads,B
+4125,64,Feminino,Meta Ads,B
+4126,47,Masculino,Meta Ads,A
+4127,18,Masculino,Meta Ads,A
+4128,60,Feminino,Meta Ads,A
+4129,56,Feminino,Orgânico,B
+4130,34,Feminino,Meta Ads,B
+4131,37,Feminino,Orgânico,B
+4132,41,Feminino,Google Ads,B
+4133,39,Masculino,Meta Ads,B
+4134,46,Feminino,Email Marketing,A
+4135,39,Feminino,Google Ads,B
+4136,61,Feminino,Orgânico,B
+4137,26,Feminino,Orgânico,B
+4138,54,Masculino,Google Ads,B
+4139,27,Feminino,Meta Ads,B
+4140,53,Masculino,Google Ads,B
+4141,54,Masculino,Email Marketing,B
+4142,45,Feminino,Orgânico,B
+4143,45,Masculino,Google Ads,B
+4144,59,Feminino,Google Ads,A
+4145,60,Masculino,Meta Ads,A
+4146,38,Masculino,Google Ads,B
+4147,41,Feminino,Google Ads,A
+4148,59,Feminino,Meta Ads,A
+4149,57,Feminino,Google Ads,A
+4150,19,Feminino,Google Ads,B
+4151,25,Feminino,Orgânico,B
+4152,44,Masculino,Email Marketing,A
+4153,39,Masculino,Orgânico,A
+4154,54,Masculino,Orgânico,B
+4155,44,Feminino,Google Ads,A
+4156,46,Feminino,Google Ads,A
+4157,20,Masculino,Google Ads,B
+4158,61,Feminino,Orgânico,B
+4159,30,Feminino,Email Marketing,A
+4160,62,Masculino,Orgânico,B
+4161,27,Masculino,Orgânico,A
+4162,53,Feminino,Meta Ads,B
+4163,26,Feminino,Google Ads,A
+4164,44,Feminino,Meta Ads,A
+4165,51,Masculino,Google Ads,B
+4166,18,Outro,Google Ads,B
+4167,49,Masculino,Meta Ads,A
+4168,42,Masculino,Meta Ads,A
+4169,46,Outro,Meta Ads,B
+4170,24,Masculino,Meta Ads,B
+4171,20,Feminino,Google Ads,A
+4172,37,Masculino,Meta Ads,B
+4173,37,Feminino,Meta Ads,A
+4174,47,Feminino,Google Ads,B
+4175,52,Masculino,Orgânico,A
+4176,52,Feminino,Meta Ads,A
+4177,56,Masculino,Meta Ads,A
+4178,44,Feminino,Orgânico,A
+4179,43,Masculino,Orgânico,A
+4180,31,Masculino,Orgânico,A
+4181,34,Masculino,Google Ads,A
+4182,35,Masculino,Google Ads,A
+4183,62,Feminino,Google Ads,B
+4184,46,Masculino,Google Ads,A
+4185,37,Masculino,Email Marketing,B
+4186,44,Masculino,Meta Ads,A
+4187,35,Masculino,Google Ads,A
+4188,21,Feminino,Google Ads,B
+4189,18,Outro,Google Ads,B
+4190,18,Masculino,Meta Ads,A
+4191,43,Feminino,Orgânico,A
+4192,62,Feminino,Orgânico,B
+4193,37,Masculino,Email Marketing,B
+4194,40,Feminino,Google Ads,B
+4195,27,Feminino,Google Ads,A
+4196,28,Feminino,Google Ads,A
+4197,58,Feminino,Google Ads,B
+4198,58,Masculino,Email Marketing,B
+4199,22,Feminino,Meta Ads,B
+4200,18,Feminino,Orgânico,B
+4201,34,Feminino,Meta Ads,B
+4202,39,Feminino,Google Ads,A
+4203,51,Masculino,Google Ads,A
+4204,62,Outro,Meta Ads,B
+4205,58,Feminino,Orgânico,A
+4206,46,Masculino,Google Ads,A
+4207,21,Masculino,Orgânico,A
+4208,22,Feminino,Orgânico,A
+4209,28,Masculino,Meta Ads,A
+4210,38,Masculino,Orgânico,B
+4211,52,Masculino,Meta Ads,A
+4212,29,Masculino,Meta Ads,B
+4213,43,Masculino,Orgânico,A
+4214,36,Masculino,Email Marketing,A
+4215,62,Masculino,Google Ads,B
+4216,24,Feminino,Meta Ads,B
+4217,64,Feminino,Google Ads,A
+4218,24,Masculino,Google Ads,B
+4219,43,Masculino,Meta Ads,A
+4220,57,Feminino,Email Marketing,B
+4221,22,Masculino,Google Ads,A
+4222,38,Masculino,Google Ads,A
+4223,31,Masculino,Google Ads,B
+4224,21,Feminino,Meta Ads,B
+4225,40,Feminino,Google Ads,A
+4226,59,Feminino,Google Ads,B
+4227,37,Feminino,Orgânico,A
+4228,32,Feminino,Google Ads,B
+4229,62,Masculino,Meta Ads,A
+4230,46,Feminino,Orgânico,B
+4231,25,Masculino,Google Ads,A
+4232,58,Feminino,Meta Ads,A
+4233,36,Feminino,Meta Ads,B
+4234,56,Feminino,Meta Ads,B
+4235,63,Masculino,Meta Ads,B
+4236,45,Masculino,Google Ads,A
+4237,63,Feminino,Orgânico,B
+4238,44,Feminino,Orgânico,B
+4239,21,Feminino,Google Ads,B
+4240,32,Masculino,Google Ads,B
+4241,52,Feminino,Google Ads,A
+4242,54,Feminino,Google Ads,B
+4243,18,Feminino,Meta Ads,B
+4244,20,Feminino,Google Ads,A
+4245,64,Feminino,Google Ads,B
+4246,41,Feminino,Orgânico,B
+4247,44,Feminino,Google Ads,B
+4248,57,Outro,Orgânico,A
+4249,53,Masculino,Orgânico,B
+4250,51,Masculino,Google Ads,A
+4251,46,Feminino,Orgânico,B
+4252,41,Feminino,Orgânico,B
+4253,41,Feminino,Google Ads,B
+4254,59,Feminino,Google Ads,A
+4255,21,Masculino,Meta Ads,B
+4256,20,Feminino,Email Marketing,B
+4257,51,Feminino,Meta Ads,A
+4258,40,Masculino,Google Ads,B
+4259,40,Masculino,Meta Ads,B
+4260,62,Feminino,Meta Ads,B
+4261,22,Masculino,Meta Ads,A
+4262,48,Feminino,Orgânico,A
+4263,58,Masculino,Meta Ads,B
+4264,23,Feminino,Orgânico,A
+4265,54,Feminino,Orgânico,A
+4266,27,Feminino,Meta Ads,B
+4267,57,Masculino,Google Ads,A
+4268,24,Feminino,Orgânico,B
+4269,56,Masculino,Email Marketing,B
+4270,55,Masculino,Google Ads,B
+4271,38,Outro,Meta Ads,B
+4272,37,Feminino,Google Ads,A
+4273,20,Feminino,Orgânico,A
+4274,39,Masculino,Orgânico,B
+4275,64,Masculino,Google Ads,A
+4276,21,Masculino,Orgânico,B
+4277,45,Feminino,Google Ads,B
+4278,29,Feminino,Orgânico,A
+4279,55,Feminino,Meta Ads,B
+4280,53,Feminino,Google Ads,A
+4281,64,Masculino,Google Ads,A
+4282,58,Masculino,Google Ads,B
+4283,22,Masculino,Meta Ads,B
+4284,30,Masculino,Meta Ads,B
+4285,40,Masculino,Google Ads,A
+4286,47,Feminino,Google Ads,A
+4287,54,Masculino,Google Ads,A
+4288,42,Feminino,Orgânico,A
+4289,44,Masculino,Orgânico,A
+4290,31,Outro,Google Ads,B
+4291,64,Feminino,Meta Ads,B
+4292,53,Feminino,Google Ads,A
+4293,56,Masculino,Email Marketing,A
+4294,33,Feminino,Email Marketing,B
+4295,39,Feminino,Meta Ads,B
+4296,38,Masculino,Email Marketing,B
+4297,38,Masculino,Orgânico,A
+4298,25,Masculino,Orgânico,A
+4299,33,Feminino,Meta Ads,B
+4300,48,Feminino,Google Ads,B
+4301,59,Feminino,Google Ads,A
+4302,27,Masculino,Google Ads,B
+4303,49,Masculino,Meta Ads,A
+4304,51,Feminino,Google Ads,A
+4305,26,Masculino,Google Ads,B
+4306,34,Feminino,Meta Ads,A
+4307,28,Feminino,Google Ads,B
+4308,49,Masculino,Meta Ads,A
+4309,27,Feminino,Email Marketing,A
+4310,39,Masculino,Orgânico,A
+4311,34,Feminino,Meta Ads,A
+4312,21,Masculino,Meta Ads,A
+4313,64,Feminino,Meta Ads,B
+4314,42,Masculino,Google Ads,B
+4315,38,Masculino,Orgânico,A
+4316,54,Feminino,Google Ads,A
+4317,55,Masculino,Google Ads,B
+4318,18,Feminino,Orgânico,A
+4319,42,Masculino,Google Ads,A
+4320,53,Feminino,Google Ads,A
+4321,34,Masculino,Google Ads,B
+4322,58,Feminino,Google Ads,A
+4323,41,Masculino,Google Ads,B
+4324,19,Masculino,Google Ads,A
+4325,57,Masculino,Meta Ads,A
+4326,32,Feminino,Orgânico,A
+4327,49,Masculino,Google Ads,B
+4328,56,Feminino,Orgânico,B
+4329,23,Feminino,Google Ads,A
+4330,18,Masculino,Google Ads,A
+4331,64,Feminino,Google Ads,B
+4332,40,Masculino,Meta Ads,B
+4333,56,Masculino,Meta Ads,A
+4334,34,Feminino,Meta Ads,B
+4335,51,Feminino,Orgânico,A
+4336,58,Feminino,Meta Ads,A
+4337,46,Masculino,Meta Ads,A
+4338,26,Masculino,Email Marketing,B
+4339,30,Masculino,Google Ads,A
+4340,23,Feminino,Google Ads,B
+4341,23,Feminino,Orgânico,B
+4342,37,Feminino,Meta Ads,B
+4343,20,Masculino,Google Ads,A
+4344,34,Masculino,Google Ads,A
+4345,29,Masculino,Meta Ads,B
+4346,64,Masculino,Meta Ads,B
+4347,62,Masculino,Google Ads,B
+4348,18,Feminino,Email Marketing,A
+4349,34,Feminino,Orgânico,A
+4350,20,Feminino,Meta Ads,B
+4351,43,Masculino,Meta Ads,A
+4352,32,Masculino,Orgânico,B
+4353,53,Feminino,Google Ads,A
+4354,49,Masculino,Google Ads,A
+4355,49,Feminino,Meta Ads,A
+4356,21,Feminino,Orgânico,A
+4357,35,Masculino,Google Ads,A
+4358,36,Feminino,Email Marketing,B
+4359,60,Masculino,Meta Ads,A
+4360,52,Feminino,Google Ads,A
+4361,57,Feminino,Google Ads,B
+4362,31,Masculino,Google Ads,A
+4363,50,Masculino,Orgânico,A
+4364,31,Feminino,Email Marketing,B
+4365,51,Feminino,Meta Ads,B
+4366,21,Masculino,Email Marketing,A
+4367,41,Feminino,Orgânico,A
+4368,46,Masculino,Meta Ads,B
+4369,36,Masculino,Meta Ads,A
+4370,23,Masculino,Meta Ads,B
+4371,50,Masculino,Meta Ads,B
+4372,57,Masculino,Google Ads,B
+4373,36,Outro,Meta Ads,A
+4374,18,Masculino,Google Ads,A
+4375,22,Masculino,Orgânico,B
+4376,44,Masculino,Orgânico,A
+4377,33,Feminino,Google Ads,A
+4378,23,Feminino,Google Ads,B
+4379,57,Masculino,Meta Ads,A
+4380,30,Masculino,Meta Ads,A
+4381,52,Masculino,Google Ads,B
+4382,36,Masculino,Meta Ads,A
+4383,29,Masculino,Google Ads,A
+4384,33,Masculino,Google Ads,A
+4385,60,Masculino,Google Ads,B
+4386,27,Feminino,Google Ads,A
+4387,42,Masculino,Orgânico,A
+4388,37,Feminino,Email Marketing,B
+4389,48,Feminino,Meta Ads,B
+4390,21,Feminino,Meta Ads,A
+4391,61,Masculino,Google Ads,B
+4392,40,Masculino,Meta Ads,A
+4393,19,Masculino,Google Ads,B
+4394,39,Feminino,Meta Ads,A
+4395,54,Masculino,Email Marketing,A
+4396,25,Feminino,Google Ads,B
+4397,24,Feminino,Orgânico,A
+4398,31,Masculino,Google Ads,A
+4399,20,Feminino,Google Ads,A
+4400,33,Masculino,Google Ads,B
+4401,36,Masculino,Google Ads,A
+4402,35,Masculino,Google Ads,A
+4403,33,Masculino,Google Ads,A
+4404,25,Feminino,Meta Ads,A
+4405,50,Masculino,Google Ads,A
+4406,29,Masculino,Meta Ads,A
+4407,28,Feminino,Email Marketing,A
+4408,22,Feminino,Meta Ads,A
+4409,44,Masculino,Google Ads,B
+4410,29,Feminino,Google Ads,B
+4411,34,Feminino,Orgânico,B
+4412,23,Masculino,Meta Ads,A
+4413,50,Masculino,Meta Ads,B
+4414,22,Masculino,Google Ads,A
+4415,45,Feminino,Meta Ads,B
+4416,31,Feminino,Google Ads,A
+4417,22,Feminino,Email Marketing,A
+4418,50,Feminino,Orgânico,A
+4419,58,Masculino,Google Ads,A
+4420,36,Masculino,Meta Ads,B
+4421,39,Masculino,Google Ads,B
+4422,22,Feminino,Meta Ads,B
+4423,19,Feminino,Orgânico,B
+4424,47,Masculino,Meta Ads,A
+4425,64,Feminino,Google Ads,A
+4426,56,Masculino,Google Ads,B
+4427,21,Masculino,Orgânico,B
+4428,50,Masculino,Meta Ads,B
+4429,30,Masculino,Meta Ads,A
+4430,37,Masculino,Google Ads,B
+4431,24,Masculino,Google Ads,B
+4432,32,Masculino,Email Marketing,A
+4433,40,Masculino,Meta Ads,A
+4434,31,Feminino,Meta Ads,A
+4435,40,Masculino,Meta Ads,B
+4436,36,Outro,Orgânico,A
+4437,46,Masculino,Google Ads,A
+4438,37,Masculino,Google Ads,A
+4439,46,Masculino,Meta Ads,B
+4440,41,Masculino,Meta Ads,A
+4441,35,Feminino,Orgânico,A
+4442,27,Masculino,Orgânico,B
+4443,58,Feminino,Google Ads,B
+4444,25,Feminino,Google Ads,A
+4445,43,Feminino,Email Marketing,B
+4446,46,Feminino,Meta Ads,B
+4447,27,Feminino,Meta Ads,A
+4448,34,Masculino,Meta Ads,A
+4449,19,Feminino,Meta Ads,A
+4450,23,Masculino,Google Ads,A
+4451,22,Masculino,Orgânico,A
+4452,45,Masculino,Orgânico,B
+4453,58,Feminino,Meta Ads,A
+4454,22,Feminino,Meta Ads,B
+4455,35,Masculino,Google Ads,A
+4456,43,Feminino,Google Ads,B
+4457,37,Masculino,Google Ads,A
+4458,58,Masculino,Google Ads,B
+4459,44,Masculino,Email Marketing,B
+4460,29,Masculino,Orgânico,B
+4461,24,Masculino,Meta Ads,A
+4462,20,Feminino,Meta Ads,B
+4463,27,Feminino,Google Ads,B
+4464,51,Masculino,Email Marketing,B
+4465,42,Feminino,Google Ads,A
+4466,52,Feminino,Google Ads,B
+4467,33,Feminino,Meta Ads,A
+4468,19,Feminino,Orgânico,B
+4469,41,Masculino,Orgânico,B
+4470,27,Feminino,Google Ads,A
+4471,55,Feminino,Orgânico,A
+4472,39,Masculino,Google Ads,A
+4473,43,Masculino,Google Ads,B
+4474,60,Feminino,Orgânico,A
+4475,56,Masculino,Orgânico,A
+4476,44,Outro,Meta Ads,B
+4477,46,Masculino,Meta Ads,A
+4478,64,Feminino,Orgânico,A
+4479,55,Masculino,Orgânico,B
+4480,37,Feminino,Orgânico,A
+4481,44,Feminino,Meta Ads,A
+4482,58,Masculino,Email Marketing,A
+4483,37,Feminino,Email Marketing,B
+4484,61,Masculino,Google Ads,B
+4485,36,Masculino,Orgânico,A
+4486,37,Masculino,Meta Ads,A
+4487,52,Feminino,Google Ads,A
+4488,64,Masculino,Meta Ads,B
+4489,19,Masculino,Google Ads,A
+4490,47,Masculino,Meta Ads,B
+4491,51,Feminino,Orgânico,A
+4492,39,Feminino,Google Ads,B
+4493,20,Masculino,Meta Ads,B
+4494,23,Masculino,Email Marketing,B
+4495,32,Feminino,Meta Ads,A
+4496,44,Masculino,Google Ads,B
+4497,27,Feminino,Meta Ads,A
+4498,26,Feminino,Meta Ads,A
+4499,50,Feminino,Meta Ads,A
+4500,49,Masculino,Orgânico,B
+4501,23,Feminino,Meta Ads,B
+4502,58,Feminino,Orgânico,B
+4503,53,Feminino,Meta Ads,B
+4504,19,Masculino,Google Ads,A
+4505,46,Masculino,Meta Ads,B
+4506,21,Masculino,Orgânico,B
+4507,18,Feminino,Meta Ads,B
+4508,36,Feminino,Google Ads,A
+4509,43,Masculino,Google Ads,B
+4510,42,Masculino,Google Ads,B
+4511,27,Masculino,Google Ads,B
+4512,32,Feminino,Meta Ads,A
+4513,39,Feminino,Google Ads,B
+4514,38,Masculino,Orgânico,B
+4515,39,Masculino,Google Ads,A
+4516,53,Masculino,Google Ads,A
+4517,51,Feminino,Meta Ads,A
+4518,47,Feminino,Google Ads,B
+4519,42,Feminino,Orgânico,A
+4520,62,Masculino,Google Ads,A
+4521,45,Feminino,Meta Ads,B
+4522,18,Masculino,Orgânico,B
+4523,62,Feminino,Meta Ads,A
+4524,21,Masculino,Google Ads,A
+4525,24,Feminino,Meta Ads,B
+4526,26,Feminino,Orgânico,B
+4527,53,Feminino,Email Marketing,A
+4528,36,Feminino,Orgânico,B
+4529,18,Masculino,Google Ads,A
+4530,27,Masculino,Email Marketing,B
+4531,53,Feminino,Google Ads,A
+4532,26,Masculino,Google Ads,A
+4533,62,Masculino,Orgânico,A
+4534,63,Masculino,Google Ads,A
+4535,59,Feminino,Google Ads,B
+4536,49,Masculino,Google Ads,B
+4537,49,Masculino,Meta Ads,B
+4538,23,Masculino,Orgânico,A
+4539,55,Masculino,Meta Ads,A
+4540,34,Feminino,Google Ads,A
+4541,27,Outro,Meta Ads,A
+4542,44,Feminino,Email Marketing,B
+4543,52,Masculino,Orgânico,A
+4544,38,Feminino,Google Ads,B
+4545,42,Feminino,Email Marketing,B
+4546,45,Masculino,Orgânico,A
+4547,64,Feminino,Google Ads,B
+4548,32,Feminino,Google Ads,A
+4549,21,Feminino,Google Ads,A
+4550,46,Feminino,Orgânico,B
+4551,26,Masculino,Google Ads,A
+4552,44,Masculino,Meta Ads,A
+4553,43,Feminino,Google Ads,B
+4554,36,Masculino,Email Marketing,A
+4555,45,Masculino,Google Ads,B
+4556,34,Feminino,Email Marketing,A
+4557,60,Feminino,Email Marketing,A
+4558,58,Masculino,Google Ads,B
+4559,59,Feminino,Meta Ads,B
+4560,37,Feminino,Google Ads,A
+4561,62,Feminino,Email Marketing,A
+4562,57,Masculino,Meta Ads,B
+4563,56,Masculino,Google Ads,A
+4564,40,Masculino,Google Ads,B
+4565,64,Masculino,Google Ads,B
+4566,49,Masculino,Email Marketing,B
+4567,64,Masculino,Meta Ads,B
+4568,50,Masculino,Orgânico,B
+4569,63,Feminino,Google Ads,B
+4570,22,Masculino,Google Ads,B
+4571,60,Feminino,Email Marketing,B
+4572,51,Feminino,Google Ads,A
+4573,57,Masculino,Email Marketing,A
+4574,28,Feminino,Google Ads,B
+4575,20,Feminino,Google Ads,B
+4576,50,Masculino,Meta Ads,A
+4577,28,Feminino,Email Marketing,A
+4578,33,Masculino,Email Marketing,B
+4579,35,Feminino,Google Ads,B
+4580,47,Masculino,Google Ads,A
+4581,27,Feminino,Meta Ads,B
+4582,35,Masculino,Meta Ads,B
+4583,55,Feminino,Orgânico,B
+4584,36,Masculino,Google Ads,B
+4585,53,Feminino,Email Marketing,A
+4586,30,Feminino,Meta Ads,B
+4587,63,Masculino,Orgânico,B
+4588,20,Feminino,Meta Ads,B
+4589,27,Masculino,Meta Ads,A
+4590,55,Feminino,Email Marketing,A
+4591,18,Feminino,Meta Ads,A
+4592,44,Feminino,Orgânico,A
+4593,63,Feminino,Email Marketing,B
+4594,25,Masculino,Meta Ads,B
+4595,63,Masculino,Meta Ads,B
+4596,59,Masculino,Google Ads,B
+4597,34,Feminino,Google Ads,A
+4598,26,Masculino,Google Ads,B
+4599,23,Feminino,Google Ads,B
+4600,60,Feminino,Google Ads,B
+4601,42,Masculino,Google Ads,B
+4602,56,Feminino,Google Ads,B
+4603,45,Masculino,Meta Ads,B
+4604,50,Masculino,Google Ads,A
+4605,54,Feminino,Google Ads,B
+4606,26,Masculino,Meta Ads,B
+4607,35,Masculino,Meta Ads,A
+4608,38,Feminino,Meta Ads,B
+4609,19,Masculino,Meta Ads,B
+4610,60,Outro,Orgânico,B
+4611,55,Outro,Meta Ads,B
+4612,57,Masculino,Meta Ads,B
+4613,53,Masculino,Email Marketing,A
+4614,60,Feminino,Orgânico,A
+4615,54,Masculino,Meta Ads,B
+4616,32,Masculino,Meta Ads,B
+4617,45,Feminino,Google Ads,B
+4618,35,Masculino,Meta Ads,A
+4619,51,Feminino,Email Marketing,A
+4620,39,Masculino,Meta Ads,B
+4621,28,Masculino,Email Marketing,A
+4622,30,Masculino,Meta Ads,B
+4623,21,Outro,Email Marketing,B
+4624,39,Feminino,Meta Ads,B
+4625,24,Feminino,Google Ads,A
+4626,60,Masculino,Meta Ads,B
+4627,41,Masculino,Google Ads,B
+4628,21,Masculino,Google Ads,A
+4629,45,Feminino,Orgânico,A
+4630,32,Feminino,Google Ads,A
+4631,18,Feminino,Orgânico,A
+4632,20,Masculino,Google Ads,B
+4633,31,Feminino,Google Ads,B
+4634,55,Masculino,Email Marketing,B
+4635,18,Outro,Google Ads,B
+4636,55,Masculino,Meta Ads,B
+4637,55,Feminino,Meta Ads,A
+4638,38,Masculino,Meta Ads,B
+4639,46,Masculino,Email Marketing,B
+4640,22,Feminino,Meta Ads,B
+4641,27,Masculino,Meta Ads,B
+4642,45,Masculino,Orgânico,B
+4643,38,Feminino,Google Ads,B
+4644,24,Feminino,Meta Ads,B
+4645,20,Feminino,Email Marketing,A
+4646,62,Masculino,Meta Ads,B
+4647,64,Feminino,Orgânico,B
+4648,37,Feminino,Meta Ads,A
+4649,36,Masculino,Orgânico,A
+4650,52,Feminino,Email Marketing,B
+4651,21,Masculino,Google Ads,A
+4652,22,Masculino,Google Ads,A
+4653,18,Masculino,Meta Ads,B
+4654,21,Masculino,Orgânico,B
+4655,29,Feminino,Google Ads,B
+4656,44,Feminino,Google Ads,A
+4657,59,Feminino,Google Ads,A
+4658,40,Feminino,Email Marketing,A
+4659,42,Masculino,Meta Ads,A
+4660,38,Feminino,Meta Ads,A
+4661,41,Feminino,Google Ads,B
+4662,42,Masculino,Google Ads,B
+4663,62,Feminino,Google Ads,A
+4664,63,Outro,Google Ads,A
+4665,49,Feminino,Email Marketing,B
+4666,49,Feminino,Email Marketing,B
+4667,22,Masculino,Google Ads,A
+4668,53,Masculino,Google Ads,B
+4669,63,Masculino,Google Ads,A
+4670,59,Feminino,Meta Ads,A
+4671,59,Feminino,Google Ads,A
+4672,56,Outro,Google Ads,B
+4673,33,Masculino,Google Ads,A
+4674,50,Masculino,Orgânico,A
+4675,38,Feminino,Orgânico,A
+4676,26,Feminino,Meta Ads,B
+4677,23,Masculino,Google Ads,A
+4678,62,Feminino,Email Marketing,A
+4679,52,Feminino,Email Marketing,A
+4680,56,Feminino,Google Ads,A
+4681,39,Feminino,Google Ads,B
+4682,58,Masculino,Meta Ads,A
+4683,22,Outro,Google Ads,A
+4684,59,Feminino,Meta Ads,B
+4685,40,Masculino,Meta Ads,A
+4686,34,Masculino,Meta Ads,A
+4687,29,Feminino,Google Ads,A
+4688,40,Masculino,Meta Ads,B
+4689,33,Masculino,Email Marketing,B
+4690,20,Feminino,Google Ads,B
+4691,47,Masculino,Meta Ads,B
+4692,39,Feminino,Google Ads,B
+4693,26,Masculino,Google Ads,B
+4694,46,Feminino,Meta Ads,B
+4695,64,Masculino,Google Ads,A
+4696,54,Masculino,Google Ads,A
+4697,40,Masculino,Google Ads,B
+4698,30,Feminino,Meta Ads,B
+4699,49,Feminino,Orgânico,A
+4700,63,Masculino,Google Ads,B
+4701,64,Feminino,Meta Ads,A
+4702,40,Feminino,Google Ads,A
+4703,62,Outro,Meta Ads,A
+4704,34,Masculino,Meta Ads,B
+4705,57,Feminino,Meta Ads,A
+4706,38,Masculino,Email Marketing,B
+4707,19,Masculino,Email Marketing,B
+4708,54,Outro,Google Ads,B
+4709,23,Feminino,Orgânico,A
+4710,61,Masculino,Google Ads,B
+4711,35,Masculino,Email Marketing,A
+4712,47,Feminino,Google Ads,A
+4713,39,Feminino,Google Ads,B
+4714,50,Masculino,Google Ads,A
+4715,47,Feminino,Google Ads,A
+4716,34,Masculino,Orgânico,A
+4717,60,Masculino,Email Marketing,B
+4718,49,Feminino,Meta Ads,A
+4719,59,Masculino,Orgânico,B
+4720,31,Masculino,Orgânico,B
+4721,27,Feminino,Google Ads,B
+4722,64,Feminino,Google Ads,B
+4723,53,Masculino,Google Ads,A
+4724,51,Feminino,Google Ads,A
+4725,26,Feminino,Google Ads,A
+4726,59,Masculino,Google Ads,A
+4727,45,Feminino,Google Ads,B
+4728,28,Masculino,Google Ads,A
+4729,31,Masculino,Email Marketing,A
+4730,56,Feminino,Google Ads,B
+4731,64,Outro,Meta Ads,B
+4732,36,Masculino,Meta Ads,B
+4733,32,Masculino,Meta Ads,B
+4734,45,Feminino,Google Ads,B
+4735,41,Masculino,Google Ads,B
+4736,25,Masculino,Google Ads,A
+4737,60,Masculino,Google Ads,B
+4738,26,Feminino,Google Ads,B
+4739,64,Masculino,Meta Ads,A
+4740,50,Masculino,Meta Ads,A
+4741,50,Feminino,Meta Ads,B
+4742,36,Feminino,Meta Ads,B
+4743,20,Feminino,Google Ads,A
+4744,27,Masculino,Orgânico,A
+4745,57,Feminino,Google Ads,B
+4746,64,Masculino,Orgânico,B
+4747,59,Masculino,Orgânico,A
+4748,18,Feminino,Meta Ads,A
+4749,46,Masculino,Google Ads,B
+4750,51,Masculino,Meta Ads,A
+4751,30,Masculino,Google Ads,B
+4752,18,Masculino,Google Ads,A
+4753,51,Masculino,Google Ads,A
+4754,46,Outro,Google Ads,A
+4755,64,Masculino,Meta Ads,A
+4756,30,Masculino,Orgânico,A
+4757,46,Masculino,Google Ads,A
+4758,56,Feminino,Email Marketing,B
+4759,41,Feminino,Email Marketing,A
+4760,43,Masculino,Email Marketing,B
+4761,34,Feminino,Orgânico,A
+4762,24,Masculino,Google Ads,B
+4763,30,Masculino,Google Ads,A
+4764,22,Masculino,Meta Ads,A
+4765,43,Masculino,Meta Ads,B
+4766,20,Masculino,Orgânico,B
+4767,24,Feminino,Email Marketing,B
+4768,56,Masculino,Meta Ads,B
+4769,18,Feminino,Google Ads,B
+4770,34,Masculino,Google Ads,A
+4771,60,Masculino,Google Ads,B
+4772,42,Masculino,Meta Ads,B
+4773,20,Feminino,Meta Ads,B
+4774,32,Masculino,Orgânico,B
+4775,46,Feminino,Meta Ads,A
+4776,60,Masculino,Email Marketing,A
+4777,49,Masculino,Meta Ads,B
+4778,43,Masculino,Orgânico,B
+4779,33,Masculino,Google Ads,B
+4780,42,Masculino,Orgânico,B
+4781,45,Masculino,Meta Ads,A
+4782,26,Feminino,Google Ads,A
+4783,18,Masculino,Google Ads,A
+4784,46,Feminino,Email Marketing,B
+4785,39,Masculino,Google Ads,B
+4786,33,Feminino,Meta Ads,A
+4787,58,Feminino,Google Ads,B
+4788,61,Masculino,Meta Ads,A
+4789,58,Masculino,Orgânico,A
+4790,24,Feminino,Google Ads,B
+4791,31,Feminino,Meta Ads,A
+4792,46,Masculino,Email Marketing,B
+4793,36,Masculino,Orgânico,B
+4794,36,Feminino,Orgânico,B
+4795,19,Masculino,Meta Ads,A
+4796,58,Feminino,Google Ads,A
+4797,62,Masculino,Meta Ads,B
+4798,32,Masculino,Orgânico,B
+4799,20,Feminino,Google Ads,B
+4800,28,Feminino,Google Ads,A
+4801,63,Masculino,Google Ads,A
+4802,47,Masculino,Meta Ads,B
+4803,57,Feminino,Orgânico,B
+4804,35,Feminino,Google Ads,A
+4805,19,Masculino,Meta Ads,A
+4806,49,Feminino,Email Marketing,B
+4807,25,Feminino,Google Ads,A
+4808,39,Feminino,Meta Ads,A
+4809,23,Feminino,Email Marketing,A
+4810,29,Masculino,Email Marketing,A
+4811,64,Feminino,Google Ads,B
+4812,57,Feminino,Google Ads,A
+4813,53,Masculino,Google Ads,A
+4814,32,Masculino,Orgânico,A
+4815,45,Masculino,Orgânico,A
+4816,62,Feminino,Meta Ads,B
+4817,35,Masculino,Google Ads,A
+4818,19,Feminino,Google Ads,B
+4819,30,Feminino,Meta Ads,A
+4820,62,Feminino,Meta Ads,A
+4821,32,Feminino,Orgânico,A
+4822,37,Outro,Meta Ads,A
+4823,46,Masculino,Google Ads,B
+4824,59,Feminino,Google Ads,A
+4825,46,Masculino,Google Ads,B
+4826,20,Feminino,Google Ads,A
+4827,36,Masculino,Google Ads,A
+4828,20,Outro,Google Ads,A
+4829,31,Feminino,Google Ads,B
+4830,57,Feminino,Google Ads,A
+4831,21,Masculino,Orgânico,A
+4832,28,Masculino,Google Ads,A
+4833,48,Feminino,Meta Ads,A
+4834,60,Masculino,Orgânico,B
+4835,49,Feminino,Meta Ads,B
+4836,44,Masculino,Email Marketing,B
+4837,47,Feminino,Google Ads,B
+4838,60,Masculino,Orgânico,B
+4839,19,Feminino,Email Marketing,A
+4840,26,Feminino,Orgânico,B
+4841,45,Masculino,Google Ads,A
+4842,48,Masculino,Google Ads,A
+4843,51,Masculino,Google Ads,B
+4844,32,Feminino,Meta Ads,B
+4845,42,Feminino,Orgânico,B
+4846,53,Feminino,Google Ads,B
+4847,25,Feminino,Meta Ads,A
+4848,26,Masculino,Meta Ads,A
+4849,54,Masculino,Meta Ads,A
+4850,62,Masculino,Orgânico,B
+4851,56,Masculino,Orgânico,B
+4852,49,Outro,Google Ads,A
+4853,34,Feminino,Meta Ads,A
+4854,52,Masculino,Google Ads,A
+4855,54,Feminino,Meta Ads,B
+4856,36,Feminino,Email Marketing,B
+4857,61,Masculino,Orgânico,A
+4858,46,Masculino,Meta Ads,B
+4859,24,Masculino,Google Ads,B
+4860,45,Feminino,Google Ads,A
+4861,26,Outro,Meta Ads,B
+4862,45,Feminino,Google Ads,A
+4863,23,Masculino,Meta Ads,A
+4864,46,Masculino,Google Ads,A
+4865,34,Feminino,Google Ads,B
+4866,33,Feminino,Google Ads,B
+4867,40,Feminino,Email Marketing,A
+4868,48,Feminino,Orgânico,B
+4869,20,Masculino,Google Ads,A
+4870,38,Feminino,Google Ads,B
+4871,43,Feminino,Meta Ads,B
+4872,53,Masculino,Google Ads,A
+4873,59,Feminino,Meta Ads,A
+4874,54,Masculino,Orgânico,B
+4875,39,Masculino,Meta Ads,A
+4876,59,Masculino,Meta Ads,B
+4877,29,Masculino,Meta Ads,B
+4878,59,Masculino,Email Marketing,B
+4879,30,Masculino,Email Marketing,A
+4880,28,Feminino,Meta Ads,A
+4881,33,Masculino,Google Ads,A
+4882,25,Masculino,Meta Ads,B
+4883,57,Masculino,Google Ads,A
+4884,57,Feminino,Meta Ads,A
+4885,62,Masculino,Meta Ads,B
+4886,19,Masculino,Google Ads,B
+4887,47,Feminino,Google Ads,A
+4888,47,Feminino,Meta Ads,B
+4889,29,Feminino,Orgânico,B
+4890,27,Feminino,Meta Ads,A
+4891,61,Masculino,Meta Ads,A
+4892,28,Feminino,Google Ads,B
+4893,32,Masculino,Meta Ads,B
+4894,33,Masculino,Meta Ads,A
+4895,34,Masculino,Meta Ads,A
+4896,43,Feminino,Google Ads,A
+4897,19,Masculino,Meta Ads,B
+4898,29,Feminino,Google Ads,A
+4899,43,Feminino,Google Ads,A
+4900,40,Masculino,Email Marketing,B
+4901,35,Feminino,Google Ads,B
+4902,49,Feminino,Google Ads,B
+4903,55,Feminino,Meta Ads,A
+4904,64,Masculino,Orgânico,A
+4905,20,Feminino,Meta Ads,A
+4906,55,Masculino,Orgânico,B
+4907,20,Feminino,Orgânico,B
+4908,47,Feminino,Google Ads,A
+4909,18,Masculino,Google Ads,A
+4910,47,Feminino,Google Ads,B
+4911,62,Feminino,Orgânico,B
+4912,49,Feminino,Google Ads,A
+4913,45,Masculino,Google Ads,B
+4914,38,Masculino,Meta Ads,B
+4915,63,Outro,Meta Ads,B
+4916,30,Feminino,Meta Ads,B
+4917,44,Feminino,Meta Ads,B
+4918,53,Masculino,Google Ads,B
+4919,24,Masculino,Meta Ads,B
+4920,39,Feminino,Meta Ads,A
+4921,27,Feminino,Email Marketing,A
+4922,56,Masculino,Google Ads,B
+4923,32,Feminino,Orgânico,B
+4924,32,Feminino,Meta Ads,B
+4925,21,Masculino,Google Ads,A
+4926,49,Masculino,Orgânico,B
+4927,40,Masculino,Google Ads,A
+4928,23,Feminino,Email Marketing,B
+4929,41,Masculino,Orgânico,A
+4930,37,Masculino,Google Ads,A
+4931,54,Feminino,Google Ads,A
+4932,37,Masculino,Google Ads,B
+4933,29,Masculino,Google Ads,A
+4934,50,Masculino,Google Ads,A
+4935,45,Feminino,Google Ads,A
+4936,25,Feminino,Meta Ads,A
+4937,18,Masculino,Google Ads,B
+4938,54,Feminino,Orgânico,A
+4939,39,Feminino,Orgânico,A
+4940,23,Masculino,Meta Ads,B
+4941,38,Masculino,Orgânico,B
+4942,49,Masculino,Google Ads,B
+4943,52,Masculino,Google Ads,B
+4944,32,Feminino,Meta Ads,B
+4945,22,Feminino,Meta Ads,A
+4946,63,Masculino,Meta Ads,B
+4947,23,Masculino,Orgânico,B
+4948,42,Masculino,Email Marketing,B
+4949,63,Feminino,Meta Ads,B
+4950,57,Masculino,Orgânico,B
+4951,46,Feminino,Google Ads,A
+4952,24,Masculino,Google Ads,A
+4953,57,Feminino,Orgânico,B
+4954,30,Feminino,Meta Ads,B
+4955,55,Masculino,Meta Ads,A
+4956,35,Feminino,Google Ads,B
+4957,19,Outro,Meta Ads,B
+4958,25,Masculino,Google Ads,A
+4959,28,Feminino,Meta Ads,B
+4960,50,Masculino,Google Ads,B
+4961,55,Feminino,Google Ads,A
+4962,44,Masculino,Google Ads,B
+4963,37,Feminino,Google Ads,A
+4964,29,Feminino,Orgânico,A
+4965,60,Feminino,Google Ads,A
+4966,48,Feminino,Google Ads,B
+4967,44,Feminino,Meta Ads,A
+4968,49,Masculino,Meta Ads,A
+4969,27,Feminino,Google Ads,B
+4970,20,Feminino,Google Ads,A
+4971,62,Feminino,Email Marketing,B
+4972,44,Feminino,Meta Ads,B
+4973,52,Feminino,Google Ads,B
+4974,48,Feminino,Meta Ads,B
+4975,32,Masculino,Google Ads,A
+4976,33,Masculino,Google Ads,A
+4977,30,Masculino,Meta Ads,B
+4978,52,Masculino,Orgânico,B
+4979,28,Feminino,Google Ads,A
+4980,38,Masculino,Orgânico,B
+4981,28,Masculino,Google Ads,A
+4982,47,Outro,Google Ads,B
+4983,52,Masculino,Google Ads,B
+4984,39,Masculino,Google Ads,B
+4985,55,Masculino,Email Marketing,B
+4986,48,Masculino,Meta Ads,B
+4987,31,Feminino,Google Ads,A
+4988,41,Feminino,Email Marketing,B
+4989,49,Feminino,Orgânico,B
+4990,53,Masculino,Orgânico,B
+4991,49,Feminino,Email Marketing,B
+4992,32,Masculino,Google Ads,A
+4993,60,Masculino,Orgânico,B
+4994,52,Masculino,Meta Ads,B
+4995,20,Masculino,Orgânico,A
+4996,33,Masculino,Orgânico,A
+4997,22,Masculino,Google Ads,B
+4998,38,Outro,Orgânico,A
+4999,27,Masculino,Google Ads,A
+5000,36,Masculino,Google Ads,A
