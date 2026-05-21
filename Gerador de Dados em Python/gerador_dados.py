@@ -9,7 +9,7 @@ num_sessoes = 15000
 
 print("Gerando dados de usuários...")
 
-# Gerar a tabela de usuários
+# Gerarando a tabela de usuários :)
 
 canais = ['Google Ads', 'Meta Ads', 'Orgânico', 'Email Marketing']
 variantes = ['A','B']
@@ -29,12 +29,12 @@ df_usuarios = pd.DataFrame({
 })
 print("Gerando dados das sessões de navegação...")
 
-# Gerar tabela: fato_sessoes
+# Gerarando a tabela de sessões de navegação :)
 
 sessoes_id = np.arange(1, num_sessoes + 1)
 usuarios_sessoes = np.random.choice(usuarios_id, size=num_sessoes)
 
-# Criação de datas aleatórias para as sessões
+# Criação de datas aleatórias para as sessões :)
 
 data_inicio = datetime(2026, 2, 1)
 datas_sessoes = [data_inicio + timedelta(days = int(np.random.randint(0, 30)),
@@ -48,7 +48,7 @@ df_sessoes = pd.DataFrame({
     'data_acesso': datas_sessoes
 })
 
-#Mapeamento da variante do usuário para a sessão para aplicar as probabilidades do Teste A/B
+#Mapeamento da variante do usuário para aplicar as probabilidades do Teste A/B na geração dos dados de conversão e valor gasto :)
 
 df_temp = df_sessoes.merge(df_usuarios[['id_usuario', 'variante_escolhida']], on = 'id_usuario', how = 'left')
 
