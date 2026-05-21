@@ -16,7 +16,7 @@ Este projeto simula o papel de um Analista de Dados atuando como ponte entre o t
 ## 2. Arquitetura e Ferramentas
 * **Python:** Utilizado para geração de dados sintéticos realistas e tratamento inicial (Bibliotecas: `pandas`, `numpy`).
 * **MySQL (v8.0+):** Banco de dados relacional utilizado para armazenamento, modelagem (Star Schema) e consultas avançadas utilizando Joins e CTEs.
-* **Ferramenta de BI (Metabase / Power BI / Looker):** *(Preencher depois)* Para visualização de dados e construção do dashboard de negócios.
+* **Power BI:** Para visualização de dados e construção do dashboard de negócios.
 
 ## 3. Desenvolvimento do código de Análise
 * Criei um pipeline onde o Python serve como uma camada de automação estatística. Ele puxa os dados limpos e agregados via query SQL do MySQL, isola as métricas de conversão e calcula dinamicamente o teste Qui-Quadrado de Independência através da biblioteca SciPy, gerando um veredito de negócio baseado em significância estatística, mitigando o risco de o time tomar decisões com base no achismo
