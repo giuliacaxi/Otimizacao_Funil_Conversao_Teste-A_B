@@ -1,5 +1,7 @@
 # Otimização do Funil de Conversão e Análise de Teste A/B 🚀
 
+**Observação**: Para rodar este projeto localmente, clone o repositório, crie um arquivo .env na raiz baseado no modelo .env.example e insira suas credenciais locais do MySQL.
+
 ## 1. Contexto de Negócio
 Este projeto simula o papel de um Analista de Dados atuando como ponte entre o time de Produto/Marketing e as soluções de dados da companhia. 
 
